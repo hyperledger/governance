@@ -2,7 +2,7 @@
 name: Transfer a repo to the Hyperledger GitHub org
 about: request repo transfer
 title: Transfer a repo
-labels: New Hyperledger Repo
+labels: repo-ops
 assignees: davidwboswell, ryjones, SeanBohan
 
 ---
