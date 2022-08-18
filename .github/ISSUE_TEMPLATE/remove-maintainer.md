@@ -1,8 +1,8 @@
 ---
 name: Remove a maintainer from a project
-about: request membership change
+about: request maintainer change for a project
 title: Remove a maintainer
-labels: New Hyperledger Member
+labels: Remove Maintainer
 assignees: davidwboswell, ryjones, SeanBohan
 
 ---
