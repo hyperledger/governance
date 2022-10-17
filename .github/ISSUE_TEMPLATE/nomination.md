@@ -1,6 +1,6 @@
 ---
 name: Nomination
-about: Suggest a nominee for this TSC
+about: Nominate yourself to run for the TOC
 title: "[NOMINATION]: Year and Name"
 labels: Election
 assignees: ''
@@ -11,13 +11,10 @@ assignees: ''
 
 ## Nominee Name
 <!--- Who is the nominee -->
-<!--- Provide their GitHub handle -->
-
-## Nominated By
-<!--- Who nominated this person -->
+<!--- Provide your GitHub handle -->
 
 ## Short Personal Bio
 <!--- Provide a short bio on the nominee -->
 
 ## Short Personal Pitch
-<!--- Provide why wishing to be a member of the TSC -->
+<!--- Provide why wishing to be a member of the TOC -->
