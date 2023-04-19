@@ -7,6 +7,8 @@ assignees: davidwboswell, ryjones, SeanBohan
 
 ---
 
+If you want to be able to assign bugs to someone, they only need **Read** access.
+
 Please include:
 
 * GitHub ID to add: 
