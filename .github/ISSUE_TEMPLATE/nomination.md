@@ -2,7 +2,7 @@
 name: Nomination
 about: Nominate yourself to run for the TOC
 title: "[NOMINATION]: Year and Name"
-labels: "Nomination 2022"
+labels: "Nomination 2023"
 assignees: ''
 
 ---
