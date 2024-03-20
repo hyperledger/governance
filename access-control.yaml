@@ -1,0 +1,2895 @@
+teams:
+- name: anoncreds-admins
+  maintainers:
+  - WadeBarnes
+  - andrewwhitehead
+  - swcurran
+  members:
+  - TimoGlastra
+  - mikelodder7
+- name: anoncreds-contributors
+  maintainers:
+  - swcurran
+  members:
+  - ArPhil
+  - TelegramSam
+  - dkulic
+  - victormartinez-work
+- name: anoncreds-maintainers
+  maintainers:
+  - swcurran
+  members:
+  - TelegramSam
+  - WadeBarnes
+  - andrewwhitehead
+  - berendsliedrecht
+  - dkulic
+  - genaris
+- name: anoncreds-spec-editors
+  maintainers:
+  - swcurran
+  members:
+  - ArPhil
+  - TelegramSam
+- name: anoncreds-spec-v2-editors
+  maintainers:
+  - swcurran
+  members:
+  - TelegramSam
+  - mikelodder7
+- name: anoncreds-v2-rs-maintainers
+  maintainers:
+  - mikelodder7
+  - swcurran
+  members:
+  - TimoGlastra
+  - WadeBarnes
+  - andrewwhitehead
+  - berendsliedrecht
+  - dkulic
+- name: aries-acapy-controllers-committers
+  maintainers:
+  - WadeBarnes
+  - swcurran
+  members:
+  - amanji
+  - esune
+- name: aries-acapy-plugin-toolbox-committers
+  maintainers:
+  - TelegramSam
+  - dbluhm
+  members:
+  - burdettadam
+  - cjhowland
+  - frostyfrog
+- name: aries-admins
+  maintainers:
+  - WadeBarnes
+  - dhh1128
+  members:
+  - TimoGlastra
+  - andrewwhitehead
+  - dbluhm
+  - swcurran
+- name: aries-agent-committers
+  maintainers:
+  - dhh1128
+  - nage
+- name: aries-agent-test-harness-committers
+  maintainers:
+  - WadeBarnes
+  - swcurran
+  members:
+  - TimoGlastra
+  - andrewwhitehead
+  - ianco
+  - nodlesh
+- name: aries-ams-postgres-committers
+  maintainers:
+  - dhh1128
+- name: aries-ams-sqlite-committers
+  maintainers:
+  - dhh1128
+- name: aries-askar-committers
+  maintainers:
+  - WadeBarnes
+  - andrewwhitehead
+  members:
+  - berendsliedrecht
+  - ianco
+- name: aries-bbs-go-maintainers
+  maintainers:
+  - ale-linux
+- name: aries-bbs-maintainers
+  maintainers:
+  - WadeBarnes
+  - andrewwhitehead
+  members:
+  - TimoGlastra
+  - berendsliedrecht
+  - mikelodder7
+  - swcurran
+- name: aries-builder-images-maintainers
+  maintainers:
+  - andrewwhitehead
+  members:
+  - TimoGlastra
+  - berendsliedrecht
+  - cvarjao
+  - jleach
+- name: aries-cloudagent-python-committers
+  maintainers:
+  - TelegramSam
+  - andrewwhitehead
+  - swcurran
+  members:
+  - TimoGlastra
+  - WadeBarnes
+  - dbluhm
+  - ianco
+  - jamshale
+- name: aries-committers
+  maintainers:
+  - dhh1128
+  - nage
+- name: aries-contributors
+  maintainers:
+  - TelegramSam
+  - WadeBarnes
+  - dhh1128
+  - nage
+  - swcurran
+  members:
+  - Jsyro
+  - aholovko
+  - auer-martin
+  - baha-ai
+  - dbluhm
+  - ianco
+  - jamshale
+  - rolsonquadras
+  - troyronda
+  - usingtechnology
+  - wadeking98
+- name: aries-core-committers
+  maintainers:
+  - dhh1128
+- name: aries-dri-peer-committers
+  maintainers:
+  - dhh1128
+- name: aries-endorser-service-admins
+  maintainers:
+  - WadeBarnes
+  - swcurran
+- name: aries-endorser-service-committers
+  maintainers:
+  - WadeBarnes
+  - swcurran
+  members:
+  - Gavinok
+  - esune
+  - ianco
+- name: aries-fabric-wrapper-maintainers
+  maintainers:
+  - swcurran
+- name: aries-framework-dotnet-committers
+  maintainers:
+  - tmarkovski
+  members:
+  - CHempel-esatus
+  - ntsbs
+  - tplooker
+- name: aries-framework-go-committers
+  maintainers:
+  - troyronda
+  members:
+  - fqutishat
+  - sudeshrshetty
+- name: aries-framework-go-ext-committers
+  maintainers:
+  - troyronda
+  members:
+  - fqutishat
+  - sudeshrshetty
+- name: aries-framework-go-triage
+  maintainers:
+  - baha-ai
+  - troyronda
+  members:
+  - Abdulbois
+  - DRK3
+  - HeidiHan0000
+  - aholovko
+  - ashcherbakov
+  - bstasyszyn
+  - fqutishat
+  - kgoncharov
+  - rolsonquadras
+  - sandrask
+  - sudeshrshetty
+  - vkubiv
+- name: aries-framework-javascript-committers
+  maintainers:
+  - TimoGlastra
+  - jakubkoci
+  members:
+  - JamesKEbert
+  - berendsliedrecht
+  - genaris
+  - janrxyz
+  - karimStekelenburg
+- name: aries-framework-kotlin-maintainers
+  maintainers:
+  - conanoc
+- name: aries-framework-swift-maintainers
+  maintainers:
+  - conanoc
+- name: aries-mediator-service-committers
+  maintainers:
+  - dbluhm
+  - reflectivedevelopment
+  members:
+  - JamesKEbert
+  - Jsyro
+  - WadeBarnes
+  - anwalker293
+  - jamshale
+- name: aries-mobile-agent-react-native-admins
+  maintainers:
+  - JamesKEbert
+  members:
+  - cvarjao
+- name: aries-mobile-agent-react-native-committers
+  maintainers:
+  - JamesKEbert
+  - jleach
+  members:
+  - MosCD3
+  - amanji
+  - bryce-mcmath
+  - cvarjao
+  - jcdrouin21
+  - ryankoch13
+  - thiagoromanos
+  - wadeking98
+- name: aries-mobileagent-xamarin-committers
+  maintainers:
+  - TelegramSam
+  - tplooker
+  members:
+  - horationunez
+  - natesulat
+- name: aries-protocol-test-suite-committers
+  maintainers:
+  - TelegramSam
+  - dbluhm
+  - smithbk
+  - tmarkovski
+  members:
+  - dhh1128
+  - jovfer
+- name: aries-rfc-committers
+  maintainers:
+  - dhh1128
+  - nage
+  - swcurran
+  members:
+  - TelegramSam
+  - llorllale
+  - talltree
+- name: aries-sdk-android-committers
+  maintainers:
+  - mikelodder7
+- name: aries-sdk-committers
+  maintainers:
+  - TelegramSam
+  - mac-arrap
+  - mikelodder7
+  members:
+  - Artemkaaas
+  - jovfer
+- name: aries-sdk-dotnet-committers
+  maintainers:
+  - tmarkovski
+- name: aries-sdk-java-committers
+  maintainers:
+  - dbluhm
+- name: aries-sdk-javascript-committers
+  maintainers:
+  - jakubkoci
+- name: aries-sdk-python-committers
+  maintainers:
+  - TelegramSam
+  members:
+  - andrewwhitehead
+- name: aries-sdk-ruby-committers
+  maintainers:
+  - johncallahan
+- name: aries-socketdock-committers
+  maintainers:
+  - frostyfrog
+  - mepeltier
+- name: aries-staticagent-python-committers
+  maintainers:
+  - TelegramSam
+  - dbluhm
+- name: aries-toolbox-committers
+  maintainers:
+  - TelegramSam
+  - dbluhm
+  members:
+  - burdettadam
+- name: aries-triage
+  maintainers:
+  - cvarjao
+  members:
+  - Gavinok
+  - Jsyro
+  - bryce-mcmath
+  - hiteshgh
+  - jamshale
+  - usingtechnology
+- name: aries-uniffi-wrappers-committers
+  maintainers:
+  - conanoc
+- name: aries-vcx-admins
+  maintainers:
+  - Patrik-Stas
+  members:
+  - mirgee
+  - xprazak2
+- name: aries-vcx-contributors
+  maintainers:
+  - Patrik-Stas
+  members:
+  - gmulhearn-anonyome
+  - mirgee
+  - nain-F49FF806
+  - niall-shaw
+  - swaptr
+  - xprazak2
+- name: aries-vcx-maintainers
+  maintainers:
+  - Patrik-Stas
+  members:
+  - gmulhearn
+  - mirgee
+  - nain-F49FF806
+  - xprazak2
+- name: aries-vdri-committers
+  maintainers:
+  - dhh1128
+- name: aries-wallet-maintainers
+  maintainers:
+  - mac-arrap
+- name: besu-admin
+  maintainers:
+  - fab-10
+  - garyschulte
+  - macfarla
+  - matkt
+  - shemnon
+  members:
+  - jflo
+  - jframe
+  - siladu
+- name: besu-contributors
+  maintainers:
+  - garyschulte
+  - jframe
+  - macfarla
+  - shemnon
+  members:
+  - NicolasMassart
+  - ajsutton
+  - atoulme
+  - bgravenorst
+  - gfukushima
+  - iamhsk
+  - joshuafernandes
+  - kkaur01
+  - lucassaldanha
+  - mark-terry
+  - matkt
+  - mbaxter
+  - pinges
+  - usmansaleem
+  - wcgcyx
+- name: besu-docs-maintainers
+  maintainers:
+  - bgravenorst
+  - joshuafernandes
+  members:
+  - alexandratran
+  - joaniefromtheblock
+- name: besu-maintainers
+  maintainers:
+  - fab-10
+  - garyschulte
+  - jframe
+  - macfarla
+  - shemnon
+  members:
+  - Gabriel-Trintinalia
+  - ahamlat
+  - ajsutton
+  - antonydenyer
+  - atoulme
+  - daniellehrner
+  - diega
+  - gezero
+  - gfukushima
+  - jflo
+  - joshuafernandes
+  - lucassaldanha
+  - matkt
+  - matthew1001
+  - mbaxter
+  - pinges
+  - siladu
+  - usmansaleem
+- name: besu-triage
+  maintainers:
+  - macfarla
+  - non-fungible-nelson
+  - shemnon
+  members:
+  - NickSneo
+  - ensi321
+  - gtebrean
+  - kkaur01
+  - matthew1001
+- name: bevel-admins
+  maintainers:
+  - sownak
+- name: bevel-committers
+  maintainers:
+  - arsulegai
+  - suvajit-sarkar
+  members:
+  - adityajoshi12
+  - jagpreetsinghsasan
+  - petermetz
+  - sownak
+  - weihong-ou
+- name: bevel-contributors
+  maintainers:
+  - petermetz
+  - sownak
+  members:
+  - adityajoshi12
+  - arsulegai
+  - dviejokfs
+  - jagpreetsinghsasan
+  - mgCepeda
+  - ravikiranjanjanam
+  - suvajit-sarkar
+  - weihong-ou
+- name: bevel-operator-fabric-admins
+  maintainers:
+  - dviejokfs
+- name: bevel-operator-fabric-committers
+  maintainers:
+  - dviejokfs
+  members:
+  - adityajoshi12
+- name: bevel-samples-admins
+  maintainers:
+  - suvajit-sarkar
+- name: bevel-triage
+  maintainers:
+  - jonathan-m-hamilton
+  members:
+  - ravikiranjanjanam
+  - suvajit-sarkar
+  - tkuhrt
+- name: cacti-contributors
+  maintainers:
+  - petermetz
+  members:
+  - AndreAugusto11
+  - RafaelAPB
+  - VattiPraveen
+  - outsidethecode
+  - rudranshsharma123
+- name: cacti-contributors-accenture
+  maintainers:
+  - petermetz
+  members:
+  - Leeyoungone
+  - TonyRowntree
+  - adrianbatuto
+  - aldousalvarez
+  - elenaizaguirre
+  - jagpreetsinghsasan
+  - johnhomantaring
+  - kikoncuo
+  - m-courtin
+  - ruzell22
+  - suvajit-sarkar
+  - travis-payne
+  - zondervancalvez
+- name: cacti-contributors-accenture-readonly
+  maintainers:
+  - petermetz
+- name: cacti-contributors-accenture-triage
+  maintainers:
+  - petermetz
+- name: cacti-maintainers
+  maintainers:
+  - jonathan-m-hamilton
+  - petermetz
+  members:
+  - RafaelAPB
+  - VRamakrishna
+  - izuru0
+  - outSH
+  - sandeepnRES
+  - sfuji822
+  - takeutak
+- name: cacti-security-administration
+  maintainers:
+  - petermetz
+  members:
+  - RafaelAPB
+  - VRamakrishna
+  - izuru0
+  - jagpreetsinghsasan
+  - outSH
+  - sandeepnRES
+  - takeutak
+- name: cactus-contributors-ibm-triage
+  maintainers:
+  - petermetz
+  members:
+  - VRamakrishna
+- name: caliper-admins
+  maintainers:
+  - aklenik
+- name: caliper-committers
+  maintainers:
+  - aklenik
+  - davidkel
+- name: cello-admins
+  maintainers:
+  - yeasy
+  members:
+  - fengyangsy
+  - xichen1
+  - zhuyuanmao
+- name: cello-analytics-maintainers
+  maintainers:
+  - yeasy
+  members:
+  - XuHugo
+- name: cello-contributors
+  maintainers:
+  - yeasy
+  members:
+  - XuHugo
+  - YUNGU23
+  - dexhunter
+  - fengyangsy
+  - haowenmvp
+  - tianxuanhong
+  - xiaor2
+  - xichen1
+  - zhuyuanmao
+- name: cello-maintainers
+  maintainers:
+  - yeasy
+  members:
+  - fengyangsy
+  - xichen1
+  - zhuyuanmao
+- name: fabric-admin-sdk-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - SamYuan1990
+  - bestbeforetoday
+  - channingduan
+  - davidkhala
+- name: fabric-admins
+  maintainers:
+  - denyeart
+  members:
+  - mbwhite
+- name: fabric-ca-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - bestbeforetoday
+  - jkneubuh
+- name: fabric-chaincode-java-maintainers
+  maintainers:
+  - denyeart
+  - mbwhite
+  members:
+  - C0rWin
+  - bestbeforetoday
+- name: fabric-chaincode-node-maintainers
+  maintainers:
+  - denyeart
+  - mbwhite
+  members:
+  - bestbeforetoday
+- name: fabric-cli-maintainers
+  maintainers:
+  - denyeart
+  - lehors
+  - troyronda
+- name: fabric-contract-api-go-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - bestbeforetoday
+  - mbwhite
+- name: fabric-contributors
+  maintainers:
+  - denyeart
+  members:
+  - cendhu
+  - hyperledger-github
+  - hyperledger-jira
+  - lehors
+  - liran-funaro
+  - manish-sethi
+  - mastersingh24
+  - rbuysse
+  - tock-ibm
+  - troyronda
+  - vaporos
+  - yeasy
+- name: fabric-core-doc-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - Param-S
+- name: fabric-core-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - C0rWin
+  - ale-linux
+  - andrew-coleman
+  - cendhu
+  - manish-sethi
+  - satota2
+  - tock-ibm
+  - yacovm
+- name: fabric-es-doc-maintainers
+  maintainers:
+  - mtnieto
+- name: fabric-gateway-java-maintainers
+  maintainers:
+  - andrew-coleman
+  - bestbeforetoday
+  - denyeart
+- name: fabric-gateway-maintainers
+  maintainers:
+  - andrew-coleman
+  - bestbeforetoday
+- name: fabric-it_it-doc-maintainers
+  maintainers:
+  - FabrizioPe
+  members:
+  - FrancescoUrbano
+  - PaoloUr
+  - riki95
+- name: fabric-ja_jp-doc-maintainers
+  maintainers:
+  - nekia
+  - nhoriguchi
+  - satomicchy
+  - satota2
+  members:
+  - Yanagist
+  - dnakashima
+  - e-maekawa
+  - naonishijima
+  - shimos
+  - tomo25
+  - yukiknd
+- name: fabric-ko_kr-doc-maintainers
+  maintainers:
+  - ryjones
+  members:
+  - justin-themedium
+- name: fabric-lib-go-maintainers
+  maintainers:
+  - denyeart
+- name: fabric-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - C0rWin
+  - ale-linux
+  - guoger
+  - manish-sethi
+  - yacovm
+- name: fabric-private-chaincode-committers
+  maintainers:
+  - bvavala
+  - mbrandenburger
+  members:
+  - munapower
+- name: fabric-pt_br-doc-maintainers
+  maintainers:
+  - rst77
+  members:
+  - caduellery
+  - mayktu
+  - pemtajo
+- name: fabric-release-maintainers
+  maintainers:
+  - denyeart
+- name: fabric-samples-maintainers
+  maintainers:
+  - denyeart
+  - lehors
+  - mbwhite
+  members:
+  - jkneubuh
+  - nikhil550
+  - satota2
+- name: fabric-sdk-go-maintainers
+  maintainers:
+  - denyeart
+  - mastersingh24
+  - troyronda
+  members:
+  - andrew-coleman
+  - bstasyszyn
+  - fqutishat
+- name: fabric-sdk-java-maintainers
+  maintainers:
+  - andrew-coleman
+  - bestbeforetoday
+  - denyeart
+  members:
+  - mastersingh24
+- name: fabric-sdk-node-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - andrew-coleman
+  - bestbeforetoday
+  - mastersingh24
+- name: fabric-sdk-py-maintainers
+  maintainers:
+  - denyeart
+  - yeasy
+  members:
+  - dexhunter
+- name: fabric-test-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - davidkel
+  - mbwhite
+  - suryalnvs
+- name: fabric-test-toolchain-maintainers
+  maintainers:
+  - denyeart
+  members:
+  - awjh
+  - mbwhite
+- name: fabric-ur-ur-maintainers
+  maintainers:
+  - ryjones
+  members:
+  - ibrahimq21
+- name: fabric-vi_vn-doc-maintainers
+  maintainers:
+  - tonybka
+- name: fabric-website-maintainers
+  maintainers:
+  - denyeart
+- name: fabric-zh_cn-doc-maintainers
+  maintainers:
+  - yeasy
+  members:
+  - davidkhala
+  - guoger
+  - stone-ch
+- name: firefly
+  maintainers:
+  - nguyer
+  members:
+  - eberger727
+  - hfuss
+- name: firefly-admins
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+- name: firefly-cli-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+- name: firefly-common-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+- name: firefly-contributors
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - Chengxuan
+  - EnriqueL8
+  - annamcallister
+  - awrichar
+  - eberger727
+  - gabriel-indik
+  - hfuss
+  - jimthematrix
+  - matthew1001
+  - nickgaski
+  - shorsher
+  - vdamle
+- name: firefly-cordaconnect-maintainers
+  maintainers:
+  - peterbroadhurst
+  members:
+  - jimthematrix
+- name: firefly-core-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - shorsher
+- name: firefly-dataexchange-https-maintainers
+  maintainers:
+  - peterbroadhurst
+  members:
+  - gabriel-indik
+- name: firefly-ethconnect-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - jimthematrix
+  - vdamle
+- name: firefly-evmconnect-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - Chengxuan
+  - awrichar
+  - matthew1001
+- name: firefly-fabconnect-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - jimthematrix
+  - vdamle
+- name: firefly-fir-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+- name: firefly-helm-charts-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - hfuss
+- name: firefly-perf-cli-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - eberger727
+  - shorsher
+- name: firefly-samples-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - shorsher
+- name: firefly-sandbox-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - eberger727
+  - shorsher
+- name: firefly-sdk-nodejs-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - eberger727
+- name: firefly-signer-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - vdamle
+- name: firefly-tezosconnect-maintainers
+  maintainers:
+  - nguyer
+  members:
+  - denisandreenko
+- name: firefly-tokens-erc1155-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - shorsher
+- name: firefly-tokens-erc20-erc721-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - eberger727
+  - shorsher
+- name: firefly-transaction-manager-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - Chengxuan
+  - awrichar
+- name: firefly-ui-maintainers
+  maintainers:
+  - nguyer
+  - peterbroadhurst
+  members:
+  - awrichar
+  - eberger727
+  - shorsher
+- name: hyperledger-contributors
+  maintainers:
+  - SeanBohan
+  - hartm
+  members:
+  - 6r1d
+  - AlexStroke
+  - Alexey-N-Chernyshov
+  - AntonKtrue
+  - Artemkaaas
+  - BulatSaif
+  - C0rWin
+  - CHempel-esatus
+  - CLEckhardt
+  - CaptainIRS
+  - Cre-eD
+  - DCNick3
+  - DRK3
+  - DavidClawson
+  - ERussel
+  - EnriqueL8
+  - Gabriel-Trintinalia
+  - HagarMeir
+  - JamesKEbert
+  - Leeyoungone
+  - MBoldyrev
+  - MayRosenbaum
+  - Mingela
+  - NB-MikeRichardson
+  - NicolasMassart
+  - Param-S
+  - Patrik-Stas
+  - QuentinI
+  - RatanRSur
+  - RyanLassigBanks
+  - SenchoPens
+  - TelegramSam
+  - TimoGlastra
+  - Toktar
+  - TomBarnes
+  - TonyRowntree
+  - VRamakrishna
+  - WadeBarnes
+  - XuHugo
+  - Yanagist
+  - adaagava
+  - adecaro
+  - adityajoshi12
+  - adrianbatuto
+  - agunde406
+  - aholovko
+  - ajsutton
+  - aklenik
+  - ale-linux
+  - amanji
+  - ameliabradley
+  - andrew-coleman
+  - andrewwhitehead
+  - antonydenyer
+  - arkadiPiven
+  - arsulegai
+  - askolesov
+  - atoulme
+  - auer-martin
+  - awadhana
+  - awjh
+  - baha-ai
+  - baziorek
+  - berendsliedrecht
+  - bestbeforetoday
+  - bgravenorst
+  - bobbi28
+  - brentzundel
+  - bstasyszyn
+  - burdettadam
+  - bvavala
+  - c2bo
+  - caduellery
+  - cendhu
+  - cianx
+  - conanoc
+  - coveralls
+  - cvarjao
+  - daniela-barbosa
+  - daniellehrner
+  - danintel
+  - davececchi
+  - davidkel
+  - davidkhala
+  - davidwboswell
+  - dbluhm
+  - dcmiddle
+  - denyeart
+  - desktophero
+  - dexhunter
+  - dhh1128
+  - diega
+  - dkulic
+  - dnakashima
+  - dnewh
+  - domwoe
+  - dshuffma-ibm
+  - dviejokfs
+  - elenaizaguirre
+  - esplinr
+  - evernym-gocd
+  - fab-10
+  - fqutishat
+  - fraVlaca
+  - frostyfrog
+  - garyschulte
+  - georgep9
+  - gezero
+  - gfukushima
+  - gmulhearn
+  - guoger
+  - hiteshgh
+  - horationunez
+  - iamhsk
+  - ianco
+  - iceseer
+  - igor-egorov
+  - isabeltomb
+  - izuru0
+  - jagpreetsinghsasan
+  - jakubkoci
+  - jcastrence
+  - jflo
+  - jframe
+  - jkneubuh
+  - jleach
+  - johncallahan
+  - jonathan-m-hamilton
+  - joshhus
+  - joshuafernandes
+  - jovfer
+  - jsmitchell
+  - jt-nti
+  - kamilsa
+  - karimStekelenburg
+  - kikoncuo
+  - kuvaldini
+  - lampkin-diet
+  - lebdron
+  - lehors
+  - lesleyannjordan
+  - lindluni
+  - liran-funaro
+  - llorllale
+  - lucassaldanha
+  - lynnbendixsen
+  - m-courtin
+  - m00sey
+  - mac-arrap
+  - macfarla
+  - manish-sethi
+  - manudrijvers
+  - mark-terry
+  - mastersingh24
+  - matkt
+  - mayktu
+  - mbaxter
+  - mbrandenburger
+  - mbwhite
+  - mikekebert
+  - mikelodder7
+  - mirgee
+  - mkdolan
+  - modbrin
+  - mtnieto
+  - nage
+  - naonishijima
+  - natesulat
+  - nekia
+  - nhoriguchi
+  - nicolapaoli
+  - nikhil550
+  - nikofebrianur
+  - nklincoln
+  - nkramer44
+  - nodlesh
+  - non-fungible-nelson
+  - ntsbs
+  - paulbastian
+  - peacekeeper
+  - pemtajo
+  - petermetz
+  - peterschwarz
+  - pfeairheller
+  - pinges
+  - rain-on
+  - rberg2
+  - rbuysse
+  - riki95
+  - rkharisov
+  - rojotek
+  - rolandtyler
+  - rolsonquadras
+  - rst77
+  - safinsaf
+  - sandeepnRES
+  - sandrask
+  - sapthasurendran
+  - satomicchy
+  - satota2
+  - sawtooth-build
+  - scealiontach
+  - sfuji822
+  - shannynalayna
+  - shemnon
+  - shimos
+  - siladu
+  - skhoroshavin
+  - smithbk
+  - sownak
+  - stefashkaa
+  - stone-ch
+  - sublimator
+  - sudeshrshetty
+  - suryalnvs
+  - swcurran
+  - swetharepakula
+  - takemiyamakoto
+  - takeutak
+  - talltree
+  - tianxuanhong
+  - timbeiko
+  - timofeevmd
+  - tkuhrt
+  - tkyonezu
+  - tmarkovski
+  - tock-ibm
+  - tomo25
+  - tonybka
+  - tplooker
+  - travis-payne
+  - troyronda
+  - udosson
+  - usmansaleem
+  - vaporos
+  - varadgit
+  - vimmerru
+  - vipinsun
+  - wadeking98
+  - wcgcyx
+  - weihong-ou
+  - wlahti
+  - xichen1
+  - yacovm
+  - yeasy
+  - yukiknd
+  - zhuyuanmao
+  - zickau
+- name: indy-admin
+  maintainers:
+  - WadeBarnes
+  - dhh1128
+  - esplinr
+  - nage
+  members:
+  - andrewwhitehead
+  - swcurran
+- name: indy-agent-maintainers
+  maintainers:
+  - nage
+  members:
+  - TelegramSam
+  - dbluhm
+- name: indy-besu-maintainers
+  maintainers:
+  - Artemkaaas
+  - ashcherbakov
+  members:
+  - Toktar
+- name: indy-ci
+  maintainers:
+  - nage
+  members:
+  - sovbot
+- name: indy-ci-maintainers
+  maintainers:
+  - dhh1128
+  - nage
+- name: indy-cli-rs-maintainers
+  maintainers:
+  - WadeBarnes
+  - swcurran
+  members:
+  - Artemkaaas
+  - andrewwhitehead
+  - ashcherbakov
+  - dhh1128
+  - esplinr
+  - nage
+- name: indy-common
+  maintainers:
+  - WadeBarnes
+  - dhh1128
+  - mikelodder7
+  - nage
+  members:
+  - Toktar
+  - askolesov
+  - brentzundel
+  - lampkin-diet
+  - pSchlarb
+  - udosson
+  - vimmerru
+- name: indy-cve
+  maintainers:
+  - hartm
+  - ryjones
+  members:
+  - PatStLouis
+  - PhilippeBourque
+  - ShakiraKaleel
+  - SylvainMartel
+  - TelegramSam
+  - WadeBarnes
+  - andrewwhitehead
+  - ashcherbakov
+  - brentzundel
+  - burdettadam
+  - cre8
+  - dbluhm
+  - dhh1128
+  - flihp27
+  - jovfer
+  - lynnbendixsen
+  - mac-arrap
+  - nage
+  - paulbastian
+  - pruneau628
+  - swcurran
+- name: indy-did-method-maintainers
+  maintainers:
+  - swcurran
+  members:
+  - dbluhm
+  - domwoe
+  - paulbastian
+- name: indy-did-network-maintainers
+  maintainers:
+  - WadeBarnes
+  - swcurran
+  members:
+  - Echsecutor
+  - lynnbendixsen
+- name: indy-dri-aries-committers
+  maintainers:
+  - dhh1128
+- name: indy-node-container-maintainers
+  maintainers:
+  - Echsecutor
+  - swcurran
+  - udosson
+  members:
+  - c2bo
+  - mgmgwi
+  - solidnerd
+  - zickau
+- name: indy-node-monitor-maintainers
+  maintainers:
+  - WadeBarnes
+  members:
+  - swcurran
+- name: indy-plenum-maintainers
+  maintainers:
+  - WadeBarnes
+  - andrewwhitehead
+  members:
+  - pSchlarb
+- name: indy-rfc-maintainers
+  maintainers:
+  - TelegramSam
+  members:
+  - dhh1128
+  - mikelodder7
+  - nage
+- name: indy-sdk-contributors
+  maintainers:
+  - dhh1128
+  - nage
+  members:
+  - Artemkaaas
+  - Patrik-Stas
+  - brentzundel
+  - jovfer
+  - mikelodder7
+  - mirgee
+  - peacekeeper
+  - vimmerru
+- name: indy-sdk-python-maintainers
+  maintainers:
+  - TelegramSam
+  - andrewwhitehead
+- name: indy-sdk-react-native-maintainers
+  maintainers:
+  - jakubkoci
+  members:
+  - TimoGlastra
+- name: indy-security
+  maintainers:
+  - ryjones
+  members:
+  - shakreiner
+- name: indy-shared-gha-maintainers
+  maintainers:
+  - WadeBarnes
+  members:
+  - pSchlarb
+  - udosson
+- name: indy-shared-rs-maintainers
+  maintainers:
+  - WadeBarnes
+  members:
+  - andrewwhitehead
+- name: indy-test-automation
+  maintainers:
+  - WadeBarnes
+  - dhh1128
+  - nage
+  members:
+  - Toktar
+  - askolesov
+  - lampkin-diet
+  - skhoroshavin
+  - swcurran
+  - vimmerru
+- name: indy-vdr-maintainers
+  maintainers:
+  - WadeBarnes
+  - swcurran
+  members:
+  - Artemkaaas
+  - TimoGlastra
+  - andrewwhitehead
+  - berendsliedrecht
+  - ianco
+- name: iroha-1-active-devs
+  maintainers:
+  - iceseer
+  - kuvaldini
+  members:
+  - kamilsa
+- name: iroha-admin
+  maintainers:
+  - 6r1d
+  - Cre-eD
+  - iceseer
+  - safinsaf
+  members:
+  - BAStos525
+  - dmitrivenger
+- name: iroha-contributors
+  maintainers:
+  - safinsaf
+  - takemiyamakoto
+  members:
+  - '0x009922'
+  - MBoldyrev
+  - SamHSmith
+  - WRRicht3r
+  - kamilsa
+  - modbrin
+  - mversic
+  - posplaw
+  - s8sato
+  - sorabot
+  - tkyonezu
+- name: iroha-crypto
+  maintainers:
+  - 6r1d
+- name: iroha-ios
+  maintainers:
+  - safinsaf
+  members:
+  - 6r1d
+  - ERussel
+  - Lavskiy
+  - nvzhu
+  - posplaw
+  - sorabot
+  - takemiyamakoto
+- name: iroha-java
+  maintainers:
+  - 6r1d
+  members:
+  - Asem-Abdelhady
+  - DCNick3
+  - VAmuzing
+  - adaagava
+  - arndey
+  - gv-timur
+  - horizenight
+  - maglighter
+  - orangeng
+  - rkharisov
+  - s8sato
+  - timofeevmd
+- name: iroha-java-admin
+  maintainers:
+  - mversic
+- name: iroha-javascript
+  maintainers:
+  - 6r1d
+  - Cre-eD
+  members:
+  - '0x009922'
+  - Arjentix
+  - Asem-Abdelhady
+  - BAStos525
+  - DCNick3
+  - Erigara
+  - Mingela
+  - QuentinI
+  - SamHSmith
+  - VAmuzing
+  - WRRicht3r
+  - arndey
+  - baziorek
+  - dmitrivenger
+  - f33r0
+  - gv-timur
+  - horizenight
+  - ilchu
+  - mversic
+  - orangeng
+  - outoftardis
+  - pesterev
+  - s8sato
+  - sorabot
+  - stefashkaa
+  - takemiyamakoto
+  - timofeevmd
+- name: iroha-maintainers
+  maintainers:
+  - 6r1d
+  - Cre-eD
+  - iceseer
+  members:
+  - '0x009922'
+  - AlexStroke
+  - AntonKtrue
+  - Arjentix
+  - Asem-Abdelhady
+  - BAStos525
+  - DCNick3
+  - Erigara
+  - MBoldyrev
+  - Mingela
+  - QuentinI
+  - Stukalov-A-M
+  - VAmuzing
+  - adaagava
+  - baziorek
+  - dmitrivenger
+  - horizenight
+  - ilchu
+  - kamilsa
+  - kuvaldini
+  - lebdron
+  - mversic
+  - orangeng
+  - outoftardis
+  - paul-cpp
+  - pesterev
+  - rkharisov
+  - s8sato
+  - takemiyamakoto
+  - timofeevmd
+  - tkyonezu
+  - yamkovoy
+- name: iroha-python
+  maintainers:
+  - 6r1d
+  - Cre-eD
+  - SamHSmith
+  members:
+  - Asem-Abdelhady
+  - DCNick3
+  - MBoldyrev
+  - QuentinI
+  - VAmuzing
+  - adaagava
+  - baziorek
+  - e-ivkov
+  - horizenight
+  - igor-egorov
+  - kuvaldini
+  - lebdron
+  - orangeng
+  - s8sato
+  - takemiyamakoto
+  - timofeevmd
+- name: iroha-rfc-maintainers
+  maintainers:
+  - 6r1d
+  members:
+  - '0x009922'
+  - AlexStroke
+  - Arjentix
+  - Asem-Abdelhady
+  - DCNick3
+  - Mingela
+  - VAmuzing
+  - WRRicht3r
+  - mversic
+  - outoftardis
+- name: iroha-tui-client-committers
+  maintainers:
+  - BulatSaif
+  - Cre-eD
+  members:
+  - igor-egorov
+  - lebdron
+- name: lf-employees
+  maintainers:
+  - MightyNerdEric
+  - SeanBohan
+  - askb
+  - bramwelt
+  - fabiopalumbo
+  - hartm
+  - jwagantall
+  - ryjones
+  - thelinuxfoundation
+  - tykeal
+  - vvalderrv
+  members:
+  - davidwboswell
+  - mkdolan
+- name: robots
+  maintainers:
+  - ryjones
+  members:
+  - coveralls
+  - hyperledger-bot
+  - hyperledger-ci
+  - hyperledger-github
+  - hyperledger-jira
+- name: security-alerts
+  maintainers:
+  - ryjones
+  members:
+  - lesleyannjordan
+- name: security-managers
+  maintainers:
+  - hartm
+  - ryjones
+- name: security-review
+  maintainers:
+  - ryjones
+  members:
+  - denyeart
+  - shemnon
+- name: solang-admins
+  maintainers:
+  - seanyoung
+- name: solang-aqd-committers
+  maintainers:
+  - tareknaser
+- name: solang-committers
+  maintainers:
+  - seanyoung
+  members:
+  - LucasSte
+  - salaheldinsoliman
+  - xermicus
+- name: solang-contributors
+  maintainers:
+  - LucasSte
+  members:
+  - salaheldinsoliman
+  - seanyoung
+  - tareknaser
+  - xermicus
+- name: toc
+  maintainers:
+  - tkuhrt
+  members:
+  - VRamakrishna
+  - arsulegai
+  - denyeart
+  - jimthematrix
+  - mbrandenburger
+  - non-fungible-nelson
+  - petermetz
+  - swcurran
+  - yacovm
+repositories:
+- name: .github
+  teams:
+    security-managers: read
+  visibility: public
+- name: anoncreds-clsignatures-rs
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: anoncreds-methods-registry
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: anoncreds-revocation
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-maintainers: maintain
+    anoncreds-spec-editors: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: anoncreds-rs
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: anoncreds-spec
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-maintainers: maintain
+    anoncreds-spec-editors: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: anoncreds-spec-v2
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-spec-v2-editors: maintain
+    security-managers: read
+  visibility: public
+- name: anoncreds-tex
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-maintainers: maintain
+    anoncreds-spec-editors: triage
+    anoncreds-spec-v2-editors: triage
+    anoncreds-v2-rs-maintainers: triage
+    security-managers: read
+  visibility: public
+- name: anoncreds-v2-rs
+  teams:
+    anoncreds-admins: admin
+    anoncreds-contributors: read
+    anoncreds-v2-rs-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: aries
+  teams:
+    aries-acapy-controllers-committers: maintain
+    aries-admins: admin
+    aries-ams-postgres-committers: maintain
+    aries-ams-sqlite-committers: maintain
+    aries-committers: maintain
+    aries-contributors: read
+    aries-core-committers: maintain
+    aries-framework-go-ext-committers: read
+    aries-triage: triage
+    aries-vcx-admins: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-acapy-controllers
+  teams:
+    aries-acapy-controllers-committers: maintain
+    aries-admins: admin
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-acapy-docs
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: maintain
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-acapy-plugins
+  collaborators:
+    amanji: maintain
+    chumbert: maintain
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: maintain
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+  visibility: public
+- name: aries-acapy-tools
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: maintain
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-agent-test-harness
+  teams:
+    aries-admins: admin
+    aries-agent-test-harness-committers: maintain
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-akrida
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: write
+    aries-contributors: triage
+    aries-fabric-wrapper-maintainers: triage
+    aries-framework-go-committers: triage
+    aries-framework-go-ext-committers: triage
+    aries-framework-go-triage: triage
+    aries-framework-javascript-committers: write
+    aries-mediator-service-committers: write
+    aries-mobile-agent-react-native-committers: triage
+    aries-protocol-test-suite-committers: triage
+    aries-sdk-dotnet-committers: triage
+    aries-sdk-javascript-committers: triage
+    aries-toolbox-committers: triage
+    aries-triage: triage
+    aries-wallet-maintainers: triage
+    security-managers: read
+  visibility: public
+- name: aries-askar
+  teams:
+    aries-acapy-controllers-committers: maintain
+    aries-admins: admin
+    aries-ams-postgres-committers: maintain
+    aries-ams-sqlite-committers: maintain
+    aries-askar-committers: maintain
+    aries-committers: maintain
+    aries-contributors: read
+    aries-core-committers: maintain
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-bbs-go
+  teams:
+    aries-admins: admin
+    aries-bbs-go-maintainers: admin
+    aries-bbs-maintainers: maintain
+    aries-framework-go-committers: maintain
+    aries-triage: triage
+    fabric-admins: write
+    fabric-core-maintainers: write
+    fabric-maintainers: write
+    fabric-release-maintainers: write
+    fabric-sdk-go-maintainers: write
+    security-managers: read
+  visibility: public
+- name: aries-bbssignatures-rs
+  teams:
+    aries-admins: admin
+    aries-bbs-maintainers: admin
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+  visibility: public
+- name: aries-builder-images
+  teams:
+    aries-admins: admin
+    aries-builder-images-maintainers: admin
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+  visibility: public
+- name: aries-cloudagent-loadgenerator
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: maintain
+    aries-contributors: read
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-cloudagent-python
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: maintain
+    aries-contributors: read
+    aries-framework-go-ext-committers: read
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-endorser-service
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-endorser-service-admins: admin
+    aries-endorser-service-committers: maintain
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-framework-go
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-framework-go-committers: admin
+    aries-framework-go-ext-committers: read
+    aries-framework-go-triage: triage
+    aries-triage: triage
+    robots: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-framework-go-ext
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-framework-go-ext-committers: maintain
+    aries-framework-go-triage: triage
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-framework-kotlin
+  teams:
+    aries-admins: admin
+    aries-framework-kotlin-maintainers: maintain
+    aries-triage: triage
+    security-managers: read
+  visibility: public
+- name: aries-framework-swift
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-framework-swift-maintainers: maintain
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-mediator-service
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-mediator-service-committers: maintain
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-mobile-agent-xamarin
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-framework-dotnet-committers: admin
+    aries-mobileagent-xamarin-committers: admin
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-rfcs
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-framework-go-ext-committers: read
+    aries-rfc-committers: admin
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-socketdock
+  teams:
+    aries-admins: admin
+    aries-cloudagent-python-committers: write
+    aries-contributors: triage
+    aries-fabric-wrapper-maintainers: triage
+    aries-framework-go-committers: triage
+    aries-framework-go-triage: triage
+    aries-framework-javascript-committers: write
+    aries-mobile-agent-react-native-committers: triage
+    aries-protocol-test-suite-committers: triage
+    aries-sdk-dotnet-committers: triage
+    aries-sdk-javascript-committers: triage
+    aries-socketdock-committers: maintain
+    aries-toolbox-committers: triage
+    aries-triage: triage
+    aries-wallet-maintainers: triage
+    security-managers: read
+  visibility: public
+- name: aries-staticagent-python
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-framework-go-ext-committers: read
+    aries-staticagent-python-committers: admin
+    aries-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: aries-uniffi-wrappers
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-triage: triage
+    aries-uniffi-wrappers-committers: maintain
+    security-managers: read
+  visibility: public
+- name: aries-vcx
+  teams:
+    aries-admins: admin
+    aries-contributors: read
+    aries-triage: triage
+    aries-vcx-admins: admin
+    aries-vcx-contributors: write
+    aries-vcx-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: besu
+  teams:
+    besu-admin: admin
+    besu-contributors: triage
+    besu-docs-maintainers: triage
+    besu-maintainers: maintain
+    besu-triage: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: besu-docs
+  collaborators:
+    MadelineMurray: write
+  teams:
+    besu-admin: admin
+    besu-contributors: triage
+    besu-docs-maintainers: admin
+    besu-maintainers: triage
+    besu-triage: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: besu-errorprone-checks
+  teams:
+    besu-admin: admin
+    besu-contributors: read
+    besu-docs-maintainers: read
+    besu-maintainers: maintain
+    besu-triage: read
+    security-managers: read
+  visibility: public
+- name: besu-native
+  teams:
+    besu-admin: admin
+    besu-contributors: triage
+    besu-docs-maintainers: triage
+    besu-maintainers: maintain
+    besu-triage: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: besu-verkle-trie
+  teams:
+    besu-admin: admin
+    besu-contributors: triage
+    besu-docs-maintainers: triage
+    besu-maintainers: maintain
+    besu-triage: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: bevel
+  teams:
+    bevel-admins: admin
+    bevel-committers: maintain
+    bevel-contributors: read
+    bevel-operator-fabric-admins: read
+    bevel-operator-fabric-committers: read
+    bevel-samples-admins: admin
+    bevel-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: bevel-operator-fabric
+  teams:
+    bevel-admins: admin
+    bevel-committers: maintain
+    bevel-contributors: read
+    bevel-operator-fabric-admins: admin
+    bevel-operator-fabric-committers: maintain
+    bevel-samples-admins: admin
+    bevel-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: bevel-samples
+  teams:
+    bevel-admins: admin
+    bevel-committers: write
+    bevel-contributors: read
+    bevel-operator-fabric-admins: read
+    bevel-operator-fabric-committers: read
+    bevel-samples-admins: admin
+    bevel-triage: triage
+    security-managers: read
+    toc: read
+  visibility: public
+- name: cacti
+  teams:
+    cacti-contributors: read
+    cacti-contributors-accenture: read
+    cacti-contributors-accenture-readonly: read
+    cacti-contributors-accenture-triage: triage
+    cacti-maintainers: maintain
+    cacti-security-administration: admin
+    cactus-contributors-ibm-triage: triage
+    robots: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: caliper
+  teams:
+    caliper-admins: admin
+    caliper-committers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: caliper-benchmarks
+  teams:
+    caliper-admins: admin
+    caliper-committers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: cello
+  teams:
+    cello-admins: admin
+    cello-analytics-maintainers: write
+    cello-contributors: write
+    cello-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric
+  collaborators:
+    joshhus: triage
+  teams:
+    fabric-admins: admin
+    fabric-core-doc-maintainers: write
+    fabric-core-maintainers: admin
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-admin-sdk
+  teams:
+    fabric-admin-sdk-maintainers: admin
+    fabric-admins: admin
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-amcl
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: admin
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-ca
+  teams:
+    fabric-admins: admin
+    fabric-ca-maintainers: maintain
+    fabric-core-doc-maintainers: write
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-chaincode-go
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-chaincode-java
+  teams:
+    fabric-admins: admin
+    fabric-chaincode-java-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-chaincode-node
+  teams:
+    fabric-admins: admin
+    fabric-chaincode-node-maintainers: admin
+    fabric-release-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-cli
+  teams:
+    fabric-admins: admin
+    fabric-cli-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-config
+  teams:
+    fabric-admins: admin
+    fabric-core-doc-maintainers: write
+    fabric-core-maintainers: admin
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-contract-api-go
+  teams:
+    fabric-admins: admin
+    fabric-contract-api-go-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-alerts: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-docs-i18n
+  teams:
+    fabric-admins: admin
+    fabric-core-doc-maintainers: maintain
+    fabric-core-maintainers: maintain
+    fabric-es-doc-maintainers: maintain
+    fabric-it_it-doc-maintainers: maintain
+    fabric-ja_jp-doc-maintainers: maintain
+    fabric-ko_kr-doc-maintainers: write
+    fabric-pt_br-doc-maintainers: maintain
+    fabric-release-maintainers: maintain
+    fabric-ur-ur-maintainers: write
+    fabric-vi_vn-doc-maintainers: maintain
+    fabric-zh_cn-doc-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-gateway
+  teams:
+    fabric-admins: admin
+    fabric-gateway-maintainers: admin
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-gateway-java
+  teams:
+    fabric-admins: admin
+    fabric-gateway-java-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-lib-go
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-lib-go-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-private-chaincode
+  teams:
+    fabric-admins: admin
+    fabric-private-chaincode-committers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-protos
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-protos-go
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-protos-go-apiv2
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-rfcs
+  collaborators:
+    satota2: maintain
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-release-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-samples
+  teams:
+    fabric-admins: admin
+    fabric-release-maintainers: maintain
+    fabric-samples-maintainers: admin
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-sdk-go
+  teams:
+    fabric-admins: admin
+    fabric-release-maintainers: maintain
+    fabric-sdk-go-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-sdk-java
+  teams:
+    fabric-admins: admin
+    fabric-release-maintainers: maintain
+    fabric-sdk-java-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-sdk-node
+  teams:
+    fabric-admins: admin
+    fabric-release-maintainers: maintain
+    fabric-sdk-node-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-sdk-py
+  teams:
+    fabric-admins: admin
+    fabric-core-maintainers: maintain
+    fabric-release-maintainers: maintain
+    fabric-sdk-py-maintainers: maintain
+    security-alerts: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: fabric-test
+  teams:
+    fabric-admins: admin
+    fabric-release-maintainers: maintain
+    fabric-test-maintainers: maintain
+    fabric-test-toolchain-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-core-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-cli
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-cli-maintainers: maintain
+    firefly-contributors: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-common
+  teams:
+    firefly-admins: admin
+    firefly-common-maintainers: maintain
+    firefly-contributors: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-cordaconnect
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-cordaconnect-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-dataexchange-https
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-dataexchange-https-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-ethconnect
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-ethconnect-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-evmconnect
+  teams:
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-evmconnect-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-fabconnect
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-fabconnect-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-fir
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-fir-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-helm-charts
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-helm-charts-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-perf-cli
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-perf-cli-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-samples
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-samples-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-sandbox
+  teams:
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-sandbox-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-sdk-nodejs
+  teams:
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-sdk-nodejs-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-signer
+  teams:
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-signer-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-tezosconnect
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-tezosconnect-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: firefly-tokens-erc1155
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-tokens-erc1155-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-tokens-erc20-erc721
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-tokens-erc20-erc721-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-transaction-manager
+  teams:
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-transaction-manager-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: firefly-ui
+  teams:
+    firefly: read
+    firefly-admins: admin
+    firefly-contributors: read
+    firefly-ui-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: governance
+  teams:
+    security-managers: read
+    toc: write
+  visibility: public
+- name: homebrew-besu
+  teams:
+    besu-admin: admin
+    besu-contributors: triage
+    besu-docs-maintainers: triage
+    besu-maintainers: maintain
+    besu-triage: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: homebrew-solang
+  teams:
+    security-managers: read
+    solang-admins: admin
+    solang-committers: maintain
+    solang-contributors: read
+    toc: read
+  visibility: public
+- name: hyperledger-hip
+  teams:
+    security-managers: read
+    toc: maintain
+  visibility: public
+- name: hyperledger.dev
+  teams:
+    security-managers: read
+  visibility: public
+- name: hyperledger.github.io
+  teams:
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-besu
+  collaborators:
+    akarabashov: admin
+  teams:
+    indy-admin: admin
+    indy-agent-maintainers: write
+    indy-besu-maintainers: admin
+    indy-ci: write
+    indy-ci-maintainers: write
+    indy-cli-rs-maintainers: write
+    indy-common: write
+    indy-did-method-maintainers: write
+    indy-did-network-maintainers: write
+    indy-node-container-maintainers: write
+    indy-node-monitor-maintainers: write
+    indy-plenum-maintainers: write
+    indy-rfc-maintainers: write
+    indy-sdk-contributors: write
+    indy-sdk-python-maintainers: write
+    indy-sdk-react-native-maintainers: write
+    indy-shared-gha-maintainers: write
+    indy-shared-rs-maintainers: write
+    indy-test-automation: write
+    indy-vdr-maintainers: write
+    security-managers: read
+  visibility: public
+- name: indy-bls-wrapper-python
+  teams:
+    indy-admin: admin
+    indy-vdr-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: indy-blssignatures-rs
+  teams:
+    indy-admin: admin
+    indy-plenum-maintainers: maintain
+    indy-vdr-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: indy-cli-rs
+  teams:
+    indy-admin: admin
+    indy-cli-rs-maintainers: maintain
+    indy-common: read
+    security-managers: read
+  visibility: public
+- name: indy-did-method
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-did-method-maintainers: admin
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-did-networks
+  teams:
+    indy-did-network-maintainers: admin
+    security-managers: read
+  visibility: public
+- name: indy-docs
+  teams:
+    indy-admin: admin
+    indy-ci: write
+    indy-common: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-hipe
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-rfc-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-node
+  collaborators:
+    pSchlarb: maintain
+  teams:
+    indy-admin: admin
+    indy-agent-maintainers: maintain
+    indy-besu-maintainers: maintain
+    indy-ci: maintain
+    indy-ci-maintainers: maintain
+    indy-cli-rs-maintainers: maintain
+    indy-common: maintain
+    indy-cve: read
+    indy-did-method-maintainers: maintain
+    indy-did-network-maintainers: maintain
+    indy-node-container-maintainers: maintain
+    indy-node-monitor-maintainers: maintain
+    indy-plenum-maintainers: maintain
+    indy-rfc-maintainers: maintain
+    indy-sdk-contributors: maintain
+    indy-sdk-python-maintainers: maintain
+    indy-sdk-react-native-maintainers: maintain
+    indy-shared-gha-maintainers: maintain
+    indy-shared-rs-maintainers: maintain
+    indy-test-automation: maintain
+    indy-vdr-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-node-container
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-node-container-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-node-monitor
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-node-monitor-maintainers: maintain
+    indy-shared-rs-maintainers: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-plenum
+  collaborators:
+    pSchlarb: maintain
+  teams:
+    indy-admin: admin
+    indy-agent-maintainers: maintain
+    indy-besu-maintainers: maintain
+    indy-ci: maintain
+    indy-ci-maintainers: maintain
+    indy-cli-rs-maintainers: maintain
+    indy-common: maintain
+    indy-did-method-maintainers: maintain
+    indy-did-network-maintainers: maintain
+    indy-node-container-maintainers: maintain
+    indy-node-monitor-maintainers: maintain
+    indy-plenum-maintainers: maintain
+    indy-rfc-maintainers: maintain
+    indy-sdk-contributors: maintain
+    indy-sdk-python-maintainers: maintain
+    indy-sdk-react-native-maintainers: maintain
+    indy-shared-gha-maintainers: maintain
+    indy-shared-rs-maintainers: maintain
+    indy-test-automation: maintain
+    indy-vdr-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-poc
+  collaborators:
+    regiseloi-idlab: write
+  teams:
+    indy-cve: write
+    security-managers: read
+  visibility: private
+- name: indy-shared-gha
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-shared-gha-maintainers: admin
+    security-managers: read
+  visibility: public
+- name: indy-shared-rs
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-shared-rs-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-test-automation
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-test-automation: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: indy-vdr
+  teams:
+    indy-admin: admin
+    indy-common: read
+    indy-shared-rs-maintainers: read
+    indy-vdr-maintainers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha
+  collaborators:
+    coveralls: write
+    sorabot: admin
+  teams:
+    iroha-1-active-devs: maintain
+    iroha-admin: admin
+    iroha-contributors: maintain
+    iroha-crypto: maintain
+    iroha-ios: maintain
+    iroha-java: maintain
+    iroha-java-admin: maintain
+    iroha-javascript: maintain
+    iroha-maintainers: maintain
+    iroha-python: maintain
+    iroha-rfc-maintainers: maintain
+    iroha-tui-client-committers: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-2-docs
+  collaborators:
+    sorabot: write
+  teams:
+    iroha-1-active-devs: maintain
+    iroha-admin: admin
+    iroha-contributors: write
+    iroha-crypto: maintain
+    iroha-ios: write
+    iroha-java: write
+    iroha-java-admin: write
+    iroha-javascript: write
+    iroha-maintainers: maintain
+    iroha-python: write
+    iroha-rfc-maintainers: write
+    iroha-tui-client-committers: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-2-examples
+  teams:
+    iroha-admin: maintain
+    iroha-crypto: maintain
+    iroha-maintainers: maintain
+    security-managers: read
+  visibility: public
+- name: iroha-deploy
+  teams:
+    iroha-admin: admin
+    iroha-crypto: write
+    iroha-maintainers: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-ed25519
+  teams:
+    iroha-admin: admin
+    iroha-crypto: write
+    iroha-maintainers: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-ios
+  teams:
+    iroha-admin: admin
+    iroha-ios: maintain
+    security-managers: read
+  visibility: public
+- name: iroha-java
+  teams:
+    iroha-admin: admin
+    iroha-crypto: write
+    iroha-java: write
+    iroha-java-admin: admin
+    iroha-maintainers: write
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-javascript
+  teams:
+    iroha-admin: admin
+    iroha-crypto: read
+    iroha-javascript: write
+    iroha-maintainers: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-news
+  teams:
+    iroha-admin: admin
+    iroha-crypto: admin
+    iroha-maintainers: admin
+    security-managers: read
+  visibility: public
+- name: iroha-python
+  collaborators:
+    6r1d: admin
+  teams:
+    iroha-admin: admin
+    iroha-maintainers: read
+    iroha-python: maintain
+    security-managers: read
+    toc: read
+  visibility: public
+- name: iroha-rfcs
+  teams:
+    iroha-admin: maintain
+    iroha-crypto: maintain
+    iroha-maintainers: maintain
+    iroha-rfc-maintainers: write
+    security-managers: read
+  visibility: public
+- name: solang
+  collaborators:
+    joncinque: triage
+    seanyoung: admin
+    xermicus: admin
+  teams:
+    security-managers: read
+    solang-admins: admin
+    solang-committers: maintain
+    solang-contributors: read
+  visibility: public
+- name: solang-aqd
+  teams:
+    security-managers: read
+    solang-admins: admin
+    solang-aqd-committers: maintain
+    solang-committers: maintain
+    solang-contributors: read
+  visibility: public
+- name: solang-llvm
+  teams:
+    security-managers: read
+    solang-admins: admin
+    solang-committers: maintain
+    solang-contributors: read
+  visibility: public
+- name: solang-substrate-ci
+  teams:
+    security-managers: read
+    solang-admins: admin
+    solang-committers: maintain
+    solang-contributors: read
+  visibility: public
+- name: toc
+  teams:
+    security-managers: read
+    security-review: triage
+    toc: maintain
+  visibility: public
+- name: toc-docs
+  teams:
+    security-managers: read
+  visibility: public
+- name: vectors
+  collaborators:
+    fab-10: admin
+    garyschulte: admin
+    jflo: admin
+    matkt: admin
+    shemnon: admin
+  teams:
+    security-managers: read
+  visibility: private
