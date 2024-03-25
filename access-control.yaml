@@ -656,9 +656,6 @@ teams:
   - satota2
   - tock-ibm
   - yacovm
-- name: fabric-es-doc-maintainers
-  maintainers:
-  - mtnieto
 - name: fabric-gateway-java-maintainers
   maintainers:
   - andrew-coleman
@@ -682,12 +679,10 @@ teams:
   - satomicchy
   - satota2
   members:
-  - Yanagist
   - dnakashima
   - e-maekawa
   - naonishijima
   - shimos
-  - tomo25
   - yukiknd
 - name: fabric-ko_kr-doc-maintainers
   maintainers:
@@ -1920,7 +1915,6 @@ repositories:
     fabric-admins: admin
     fabric-core-doc-maintainers: maintain
     fabric-core-maintainers: maintain
-    fabric-es-doc-maintainers: maintain
     fabric-it_it-doc-maintainers: maintain
     fabric-ja_jp-doc-maintainers: maintain
     fabric-ko_kr-doc-maintainers: write
