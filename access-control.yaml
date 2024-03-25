@@ -630,8 +630,6 @@ teams:
   - denyeart
   members:
   - cendhu
-  - hyperledger-github
-  - hyperledger-jira
   - lehors
   - liran-funaro
   - manish-sethi
@@ -1059,7 +1057,6 @@ teams:
   - dviejokfs
   - elenaizaguirre
   - esplinr
-  - evernym-gocd
   - fab-10
   - fqutishat
   - fraVlaca
