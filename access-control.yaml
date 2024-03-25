@@ -1262,32 +1262,6 @@ teams:
   - pSchlarb
   - udosson
   - vimmerru
-- name: indy-cve
-  maintainers:
-  - hartm
-  - ryjones
-  members:
-  - PatStLouis
-  - PhilippeBourque
-  - ShakiraKaleel
-  - SylvainMartel
-  - TelegramSam
-  - WadeBarnes
-  - andrewwhitehead
-  - ashcherbakov
-  - brentzundel
-  - burdettadam
-  - cre8
-  - dbluhm
-  - dhh1128
-  - flihp27
-  - jovfer
-  - lynnbendixsen
-  - mac-arrap
-  - nage
-  - paulbastian
-  - pruneau628
-  - swcurran
 - name: indy-did-method-maintainers
   maintainers:
   - swcurran
@@ -2628,7 +2602,6 @@ repositories:
     indy-ci-maintainers: maintain
     indy-cli-rs-maintainers: maintain
     indy-common: maintain
-    indy-cve: read
     indy-did-method-maintainers: maintain
     indy-did-network-maintainers: maintain
     indy-node-container-maintainers: maintain
@@ -2689,13 +2662,6 @@ repositories:
     security-managers: read
     toc: read
   visibility: public
-- name: indy-poc
-  collaborators:
-    regiseloi-idlab: write
-  teams:
-    indy-cve: write
-    security-managers: read
-  visibility: private
 - name: indy-shared-gha
   teams:
     indy-admin: admin
