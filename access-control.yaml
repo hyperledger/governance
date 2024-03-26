@@ -1567,15 +1567,6 @@ repositories:
     aries-triage: triage
     security-managers: read
   visibility: public
-- name: aries-cloudagent-loadgenerator
-  teams:
-    aries-admins: admin
-    aries-cloudagent-python-committers: maintain
-    aries-contributors: read
-    aries-triage: triage
-    security-managers: read
-    toc: read
-  visibility: public
 - name: aries-cloudagent-python
   teams:
     aries-admins: admin
