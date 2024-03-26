@@ -615,7 +615,6 @@ teams:
 - name: fabric-cli-maintainers
   maintainers:
   - denyeart
-  - lehors
   - troyronda
 - name: fabric-contract-api-go-maintainers
   maintainers:
@@ -628,7 +627,6 @@ teams:
   - denyeart
   members:
   - cendhu
-  - lehors
   - liran-funaro
   - manish-sethi
   - mastersingh24
@@ -722,7 +720,6 @@ teams:
 - name: fabric-samples-maintainers
   maintainers:
   - denyeart
-  - lehors
   - mbwhite
   members:
   - jkneubuh
