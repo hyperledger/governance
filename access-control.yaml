@@ -127,6 +127,8 @@ teams:
   members:
   - TimoGlastra
   - WadeBarnes
+  - amanji
+  - chumbert
   - dbluhm
   - ianco
   - jamshale
@@ -436,6 +438,7 @@ teams:
   - non-fungible-nelson
   - shemnon
   members:
+  - MadelineMurray
   - NickSneo
   - ensi321
   - gtebrean
@@ -968,6 +971,7 @@ teams:
   - Artemkaaas
   - ashcherbakov
   members:
+  - akarabashov
   - Toktar
 - name: indy-ci
   maintainers:
@@ -1464,9 +1468,6 @@ repositories:
     toc: read
   visibility: public
 - name: aries-acapy-plugins
-  collaborators:
-    amanji: maintain
-    chumbert: maintain
   teams:
     aries-admins: admin
     aries-cloudagent-python-committers: maintain
@@ -1711,8 +1712,6 @@ repositories:
     toc: read
   visibility: public
 - name: besu-docs
-  collaborators:
-    MadelineMurray: write
   teams:
     besu-admin: admin
     besu-contributors: triage
@@ -2258,8 +2257,6 @@ repositories:
     toc: read
   visibility: public
 - name: indy-besu
-  collaborators:
-    akarabashov: admin
   teams:
     indy-admin: admin
     indy-agent-maintainers: write
