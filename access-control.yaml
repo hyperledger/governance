@@ -256,13 +256,6 @@ teams:
   - ryankoch13
   - thiagoromanos
   - wadeking98
-- name: aries-mobileagent-xamarin-committers
-  maintainers:
-  - TelegramSam
-  - tplooker
-  members:
-  - horationunez
-  - natesulat
 - name: aries-protocol-test-suite-committers
   maintainers:
   - TelegramSam
@@ -1646,16 +1639,6 @@ repositories:
     aries-admins: admin
     aries-contributors: read
     aries-mediator-service-committers: maintain
-    aries-triage: triage
-    security-managers: read
-    toc: read
-  visibility: public
-- name: aries-mobile-agent-xamarin
-  teams:
-    aries-admins: admin
-    aries-contributors: read
-    aries-framework-dotnet-committers: admin
-    aries-mobileagent-xamarin-committers: admin
     aries-triage: triage
     security-managers: read
     toc: read
