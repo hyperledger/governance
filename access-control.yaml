@@ -1306,6 +1306,328 @@ teams:
   members:
   - davidwboswell
   - mkdolan
+- name: read-only
+  maintainers:
+  - ryjones
+  members:
+  - 0x009922
+  - 6r1d
+  - Abdulbois
+  - AlexStroke
+  - AndreAugusto11
+  - AntonKtrue
+  - ArPhil
+  - Arjentix
+  - Artemkaaas
+  - Asem-Abdelhady
+  - BAStos525
+  - BulatSaif
+  - C0rWin
+  - CHempel-esatus
+  - Chengxuan
+  - Cre-eD
+  - DCNick3
+  - DRK3
+  - ERussel
+  - Echsecutor
+  - EnriqueL8
+  - Erigara
+  - FabrizioPe
+  - FrancescoUrbano
+  - Gabriel-Trintinalia
+  - Gavinok
+  - HeidiHan0000
+  - JamesKEbert
+  - Jsyro
+  - Lavskiy
+  - Leeyoungone
+  - LucasSte
+  - MBoldyrev
+  - MadelineMurray
+  - MightyNerdEric
+  - Mingela
+  - MosCD3
+  - NickSneo
+  - NicolasMassart
+  - PaoloUr
+  - Param-S
+  - Patrik-Stas
+  - QuentinI
+  - RafaelAPB
+  - SamHSmith
+  - SamYuan1990
+  - SeanBohan
+  - Stukalov-A-M
+  - TelegramSam
+  - TimoGlastra
+  - Toktar
+  - TonyRowntree
+  - VAmuzing
+  - VRamakrishna
+  - VattiPraveen
+  - WRRicht3r
+  - WadeBarnes
+  - XuHugo
+  - YUNGU23
+  - adaagava
+  - adityajoshi12
+  - adrianbatuto
+  - ahamlat
+  - aholovko
+  - ajsutton
+  - akarabashov
+  - aklenik
+  - aldousalvarez
+  - ale-linux
+  - alexandratran
+  - amanji
+  - andrew-coleman
+  - andrewwhitehead
+  - annamcallister
+  - antonydenyer
+  - anwalker293
+  - arndey
+  - arsulegai
+  - ashcherbakov
+  - askb
+  - askolesov
+  - atoulme
+  - auer-martin
+  - awjh
+  - awrichar
+  - baha-ai
+  - baziorek
+  - berendsliedrecht
+  - bestbeforetoday
+  - bgravenorst
+  - bramwelt
+  - brentzundel
+  - bryce-mcmath
+  - bstasyszyn
+  - burdettadam
+  - bvavala
+  - c2bo
+  - caduellery
+  - cendhu
+  - channingduan
+  - chumbert
+  - cjhowland
+  - conanoc
+  - coveralls
+  - cvarjao
+  - daniela-barbosa
+  - daniellehrner
+  - davidkel
+  - davidkhala
+  - davidwboswell
+  - dbluhm
+  - denisandreenko
+  - denyeart
+  - dexhunter
+  - dhh1128
+  - diega
+  - dkulic
+  - dmitrivenger
+  - dnakashima
+  - domwoe
+  - dviejokfs
+  - e-ivkov
+  - e-maekawa
+  - eberger727
+  - elenaizaguirre
+  - ensi321
+  - esplinr
+  - esune
+  - f33r0
+  - fab-10
+  - fabiopalumbo
+  - fengyangsy
+  - fqutishat
+  - frostyfrog
+  - gabriel-indik
+  - garyschulte
+  - genaris
+  - gezero
+  - gfukushima
+  - gmulhearn
+  - gmulhearn-anonyome
+  - gtebrean
+  - guoger
+  - gv-timur
+  - haowenmvp
+  - hartm
+  - hfuss
+  - hiteshgh
+  - horizenight
+  - hyperledger-bot
+  - hyperledger-ci
+  - hyperledger-github
+  - hyperledger-jira
+  - iamhsk
+  - ianco
+  - ibrahimq21
+  - iceseer
+  - igor-egorov
+  - ilchu
+  - izuru0
+  - jagpreetsinghsasan
+  - jakubkoci
+  - jamshale
+  - janrxyz
+  - jcdrouin21
+  - jflo
+  - jframe
+  - jimthematrix
+  - jkneubuh
+  - jleach
+  - joaniefromtheblock
+  - johncallahan
+  - johnhomantaring
+  - jonathan-m-hamilton
+  - joncinque
+  - joshhus
+  - joshuafernandes
+  - jovfer
+  - justin-themedium
+  - jwagantall
+  - kamilsa
+  - karimStekelenburg
+  - kgoncharov
+  - kikoncuo
+  - kkaur01
+  - kuvaldini
+  - lampkin-diet
+  - lebdron
+  - lesleyannjordan
+  - liran-funaro
+  - llorllale
+  - lucassaldanha
+  - lynnbendixsen
+  - m-courtin
+  - mac-arrap
+  - macfarla
+  - maglighter
+  - manish-sethi
+  - mark-terry
+  - mastersingh24
+  - matkt
+  - matthew1001
+  - mayktu
+  - mbaxter
+  - mbrandenburger
+  - mbwhite
+  - mepeltier
+  - mgCepeda
+  - mgmgwi
+  - mikelodder7
+  - mirgee
+  - mkdolan
+  - modbrin
+  - munapower
+  - mversic
+  - nage
+  - nain-F49FF806
+  - naonishijima
+  - nekia
+  - nguyer
+  - nhoriguchi
+  - niall-shaw
+  - nickgaski
+  - nikhil550
+  - nodlesh
+  - non-fungible-nelson
+  - ntsbs
+  - nvzhu
+  - orangeng
+  - outSH
+  - outoftardis
+  - outsidethecode
+  - pSchlarb
+  - paul-cpp
+  - paulbastian
+  - peacekeeper
+  - pemtajo
+  - pesterev
+  - peterbroadhurst
+  - petermetz
+  - pinges
+  - posplaw
+  - ravikiranjanjanam
+  - reflectivedevelopment
+  - riki95
+  - rkharisov
+  - rolsonquadras
+  - rst77
+  - rudranshsharma123
+  - ruzell22
+  - ryankoch13
+  - s8sato
+  - safinsaf
+  - salaheldinsoliman
+  - sandeepnRES
+  - sandrask
+  - satomicchy
+  - satota2
+  - seanyoung
+  - sfuji822
+  - shakreiner
+  - shemnon
+  - shimos
+  - shorsher
+  - siladu
+  - skhoroshavin
+  - smithbk
+  - solidnerd
+  - sorabot
+  - sovbot
+  - sownak
+  - stefashkaa
+  - stone-ch
+  - sudeshrshetty
+  - suryalnvs
+  - suvajit-sarkar
+  - swaptr
+  - swcurran
+  - takemiyamakoto
+  - takeutak
+  - talltree
+  - tareknaser
+  - thelinuxfoundation
+  - thiagoromanos
+  - tianxuanhong
+  - timofeevmd
+  - tkuhrt
+  - tkyonezu
+  - tmarkovski
+  - tock-ibm
+  - tonybka
+  - tplooker
+  - travis-payne
+  - troyronda
+  - tykeal
+  - udosson
+  - usingtechnology
+  - usmansaleem
+  - vaporos
+  - vdamle
+  - victormartinez-work
+  - vimmerru
+  - vkubiv
+  - vvalderrv
+  - wadeking98
+  - wcgcyx
+  - weihong-ou
+  - xermicus
+  - xiaor2
+  - xichen1
+  - xprazak2
+  - yacovm
+  - yamkovoy
+  - yeasy
+  - yukiknd
+  - zhuyuanmao
+  - zickau
+  - zondervancalvez
 - name: robots
   maintainers:
   - ryjones
@@ -1374,20 +1696,25 @@ teams:
 repositories:
 - name: .github
   teams:
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: anoncreds-clsignatures-rs
   teams:
     anoncreds-admins: admin
     anoncreds-contributors: read
     anoncreds-maintainers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: anoncreds-methods-registry
   teams:
     anoncreds-admins: admin
     anoncreds-contributors: read
     anoncreds-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1397,6 +1724,7 @@ repositories:
     anoncreds-contributors: read
     anoncreds-maintainers: maintain
     anoncreds-spec-editors: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1405,6 +1733,7 @@ repositories:
     anoncreds-admins: admin
     anoncreds-contributors: read
     anoncreds-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1414,6 +1743,7 @@ repositories:
     anoncreds-contributors: read
     anoncreds-maintainers: maintain
     anoncreds-spec-editors: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1422,7 +1752,9 @@ repositories:
     anoncreds-admins: admin
     anoncreds-contributors: read
     anoncreds-spec-v2-editors: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: anoncreds-tex
   teams:
@@ -1432,14 +1764,18 @@ repositories:
     anoncreds-spec-editors: triage
     anoncreds-spec-v2-editors: triage
     anoncreds-v2-rs-maintainers: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: anoncreds-v2-rs
   teams:
     anoncreds-admins: admin
     anoncreds-contributors: read
     anoncreds-v2-rs-maintainers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries
   teams:
@@ -1453,6 +1789,7 @@ repositories:
     aries-framework-go-ext-committers: read
     aries-triage: triage
     aries-vcx-admins: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1462,6 +1799,7 @@ repositories:
     aries-admins: admin
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1471,6 +1809,7 @@ repositories:
     aries-cloudagent-python-committers: maintain
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1480,7 +1819,9 @@ repositories:
     aries-cloudagent-python-committers: maintain
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-acapy-tools
   teams:
@@ -1488,6 +1829,7 @@ repositories:
     aries-cloudagent-python-committers: maintain
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1497,6 +1839,7 @@ repositories:
     aries-agent-test-harness-committers: maintain
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1518,7 +1861,9 @@ repositories:
     aries-toolbox-committers: triage
     aries-triage: triage
     aries-wallet-maintainers: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-askar
   teams:
@@ -1531,6 +1876,7 @@ repositories:
     aries-contributors: read
     aries-core-committers: maintain
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1546,7 +1892,9 @@ repositories:
     fabric-maintainers: write
     fabric-release-maintainers: write
     fabric-sdk-go-maintainers: write
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-bbssignatures-rs
   teams:
@@ -1554,7 +1902,9 @@ repositories:
     aries-bbs-maintainers: admin
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-builder-images
   teams:
@@ -1562,7 +1912,9 @@ repositories:
     aries-builder-images-maintainers: admin
     aries-contributors: read
     aries-triage: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-cloudagent-python
   teams:
@@ -1571,6 +1923,7 @@ repositories:
     aries-contributors: read
     aries-framework-go-ext-committers: read
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1581,6 +1934,7 @@ repositories:
     aries-endorser-service-admins: admin
     aries-endorser-service-committers: maintain
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1593,6 +1947,7 @@ repositories:
     aries-framework-go-triage: triage
     aries-triage: triage
     robots: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1603,6 +1958,7 @@ repositories:
     aries-framework-go-ext-committers: maintain
     aries-framework-go-triage: triage
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1611,7 +1967,9 @@ repositories:
     aries-admins: admin
     aries-framework-kotlin-maintainers: maintain
     aries-triage: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-framework-swift
   teams:
@@ -1619,6 +1977,7 @@ repositories:
     aries-contributors: read
     aries-framework-swift-maintainers: maintain
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1628,6 +1987,7 @@ repositories:
     aries-contributors: read
     aries-mediator-service-committers: maintain
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1638,6 +1998,7 @@ repositories:
     aries-framework-go-ext-committers: read
     aries-rfc-committers: admin
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1658,7 +2019,9 @@ repositories:
     aries-toolbox-committers: triage
     aries-triage: triage
     aries-wallet-maintainers: triage
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-staticagent-python
   teams:
@@ -1667,6 +2030,7 @@ repositories:
     aries-framework-go-ext-committers: read
     aries-staticagent-python-committers: admin
     aries-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1676,7 +2040,9 @@ repositories:
     aries-contributors: read
     aries-triage: triage
     aries-uniffi-wrappers-committers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: aries-vcx
   teams:
@@ -1686,6 +2052,7 @@ repositories:
     aries-vcx-admins: admin
     aries-vcx-contributors: write
     aries-vcx-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1696,6 +2063,7 @@ repositories:
     besu-docs-maintainers: triage
     besu-maintainers: maintain
     besu-triage: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1706,6 +2074,7 @@ repositories:
     besu-docs-maintainers: admin
     besu-maintainers: triage
     besu-triage: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1716,7 +2085,9 @@ repositories:
     besu-docs-maintainers: read
     besu-maintainers: maintain
     besu-triage: read
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: besu-native
   teams:
@@ -1725,6 +2096,7 @@ repositories:
     besu-docs-maintainers: triage
     besu-maintainers: maintain
     besu-triage: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1735,6 +2107,7 @@ repositories:
     besu-docs-maintainers: triage
     besu-maintainers: maintain
     besu-triage: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1747,6 +2120,7 @@ repositories:
     bevel-operator-fabric-committers: read
     bevel-samples-admins: admin
     bevel-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1759,6 +2133,7 @@ repositories:
     bevel-operator-fabric-committers: maintain
     bevel-samples-admins: admin
     bevel-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1771,6 +2146,7 @@ repositories:
     bevel-operator-fabric-committers: read
     bevel-samples-admins: admin
     bevel-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1784,6 +2160,7 @@ repositories:
     cacti-security-administration: admin
     cactus-contributors-ibm-triage: triage
     robots: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1791,6 +2168,7 @@ repositories:
   teams:
     caliper-admins: admin
     caliper-committers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1798,6 +2176,7 @@ repositories:
   teams:
     caliper-admins: admin
     caliper-committers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1807,6 +2186,7 @@ repositories:
     cello-analytics-maintainers: write
     cello-contributors: write
     cello-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1817,6 +2197,7 @@ repositories:
     fabric-core-maintainers: admin
     fabric-release-maintainers: maintain
     fabric-triage: triage
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1824,6 +2205,7 @@ repositories:
   teams:
     fabric-admin-sdk-maintainers: admin
     fabric-admins: admin
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1832,6 +2214,7 @@ repositories:
     fabric-admins: admin
     fabric-core-maintainers: admin
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1841,6 +2224,7 @@ repositories:
     fabric-ca-maintainers: maintain
     fabric-core-doc-maintainers: write
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1849,6 +2233,7 @@ repositories:
     fabric-admins: admin
     fabric-core-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -1858,6 +2243,7 @@ repositories:
     fabric-admins: admin
     fabric-chaincode-java-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -1867,6 +2253,7 @@ repositories:
     fabric-admins: admin
     fabric-chaincode-node-maintainers: admin
     fabric-release-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -1876,6 +2263,7 @@ repositories:
     fabric-admins: admin
     fabric-cli-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1885,6 +2273,7 @@ repositories:
     fabric-core-doc-maintainers: write
     fabric-core-maintainers: admin
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1893,6 +2282,7 @@ repositories:
     fabric-admins: admin
     fabric-contract-api-go-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-alerts: write
     security-managers: read
     toc: read
@@ -1910,6 +2300,7 @@ repositories:
     fabric-ur-ur-maintainers: write
     fabric-vi_vn-doc-maintainers: maintain
     fabric-zh_cn-doc-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1917,6 +2308,7 @@ repositories:
   teams:
     fabric-admins: admin
     fabric-gateway-maintainers: admin
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1925,6 +2317,7 @@ repositories:
     fabric-admins: admin
     fabric-gateway-java-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -1935,6 +2328,7 @@ repositories:
     fabric-core-maintainers: maintain
     fabric-lib-go-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1942,6 +2336,7 @@ repositories:
   teams:
     fabric-admins: admin
     fabric-private-chaincode-committers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1950,6 +2345,7 @@ repositories:
     fabric-admins: admin
     fabric-core-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1958,6 +2354,7 @@ repositories:
     fabric-admins: admin
     fabric-core-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1966,6 +2363,7 @@ repositories:
     fabric-admins: admin
     fabric-core-maintainers: maintain
     fabric-release-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1975,6 +2373,7 @@ repositories:
     fabric-core-maintainers: maintain
     fabric-release-maintainers: maintain
     fabric-rfc-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1983,6 +2382,7 @@ repositories:
     fabric-admins: admin
     fabric-release-maintainers: maintain
     fabric-samples-maintainers: admin
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -1991,6 +2391,7 @@ repositories:
     fabric-admins: admin
     fabric-release-maintainers: maintain
     fabric-sdk-go-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -2000,6 +2401,7 @@ repositories:
     fabric-admins: admin
     fabric-release-maintainers: maintain
     fabric-sdk-java-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -2009,6 +2411,7 @@ repositories:
     fabric-admins: admin
     fabric-release-maintainers: maintain
     fabric-sdk-node-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -2019,6 +2422,7 @@ repositories:
     fabric-core-maintainers: maintain
     fabric-release-maintainers: maintain
     fabric-sdk-py-maintainers: maintain
+    read-only: read
     security-alerts: maintain
     security-managers: read
     toc: read
@@ -2029,6 +2433,7 @@ repositories:
     fabric-release-maintainers: maintain
     fabric-test-maintainers: maintain
     fabric-test-toolchain-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2038,6 +2443,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-core-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2047,6 +2453,7 @@ repositories:
     firefly-admins: admin
     firefly-cli-maintainers: maintain
     firefly-contributors: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2055,6 +2462,7 @@ repositories:
     firefly-admins: admin
     firefly-common-maintainers: maintain
     firefly-contributors: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2064,6 +2472,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-cordaconnect-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2073,6 +2482,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-dataexchange-https-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2082,6 +2492,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-ethconnect-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2090,6 +2501,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-evmconnect-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2099,6 +2511,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-fabconnect-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2108,6 +2521,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-fir-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2117,6 +2531,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-helm-charts-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2126,6 +2541,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-perf-cli-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2135,6 +2551,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-samples-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2143,6 +2560,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-sandbox-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2151,6 +2569,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-sdk-nodejs-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2159,6 +2578,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-signer-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2168,7 +2588,9 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-tezosconnect-maintainers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: firefly-tokens-erc1155
   teams:
@@ -2176,6 +2598,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-tokens-erc1155-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2185,6 +2608,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-tokens-erc20-erc721-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2193,6 +2617,7 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-transaction-manager-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2202,11 +2627,13 @@ repositories:
     firefly-admins: admin
     firefly-contributors: read
     firefly-ui-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
 - name: governance
   teams:
+    read-only: read
     security-managers: read
     toc: write
   visibility: public
@@ -2217,28 +2644,34 @@ repositories:
     besu-docs-maintainers: triage
     besu-maintainers: maintain
     besu-triage: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
 - name: homebrew-solang
   teams:
-    security-managers: read
     solang-admins: admin
     solang-committers: maintain
     solang-contributors: read
+    read-only: read
+    security-managers: read
     toc: read
   visibility: public
 - name: hyperledger-hip
   teams:
+    read-only: read
     security-managers: read
     toc: maintain
   visibility: public
 - name: hyperledger.dev
   teams:
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: hyperledger.github.io
   teams:
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2264,46 +2697,58 @@ repositories:
     indy-shared-rs-maintainers: write
     indy-test-automation: write
     indy-vdr-maintainers: write
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: indy-bls-wrapper-python
   teams:
     indy-admin: admin
     indy-vdr-maintainers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: indy-blssignatures-rs
   teams:
     indy-admin: admin
     indy-plenum-maintainers: maintain
     indy-vdr-maintainers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: indy-cli-rs
   teams:
     indy-admin: admin
     indy-cli-rs-maintainers: maintain
     indy-common: read
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: indy-did-method
   teams:
     indy-admin: admin
     indy-common: read
     indy-did-method-maintainers: admin
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
 - name: indy-did-networks
   teams:
     indy-did-network-maintainers: admin
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: indy-docs
   teams:
     indy-admin: admin
     indy-ci: write
     indy-common: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2312,6 +2757,7 @@ repositories:
     indy-admin: admin
     indy-common: read
     indy-rfc-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2337,6 +2783,7 @@ repositories:
     indy-shared-rs-maintainers: maintain
     indy-test-automation: maintain
     indy-vdr-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2345,6 +2792,7 @@ repositories:
     indy-admin: admin
     indy-common: read
     indy-node-container-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2354,6 +2802,7 @@ repositories:
     indy-common: read
     indy-node-monitor-maintainers: maintain
     indy-shared-rs-maintainers: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2379,6 +2828,7 @@ repositories:
     indy-shared-rs-maintainers: maintain
     indy-test-automation: maintain
     indy-vdr-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2387,13 +2837,16 @@ repositories:
     indy-admin: admin
     indy-common: read
     indy-shared-gha-maintainers: admin
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: indy-shared-rs
   teams:
     indy-admin: admin
     indy-common: read
     indy-shared-rs-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2402,6 +2855,7 @@ repositories:
     indy-admin: admin
     indy-common: read
     indy-test-automation: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2411,6 +2865,7 @@ repositories:
     indy-common: read
     indy-shared-rs-maintainers: read
     indy-vdr-maintainers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2431,6 +2886,7 @@ repositories:
     iroha-python: maintain
     iroha-rfc-maintainers: maintain
     iroha-tui-client-committers: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2450,6 +2906,7 @@ repositories:
     iroha-python: write
     iroha-rfc-maintainers: write
     iroha-tui-client-committers: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2458,13 +2915,16 @@ repositories:
     iroha-admin: maintain
     iroha-crypto: maintain
     iroha-maintainers: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: iroha-deploy
   teams:
     iroha-admin: admin
     iroha-crypto: write
     iroha-maintainers: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2473,6 +2933,7 @@ repositories:
     iroha-admin: admin
     iroha-crypto: write
     iroha-maintainers: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2480,7 +2941,9 @@ repositories:
   teams:
     iroha-admin: admin
     iroha-ios: maintain
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: iroha-java
   teams:
@@ -2489,6 +2952,7 @@ repositories:
     iroha-java: write
     iroha-java-admin: admin
     iroha-maintainers: write
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2498,6 +2962,7 @@ repositories:
     iroha-crypto: read
     iroha-javascript: write
     iroha-maintainers: read
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2506,13 +2971,16 @@ repositories:
     iroha-admin: admin
     iroha-crypto: admin
     iroha-maintainers: admin
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: iroha-python
   teams:
     iroha-admin: admin
     iroha-maintainers: read
     iroha-python: maintain
+    read-only: read
     security-managers: read
     toc: read
   visibility: public
@@ -2522,47 +2990,60 @@ repositories:
     iroha-crypto: maintain
     iroha-maintainers: maintain
     iroha-rfc-maintainers: write
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: solang
   teams:
-    security-managers: read
     solang-admins: admin
     solang-committers: maintain
     solang-contributors: read
     solang-triage: triage
+    read-only: read
+    security-managers: read
+    toc: read
   visibility: public
 - name: solang-aqd
   teams:
-    security-managers: read
     solang-admins: admin
     solang-aqd-committers: maintain
     solang-committers: maintain
     solang-contributors: read
+    read-only: read
+    security-managers: read
+    toc: read
   visibility: public
 - name: solang-llvm
   teams:
-    security-managers: read
     solang-admins: admin
     solang-committers: maintain
     solang-contributors: read
+    read-only: read
+    security-managers: read
+    toc: maintain
   visibility: public
 - name: solang-substrate-ci
   teams:
-    security-managers: read
     solang-admins: admin
     solang-committers: maintain
     solang-contributors: read
+    read-only: read
+    security-managers: read
+    toc: maintain
   visibility: public
 - name: toc
   teams:
+    read-only: read
     security-managers: read
     security-review: triage
     toc: maintain
   visibility: public
 - name: toc-docs
   teams:
+    read-only: read
     security-managers: read
+    toc: read
   visibility: public
 - name: vectors
   collaborators:
@@ -2573,4 +3054,5 @@ repositories:
     shemnon: admin
   teams:
     security-managers: read
+    toc: read
   visibility: private
