@@ -183,35 +183,6 @@ teams:
   - CHempel-esatus
   - ntsbs
   - tplooker
-- name: aries-framework-go-committers
-  maintainers:
-  - troyronda
-  members:
-  - fqutishat
-  - sudeshrshetty
-- name: aries-framework-go-ext-committers
-  maintainers:
-  - troyronda
-  members:
-  - fqutishat
-  - sudeshrshetty
-- name: aries-framework-go-triage
-  maintainers:
-  - baha-ai
-  - troyronda
-  members:
-  - Abdulbois
-  - DRK3
-  - HeidiHan0000
-  - aholovko
-  - ashcherbakov
-  - bstasyszyn
-  - fqutishat
-  - kgoncharov
-  - rolsonquadras
-  - sandrask
-  - sudeshrshetty
-  - vkubiv
 - name: aries-framework-javascript-committers
   maintainers:
   - TimoGlastra
@@ -1786,7 +1757,6 @@ repositories:
     aries-committers: maintain
     aries-contributors: read
     aries-core-committers: maintain
-    aries-framework-go-ext-committers: read
     aries-triage: triage
     aries-vcx-admins: read
     read-only: read
@@ -1849,9 +1819,6 @@ repositories:
     aries-cloudagent-python-committers: write
     aries-contributors: triage
     aries-fabric-wrapper-maintainers: triage
-    aries-framework-go-committers: triage
-    aries-framework-go-ext-committers: triage
-    aries-framework-go-triage: triage
     aries-framework-javascript-committers: write
     aries-mediator-service-committers: write
     aries-mobile-agent-react-native-committers: triage
@@ -1885,7 +1852,6 @@ repositories:
     aries-admins: admin
     aries-bbs-go-maintainers: admin
     aries-bbs-maintainers: maintain
-    aries-framework-go-committers: maintain
     aries-triage: triage
     fabric-admins: write
     fabric-core-maintainers: write
@@ -1921,7 +1887,6 @@ repositories:
     aries-admins: admin
     aries-cloudagent-python-committers: maintain
     aries-contributors: read
-    aries-framework-go-ext-committers: read
     aries-triage: triage
     read-only: read
     security-managers: read
@@ -1933,30 +1898,6 @@ repositories:
     aries-contributors: read
     aries-endorser-service-admins: admin
     aries-endorser-service-committers: maintain
-    aries-triage: triage
-    read-only: read
-    security-managers: read
-    toc: read
-  visibility: public
-- name: aries-framework-go
-  teams:
-    aries-admins: admin
-    aries-contributors: read
-    aries-framework-go-committers: admin
-    aries-framework-go-ext-committers: read
-    aries-framework-go-triage: triage
-    aries-triage: triage
-    robots: maintain
-    read-only: read
-    security-managers: read
-    toc: read
-  visibility: public
-- name: aries-framework-go-ext
-  teams:
-    aries-admins: admin
-    aries-contributors: read
-    aries-framework-go-ext-committers: maintain
-    aries-framework-go-triage: triage
     aries-triage: triage
     read-only: read
     security-managers: read
@@ -1995,7 +1936,6 @@ repositories:
   teams:
     aries-admins: admin
     aries-contributors: read
-    aries-framework-go-ext-committers: read
     aries-rfc-committers: admin
     aries-triage: triage
     read-only: read
@@ -2008,8 +1948,6 @@ repositories:
     aries-cloudagent-python-committers: write
     aries-contributors: triage
     aries-fabric-wrapper-maintainers: triage
-    aries-framework-go-committers: triage
-    aries-framework-go-triage: triage
     aries-framework-javascript-committers: write
     aries-mobile-agent-react-native-committers: triage
     aries-protocol-test-suite-committers: triage
@@ -2027,7 +1965,6 @@ repositories:
   teams:
     aries-admins: admin
     aries-contributors: read
-    aries-framework-go-ext-committers: read
     aries-staticagent-python-committers: admin
     aries-triage: triage
     read-only: read
