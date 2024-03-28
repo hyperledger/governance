@@ -1270,6 +1270,7 @@ teams:
   - fabiopalumbo
   - hartm
   - jwagantall
+  - minyu66
   - ryjones
   - thelinuxfoundation
   - tykeal
@@ -1433,7 +1434,6 @@ teams:
   - hyperledger-bot
   - hyperledger-ci
   - hyperledger-github
-  - hyperledger-jira
   - iamhsk
   - ianco
   - ibrahimq21
@@ -1607,7 +1607,6 @@ teams:
   - hyperledger-bot
   - hyperledger-ci
   - hyperledger-github
-  - hyperledger-jira
 - name: security-alerts
   maintainers:
   - ryjones
