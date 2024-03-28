@@ -1631,6 +1631,8 @@ repositories:
     read-only: read
     security-managers: read
     toc: read
+  default_branch: main
+  delete_branch_on_merge: true
   visibility: public
 - name: anoncreds-clsignatures-rs
   teams:
