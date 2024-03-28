@@ -529,13 +529,10 @@ teams:
 - name: cello-analytics-maintainers
   maintainers:
   - yeasy
-  members:
-  - XuHugo
 - name: cello-contributors
   maintainers:
   - yeasy
   members:
-  - XuHugo
   - YUNGU23
   - dexhunter
   - fengyangsy
@@ -631,13 +628,6 @@ teams:
   maintainers:
   - andrew-coleman
   - bestbeforetoday
-- name: fabric-it_it-doc-maintainers
-  maintainers:
-  - FabrizioPe
-  members:
-  - FrancescoUrbano
-  - PaoloUr
-  - riki95
 - name: fabric-ja_jp-doc-maintainers
   maintainers:
   - nekia
@@ -650,11 +640,6 @@ teams:
   - naonishijima
   - shimos
   - yukiknd
-- name: fabric-ko_kr-doc-maintainers
-  maintainers:
-  - ryjones
-  members:
-  - justin-themedium
 - name: fabric-lib-go-maintainers
   maintainers:
   - denyeart
@@ -677,7 +662,6 @@ teams:
   maintainers:
   - rst77
   members:
-  - caduellery
   - mayktu
   - pemtajo
 - name: fabric-release-maintainers
@@ -736,7 +720,6 @@ teams:
   maintainers:
   - denyeart
   members:
-  - awjh
   - mbwhite
 - name: fabric-triage
   maintainers:
@@ -1104,7 +1087,6 @@ teams:
   - takemiyamakoto
   members:
   - '0x009922'
-  - MBoldyrev
   - SamHSmith
   - WRRicht3r
   - kamilsa
@@ -1122,8 +1104,6 @@ teams:
   - safinsaf
   members:
   - 6r1d
-  - ERussel
-  - Lavskiy
   - nvzhu
   - posplaw
   - sorabot
@@ -1187,13 +1167,11 @@ teams:
   members:
   - '0x009922'
   - AlexStroke
-  - AntonKtrue
   - Arjentix
   - Asem-Abdelhady
   - BAStos525
   - DCNick3
   - Erigara
-  - MBoldyrev
   - Mingela
   - QuentinI
   - Stukalov-A-M
@@ -1225,7 +1203,6 @@ teams:
   members:
   - Asem-Abdelhady
   - DCNick3
-  - MBoldyrev
   - QuentinI
   - VAmuzing
   - adaagava
@@ -1255,7 +1232,6 @@ teams:
   - outoftardis
 - name: iroha-tui-client-committers
   maintainers:
-  - BulatSaif
   - Cre-eD
   members:
   - igor-egorov
@@ -1287,41 +1263,32 @@ teams:
   - Abdulbois
   - AlexStroke
   - AndreAugusto11
-  - AntonKtrue
-  - ArPhil
   - Arjentix
   - Artemkaaas
   - Asem-Abdelhady
   - BAStos525
-  - BulatSaif
   - C0rWin
   - CHempel-esatus
   - Chengxuan
   - Cre-eD
   - DCNick3
   - DRK3
-  - ERussel
   - Echsecutor
   - EnriqueL8
   - Erigara
-  - FabrizioPe
-  - FrancescoUrbano
   - Gabriel-Trintinalia
   - Gavinok
   - HeidiHan0000
   - JamesKEbert
   - Jsyro
-  - Lavskiy
   - Leeyoungone
   - LucasSte
-  - MBoldyrev
   - MadelineMurray
   - MightyNerdEric
   - Mingela
   - MosCD3
   - NickSneo
   - NicolasMassart
-  - PaoloUr
   - Param-S
   - Patrik-Stas
   - QuentinI
@@ -1339,7 +1306,6 @@ teams:
   - VattiPraveen
   - WRRicht3r
   - WadeBarnes
-  - XuHugo
   - YUNGU23
   - adaagava
   - adityajoshi12
@@ -1365,7 +1331,6 @@ teams:
   - askolesov
   - atoulme
   - auer-martin
-  - awjh
   - awrichar
   - baha-ai
   - baziorek
@@ -1379,7 +1344,6 @@ teams:
   - burdettadam
   - bvavala
   - c2bo
-  - caduellery
   - cendhu
   - channingduan
   - chumbert
@@ -1459,7 +1423,6 @@ teams:
   - joshhus
   - joshuafernandes
   - jovfer
-  - justin-themedium
   - jwagantall
   - kamilsa
   - karimStekelenburg
@@ -1525,7 +1488,6 @@ teams:
   - posplaw
   - ravikiranjanjanam
   - reflectivedevelopment
-  - riki95
   - rkharisov
   - rolsonquadras
   - rst77
@@ -2228,9 +2190,7 @@ repositories:
     fabric-admins: admin
     fabric-core-doc-maintainers: maintain
     fabric-core-maintainers: maintain
-    fabric-it_it-doc-maintainers: maintain
     fabric-ja_jp-doc-maintainers: maintain
-    fabric-ko_kr-doc-maintainers: write
     fabric-pt_br-doc-maintainers: maintain
     fabric-release-maintainers: maintain
     fabric-ur-ur-maintainers: write
