@@ -915,6 +915,32 @@ teams:
   members:
   - andrewwhitehead
   - swcurran
+- name: identus-maintainers
+  maintainers:
+  - ryjones
+  members:
+  - CryptoKnightIOG  
+  - EzequielPostan  
+  - FabioPinheiro  
+  - amagyar-iohk  
+  - bsandmann  
+  - bvoiturier  
+  - cristianIOHK  
+  - curtis-h  
+  - davepoltorak  
+  - dorultan  
+  - elribonazo  
+  - essbante-io  
+  - goncalo-frade-iohk  
+  - lohanspies  
+  - milosbackonja  
+  - milosh86  
+  - mineme0110  
+  - mkbreuningIOHK  
+  - patlo-iog  
+  - petevielhaber  
+  - shotexa  
+  - yshyn-iohk  
 - name: indy-agent-maintainers
   maintainers:
   - nage
@@ -1258,11 +1284,14 @@ teams:
   - CHempel-esatus
   - Chengxuan
   - Cre-eD
+  - CryptoKnightIOG  
   - DCNick3
   - DRK3
   - Echsecutor
   - EnriqueL8
   - Erigara
+  - EzequielPostan  
+  - FabioPinheiro  
   - Gabriel-Trintinalia
   - Gavinok
   - HeidiHan0000
@@ -1305,6 +1334,7 @@ teams:
   - aldousalvarez
   - ale-linux
   - alexandratran
+  - amagyar-iohk  
   - amanji
   - andrew-coleman
   - andrewwhitehead
@@ -1327,9 +1357,11 @@ teams:
   - bramwelt
   - brentzundel
   - bryce-mcmath
+  - bsandmann  
   - bstasyszyn
   - burdettadam
   - bvavala
+  - bvoiturier  
   - c2bo
   - cendhu
   - channingduan
@@ -1337,9 +1369,12 @@ teams:
   - cjhowland
   - conanoc
   - coveralls
+  - cristianIOHK  
+  - curtis-h  
   - cvarjao
   - daniela-barbosa
   - daniellehrner
+  - davepoltorak  
   - davidkel
   - davidkhala
   - davidwboswell
@@ -1353,13 +1388,16 @@ teams:
   - dmitrivenger
   - dnakashima
   - domwoe
+  - dorultan  
   - dviejokfs
   - e-ivkov
   - e-maekawa
   - eberger727
   - elenaizaguirre
+  - elribonazo  
   - ensi321
   - esplinr
+  - essbante-io  
   - esune
   - f33r0
   - fab-10
@@ -1374,6 +1412,7 @@ teams:
   - gfukushima
   - gmulhearn
   - gmulhearn-anonyome
+  - goncalo-frade-iohk  
   - gtebrean
   - guoger
   - gv-timur
@@ -1422,6 +1461,7 @@ teams:
   - lesleyannjordan
   - liran-funaro
   - llorllale
+  - lohanspies  
   - lucassaldanha
   - lynnbendixsen
   - m-courtin
@@ -1441,7 +1481,11 @@ teams:
   - mgCepeda
   - mgmgwi
   - mikelodder7
+  - milosbackonja  
+  - milosh86  
+  - mineme0110  
   - mirgee
+  - mkbreuningIOHK  
   - mkdolan
   - modbrin
   - munapower
@@ -1465,6 +1509,7 @@ teams:
   - outoftardis
   - outsidethecode
   - pSchlarb
+  - patlo-iog  
   - paul-cpp
   - paulbastian
   - peacekeeper
@@ -1472,6 +1517,7 @@ teams:
   - pesterev
   - peterbroadhurst
   - petermetz
+  - petevielhaber  
   - pinges
   - posplaw
   - ravikiranjanjanam
@@ -1496,6 +1542,7 @@ teams:
   - shemnon
   - shimos
   - shorsher
+  - shotexa  
   - siladu
   - skhoroshavin
   - smithbk
@@ -1546,6 +1593,7 @@ teams:
   - yacovm
   - yamkovoy
   - yeasy
+  - yshyn-iohk  
   - yukiknd
   - zhuyuanmao
   - zickau
