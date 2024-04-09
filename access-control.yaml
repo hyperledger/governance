@@ -1317,6 +1317,7 @@ teams:
   - TimoGlastra
   - Toktar
   - TonyRowntree
+  - Ugo
   - VAmuzing
   - VRamakrishna
   - VattiPraveen
@@ -1368,6 +1369,7 @@ teams:
   - chumbert
   - cjhowland
   - conanoc
+  - conor10
   - coveralls
   - cristianIOHK
   - curtis-h
@@ -1429,6 +1431,7 @@ teams:
   - ibrahimq21
   - iceseer
   - igor-egorov
+  - iikirilov
   - ilchu
   - izuru0
   - jagpreetsinghsasan
@@ -2613,6 +2616,14 @@ repositories:
   visibility: public
 - name: hyperledger.github.io
   teams:
+    read-only: read
+    security-managers: read
+    toc: read
+  visibility: public
+- name: identus
+  collaborators:
+  teams:
+    identus-maintainers: write
     read-only: read
     security-managers: read
     toc: read
