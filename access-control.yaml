@@ -919,28 +919,28 @@ teams:
   maintainers:
   - ryjones
   members:
-  - CryptoKnightIOG  
-  - EzequielPostan  
-  - FabioPinheiro  
-  - amagyar-iohk  
-  - bsandmann  
-  - bvoiturier  
-  - cristianIOHK  
-  - curtis-h  
-  - davepoltorak  
-  - dorultan  
-  - elribonazo  
-  - essbante-io  
-  - goncalo-frade-iohk  
-  - lohanspies  
-  - milosbackonja  
-  - milosh86  
-  - mineme0110  
-  - mkbreuningIOHK  
-  - patlo-iog  
-  - petevielhaber  
-  - shotexa  
-  - yshyn-iohk  
+  - CryptoKnightIOG
+  - EzequielPostan
+  - FabioPinheiro
+  - amagyar-iohk
+  - bsandmann
+  - bvoiturier
+  - cristianIOHK
+  - curtis-h
+  - davepoltorak
+  - dorultan
+  - elribonazo
+  - essbante-io
+  - goncalo-frade-iohk
+  - lohanspies
+  - milosbackonja
+  - milosh86
+  - mineme0110
+  - mkbreuningIOHK
+  - patlo-iog
+  - petevielhaber
+  - shotexa
+  - yshyn-iohk
 - name: indy-agent-maintainers
   maintainers:
   - nage
@@ -1284,14 +1284,14 @@ teams:
   - CHempel-esatus
   - Chengxuan
   - Cre-eD
-  - CryptoKnightIOG  
+  - CryptoKnightIOG
   - DCNick3
   - DRK3
   - Echsecutor
   - EnriqueL8
   - Erigara
-  - EzequielPostan  
-  - FabioPinheiro  
+  - EzequielPostan
+  - FabioPinheiro
   - Gabriel-Trintinalia
   - Gavinok
   - HeidiHan0000
@@ -1334,7 +1334,7 @@ teams:
   - aldousalvarez
   - ale-linux
   - alexandratran
-  - amagyar-iohk  
+  - amagyar-iohk
   - amanji
   - andrew-coleman
   - andrewwhitehead
@@ -1357,11 +1357,11 @@ teams:
   - bramwelt
   - brentzundel
   - bryce-mcmath
-  - bsandmann  
+  - bsandmann
   - bstasyszyn
   - burdettadam
   - bvavala
-  - bvoiturier  
+  - bvoiturier
   - c2bo
   - cendhu
   - channingduan
@@ -1369,12 +1369,12 @@ teams:
   - cjhowland
   - conanoc
   - coveralls
-  - cristianIOHK  
-  - curtis-h  
+  - cristianIOHK
+  - curtis-h
   - cvarjao
   - daniela-barbosa
   - daniellehrner
-  - davepoltorak  
+  - davepoltorak
   - davidkel
   - davidkhala
   - davidwboswell
@@ -1388,16 +1388,16 @@ teams:
   - dmitrivenger
   - dnakashima
   - domwoe
-  - dorultan  
+  - dorultan
   - dviejokfs
   - e-ivkov
   - e-maekawa
   - eberger727
   - elenaizaguirre
-  - elribonazo  
+  - elribonazo
   - ensi321
   - esplinr
-  - essbante-io  
+  - essbante-io
   - esune
   - f33r0
   - fab-10
@@ -1412,7 +1412,7 @@ teams:
   - gfukushima
   - gmulhearn
   - gmulhearn-anonyome
-  - goncalo-frade-iohk  
+  - goncalo-frade-iohk
   - gtebrean
   - guoger
   - gv-timur
@@ -1461,7 +1461,7 @@ teams:
   - lesleyannjordan
   - liran-funaro
   - llorllale
-  - lohanspies  
+  - lohanspies
   - lucassaldanha
   - lynnbendixsen
   - m-courtin
@@ -1481,11 +1481,11 @@ teams:
   - mgCepeda
   - mgmgwi
   - mikelodder7
-  - milosbackonja  
-  - milosh86  
-  - mineme0110  
+  - milosbackonja
+  - milosh86
+  - mineme0110
   - mirgee
-  - mkbreuningIOHK  
+  - mkbreuningIOHK
   - mkdolan
   - modbrin
   - munapower
@@ -1509,7 +1509,7 @@ teams:
   - outoftardis
   - outsidethecode
   - pSchlarb
-  - patlo-iog  
+  - patlo-iog
   - paul-cpp
   - paulbastian
   - peacekeeper
@@ -1517,7 +1517,7 @@ teams:
   - pesterev
   - peterbroadhurst
   - petermetz
-  - petevielhaber  
+  - petevielhaber
   - pinges
   - posplaw
   - ravikiranjanjanam
@@ -1542,7 +1542,7 @@ teams:
   - shemnon
   - shimos
   - shorsher
-  - shotexa  
+  - shotexa
   - siladu
   - skhoroshavin
   - smithbk
@@ -1593,7 +1593,7 @@ teams:
   - yacovm
   - yamkovoy
   - yeasy
-  - yshyn-iohk  
+  - yshyn-iohk
   - yukiknd
   - zhuyuanmao
   - zickau
@@ -1662,6 +1662,15 @@ teams:
   - petermetz
   - swcurran
   - yacovm
+- name: web3j-maintainers
+  maintainers:
+  - ryjones
+  members:
+  - NickSneo
+  - Ugo
+  - conor10
+  - gtebrean
+  - iikirilov
 repositories:
 - name: .github
   teams:
@@ -2980,3 +2989,107 @@ repositories:
     security-managers: read
     toc: read
   visibility: private
+- name: web3j
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-build-tools
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-cli
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-docs
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-evm
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-gradle-plugin
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-installer
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-maven-plugin
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-openapi
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-openapi-gradle-plugin
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-sokt
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-solidity-gradle-plugin
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
+- name: web3j-unit
+  collaborators:
+  teams:
+    read-only: read
+    security-managers: read
+    toc: read
+    web3j-maintainers: write
+  visibility: public
