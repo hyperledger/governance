@@ -1431,7 +1431,6 @@ teams:
       - horizenight
       - hyperledger-bot
       - hyperledger-ci
-      - hyperledger-github
       - iamhsk
       - ianco
       - ibrahimq21
@@ -1614,7 +1613,6 @@ teams:
       - coveralls
       - hyperledger-bot
       - hyperledger-ci
-      - hyperledger-github
   - name: security-alerts
     maintainers:
       - ryjones
