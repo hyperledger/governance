@@ -3009,7 +3009,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-build-tools
     collaborators:
@@ -3018,7 +3022,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-cli
     collaborators:
@@ -3027,7 +3035,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-docs
     collaborators:
@@ -3036,7 +3048,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-evm
     collaborators:
@@ -3045,7 +3061,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-gradle-plugin
     collaborators:
@@ -3054,7 +3074,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-installer
     collaborators:
@@ -3063,7 +3087,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-maven-plugin
     collaborators:
@@ -3072,7 +3100,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-openapi
     collaborators:
@@ -3081,7 +3113,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-openapi-gradle-plugin
     collaborators:
@@ -3090,7 +3126,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-sokt
     collaborators:
@@ -3099,7 +3139,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-solidity-gradle-plugin
     collaborators:
@@ -3108,7 +3152,11 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
   - name: web3j-unit
     collaborators:
@@ -3117,5 +3165,9 @@ repositories:
       security-managers: read
       toc: read
       web3j-admins: admin
+        - NickSneo
+        - gtebrean
       web3j-maintainers: write
+        - NickSneo
+        - gtebrean
     visibility: public
