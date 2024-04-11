@@ -629,7 +629,7 @@ teams:
     maintainers:
       - andrew-coleman
       - bestbeforetoday
-  - name: fabric-ja_jp-doc-maintainers
+  - name: fabric-ja-jp-doc-maintainers
     maintainers:
       - nekia
       - nhoriguchi
@@ -659,7 +659,7 @@ teams:
       - mbrandenburger
     members:
       - munapower
-  - name: fabric-pt_br-doc-maintainers
+  - name: fabric-pt-br-doc-maintainers
     maintainers:
       - rst77
     members:
@@ -732,13 +732,13 @@ teams:
       - ryjones
     members:
       - ibrahimq21
-  - name: fabric-vi_vn-doc-maintainers
+  - name: fabric-vi-vn-doc-maintainers
     maintainers:
       - tonybka
   - name: fabric-website-maintainers
     maintainers:
       - denyeart
-  - name: fabric-zh_cn-doc-maintainers
+  - name: fabric-zh-cn-doc-maintainers
     maintainers:
       - yeasy
     members:
@@ -2250,12 +2250,12 @@ repositories:
       fabric-admins: admin
       fabric-core-doc-maintainers: maintain
       fabric-core-maintainers: maintain
-      fabric-ja_jp-doc-maintainers: maintain
-      fabric-pt_br-doc-maintainers: maintain
+      fabric-ja-jp-doc-maintainers: maintain
+      fabric-pt-br-doc-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-ur-ur-maintainers: write
-      fabric-vi_vn-doc-maintainers: maintain
-      fabric-zh_cn-doc-maintainers: maintain
+      fabric-vi-vn-doc-maintainers: maintain
+      fabric-zh-cn-doc-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
