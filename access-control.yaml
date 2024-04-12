@@ -726,7 +726,7 @@ teams:
     maintainers:
       - denyeart
     members:
-      - joshhus
+      - jt-nti
   - name: fabric-ur-ur-maintainers
     maintainers:
       - ryjones
@@ -1454,7 +1454,6 @@ teams:
       - johnhomantaring
       - jonathan-m-hamilton
       - joncinque
-      - joshhus
       - joshuafernandes
       - jovfer
       - jwagantall
