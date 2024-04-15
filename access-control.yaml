@@ -940,6 +940,7 @@ teams:
       - patlo-iog
       - petevielhaber
       - shotexa
+      - womfoo
       - yshyn-iohk
   - name: indy-agent-maintainers
     maintainers:
@@ -1594,6 +1595,7 @@ teams:
       - wadeking98
       - wcgcyx
       - weihong-ou
+      - womfoo
       - xermicus
       - xiaor2
       - xichen1
