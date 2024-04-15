@@ -941,6 +941,9 @@ teams:
       - petevielhaber
       - shotexa
       - yshyn-iohk
+      - womfoo
+      - hamada147
+      - Dale-iohk
   - name: indy-agent-maintainers
     maintainers:
       - nage
@@ -1379,6 +1382,7 @@ teams:
       - cristianIOHK
       - curtis-h
       - cvarjao
+      - Dale-iohk
       - daniela-barbosa
       - daniellehrner
       - davepoltorak
@@ -1424,6 +1428,7 @@ teams:
       - gtebrean
       - guoger
       - gv-timur
+      - hamada147
       - haowenmvp
       - hartm
       - hfuss
@@ -1594,6 +1599,7 @@ teams:
       - wadeking98
       - wcgcyx
       - weihong-ou
+      - womfoo
       - xermicus
       - xiaor2
       - xichen1
