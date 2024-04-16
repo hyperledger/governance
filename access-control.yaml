@@ -726,7 +726,21 @@ teams:
     maintainers:
       - denyeart
     members:
+      - C0rWin
+      - SamYuan1990
+      - ale-linux
+      - andrew-coleman
+      - bestbeforetoday
+      - cendhu
+      - channingduan
+      - davidkhala
       - jt-nti
+      - manish-sethi
+      - mbwhite
+      - satota2
+      - tock-ibm
+      - yacovm
+      - yeasy
   - name: fabric-ur-ur-maintainers
     maintainers:
       - ryjones
