@@ -762,6 +762,7 @@ teams:
   - name: firefly
     maintainers:
       - nguyer
+      - EnriqueL8
     members:
       - eberger727
       - hfuss
@@ -769,22 +770,26 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
   - name: firefly-cli-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
   - name: firefly-common-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
   - name: firefly-contributors
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - Chengxuan
       - EnriqueL8
@@ -801,24 +806,28 @@ teams:
   - name: firefly-cordaconnect-maintainers
     maintainers:
       - peterbroadhurst
+      - EnriqueL8
     members:
       - jimthematrix
   - name: firefly-core-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - shorsher
   - name: firefly-dataexchange-https-maintainers
     maintainers:
       - peterbroadhurst
+      - EnriqueL8
     members:
       - gabriel-indik
   - name: firefly-ethconnect-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - jimthematrix
@@ -827,6 +836,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - Chengxuan
       - awrichar
@@ -835,6 +845,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - jimthematrix
       - vdamle
@@ -842,16 +853,19 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
   - name: firefly-helm-charts-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - hfuss
   - name: firefly-perf-cli-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - eberger727
@@ -860,6 +874,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - shorsher
@@ -867,6 +882,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - eberger727
@@ -875,6 +891,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - eberger727
@@ -882,18 +899,21 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - vdamle
   - name: firefly-tezosconnect-maintainers
     maintainers:
       - nguyer
+      - EnriqueL8
     members:
       - denisandreenko
   - name: firefly-tokens-erc1155-maintainers
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - shorsher
@@ -901,6 +921,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - eberger727
@@ -909,6 +930,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - Chengxuan
       - awrichar
@@ -916,6 +938,7 @@ teams:
     maintainers:
       - nguyer
       - peterbroadhurst
+      - EnriqueL8
     members:
       - awrichar
       - eberger727
