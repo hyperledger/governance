@@ -982,6 +982,7 @@ teams:
       - womfoo
       - hamada147
       - Dale-iohk
+      - atala-dev
   - name: indy-agent-maintainers
     maintainers:
       - nage
