@@ -432,6 +432,8 @@ teams:
       - jagpreetsinghsasan
       - mgCepeda
       - ravikiranjanjanam
+      - saikumarbommakanti
+      - saurabhkumarkardam
       - suvajit-sarkar
       - weihong-ou
   - name: bevel-operator-fabric-admins
@@ -450,6 +452,8 @@ teams:
       - jonathan-m-hamilton
     members:
       - ravikiranjanjanam
+      - saikumarbommakanti
+      - saurabhkumarkardam
       - suvajit-sarkar
       - tkuhrt
   - name: cacti-contributors
