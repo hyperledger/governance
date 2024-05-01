@@ -520,6 +520,7 @@ teams:
   - name: caliper-admins
     maintainers:
       - aklenik
+      - davidkel
   - name: caliper-committers
     maintainers:
       - aklenik
