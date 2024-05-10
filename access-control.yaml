@@ -575,26 +575,26 @@ teams:
       - jkneubuh
   - name: fabric-chaincode-java-maintainers
     maintainers:
+      - bestbeforetoday
       - denyeart
-      - mbwhite
     members:
       - C0rWin
-      - bestbeforetoday
+      - mbwhite
   - name: fabric-chaincode-node-maintainers
     maintainers:
-      - denyeart
-      - mbwhite
-    members:
       - bestbeforetoday
+      - denyeart
+    members:
+      - mbwhite
   - name: fabric-cli-maintainers
     maintainers:
       - denyeart
       - troyronda
   - name: fabric-contract-api-go-maintainers
     maintainers:
+      - bestbeforetoday
       - denyeart
     members:
-      - bestbeforetoday
       - mbwhite
   - name: fabric-contributors
     maintainers:
@@ -701,14 +701,12 @@ teams:
       - bestbeforetoday
       - denyeart
     members:
-      - mastersingh24
   - name: fabric-sdk-node-maintainers
     maintainers:
+      - bestbeforetoday
       - denyeart
     members:
       - andrew-coleman
-      - bestbeforetoday
-      - mastersingh24
   - name: fabric-sdk-py-maintainers
     maintainers:
       - denyeart
@@ -2250,7 +2248,7 @@ repositories:
   - name: fabric-chaincode-java
     teams:
       fabric-admins: admin
-      fabric-chaincode-java-maintainers: maintain
+      fabric-chaincode-java-maintainers: admin
       fabric-release-maintainers: maintain
       read-only: read
       security-alerts: maintain
@@ -2289,7 +2287,7 @@ repositories:
   - name: fabric-contract-api-go
     teams:
       fabric-admins: admin
-      fabric-contract-api-go-maintainers: maintain
+      fabric-contract-api-go-maintainers: admin
       fabric-release-maintainers: maintain
       read-only: read
       security-alerts: write
@@ -2322,7 +2320,7 @@ repositories:
   - name: fabric-gateway-java
     teams:
       fabric-admins: admin
-      fabric-gateway-java-maintainers: maintain
+      fabric-gateway-java-maintainers: admin
       fabric-release-maintainers: maintain
       read-only: read
       security-alerts: maintain
@@ -2407,7 +2405,7 @@ repositories:
     teams:
       fabric-admins: admin
       fabric-release-maintainers: maintain
-      fabric-sdk-java-maintainers: maintain
+      fabric-sdk-java-maintainers: admin
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2417,7 +2415,7 @@ repositories:
     teams:
       fabric-admins: admin
       fabric-release-maintainers: maintain
-      fabric-sdk-node-maintainers: maintain
+      fabric-sdk-node-maintainers: admin
       read-only: read
       security-alerts: maintain
       security-managers: read
