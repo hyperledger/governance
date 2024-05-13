@@ -764,33 +764,28 @@ teams:
       - stone-ch
   - name: firefly
     maintainers:
-      - nguyer
       - EnriqueL8
     members:
       - dechdev
       - onelapahead
   - name: firefly-admins
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
   - name: firefly-cli-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
       - awrichar
   - name: firefly-common-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
       - awrichar
   - name: firefly-contributors
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -813,7 +808,6 @@ teams:
       - jimthematrix
   - name: firefly-core-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -827,7 +821,6 @@ teams:
       - gabriel-indik
   - name: firefly-ethconnect-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -836,7 +829,6 @@ teams:
       - vdamle
   - name: firefly-evmconnect-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -845,7 +837,6 @@ teams:
       - matthew1001
   - name: firefly-fabconnect-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -853,12 +844,10 @@ teams:
       - vdamle
   - name: firefly-fir-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
   - name: firefly-helm-charts-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -866,7 +855,6 @@ teams:
       - SamMayWork
   - name: firefly-perf-cli-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -876,7 +864,6 @@ teams:
       - Chengxuan
   - name: firefly-samples-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -884,7 +871,6 @@ teams:
       - shorsher
   - name: firefly-sandbox-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -893,7 +879,6 @@ teams:
       - shorsher
   - name: firefly-sdk-nodejs-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -901,7 +886,6 @@ teams:
       - dechdev
   - name: firefly-signer-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -909,14 +893,12 @@ teams:
       - vdamle
   - name: firefly-tezosconnect-maintainers
     maintainers:
-      - nguyer
       - EnriqueL8
     members:
       - denisandreenko
       - alex-semenyuk
   - name: firefly-tokens-erc1155-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -924,7 +906,6 @@ teams:
       - shorsher
   - name: firefly-tokens-erc20-erc721-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -933,7 +914,6 @@ teams:
       - shorsher
   - name: firefly-transaction-manager-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
@@ -941,7 +921,6 @@ teams:
       - awrichar
   - name: firefly-ui-maintainers
     maintainers:
-      - nguyer
       - peterbroadhurst
       - EnriqueL8
     members:
