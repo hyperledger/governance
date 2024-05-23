@@ -730,18 +730,27 @@ teams:
     maintainers:
       - denyeart
     members:
-      - C0rWin
-      - SamYuan1990
       - ale-linux
       - andrew-coleman
+      - benjsmi
       - bestbeforetoday
+      - C0rWin
+      - celder628
       - cendhu
       - channingduan
+      - ckpaliwal
       - davidkhala
+      - devanshpurani7
       - jt-nti
+      - ketulsha
       - manish-sethi
       - mbwhite
+      - MuthuSundaravadivel
+      - pfi79
+      - s7santosh
+      - SamYuan1990
       - satota2
+      - shoaebjindani
       - tock-ibm
       - yacovm
       - yeasy
@@ -2196,6 +2205,7 @@ repositories:
     teams:
       fabric-admin-sdk-maintainers: admin
       fabric-admins: admin
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2205,6 +2215,7 @@ repositories:
       fabric-admins: admin
       fabric-core-maintainers: admin
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2215,6 +2226,7 @@ repositories:
       fabric-ca-maintainers: maintain
       fabric-core-doc-maintainers: write
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2224,6 +2236,7 @@ repositories:
       fabric-admins: admin
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2234,6 +2247,7 @@ repositories:
       fabric-admins: admin
       fabric-chaincode-java-maintainers: admin
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2244,6 +2258,7 @@ repositories:
       fabric-admins: admin
       fabric-chaincode-node-maintainers: admin
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2254,6 +2269,7 @@ repositories:
       fabric-admins: admin
       fabric-cli-maintainers: maintain
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2264,6 +2280,7 @@ repositories:
       fabric-core-doc-maintainers: write
       fabric-core-maintainers: admin
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2273,6 +2290,7 @@ repositories:
       fabric-admins: admin
       fabric-contract-api-go-maintainers: admin
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: write
       security-managers: read
@@ -2289,6 +2307,7 @@ repositories:
       fabric-ur-ur-maintainers: write
       fabric-vi-vn-doc-maintainers: maintain
       fabric-zh-cn-doc-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2297,6 +2316,7 @@ repositories:
     teams:
       fabric-admins: admin
       fabric-gateway-maintainers: admin
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2306,6 +2326,7 @@ repositories:
       fabric-admins: admin
       fabric-gateway-java-maintainers: admin
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2317,6 +2338,7 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-lib-go-maintainers: maintain
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2325,6 +2347,7 @@ repositories:
     teams:
       fabric-admins: admin
       fabric-private-chaincode-committers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2334,6 +2357,7 @@ repositories:
       fabric-admins: admin
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2343,6 +2367,7 @@ repositories:
       fabric-admins: admin
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2352,6 +2377,7 @@ repositories:
       fabric-admins: admin
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2362,6 +2388,7 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-rfc-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2371,6 +2398,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-samples-maintainers: admin
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
@@ -2380,6 +2408,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-sdk-go-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2390,6 +2419,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-sdk-java-maintainers: admin
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2400,6 +2430,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-sdk-node-maintainers: admin
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2411,6 +2442,7 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-sdk-py-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-alerts: maintain
       security-managers: read
@@ -2422,6 +2454,7 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-test-maintainers: maintain
       fabric-test-toolchain-maintainers: maintain
+      fabric-triage: triage
       read-only: read
       security-managers: read
       toc: read
