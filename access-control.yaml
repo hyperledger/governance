@@ -949,6 +949,13 @@ teams:
   - name: identus-admins
     maintainers:
       - yshyn-iohk
+    members:
+      - FabioPinheiro
+      - amagyar-iohk
+      - milosbackonja
+      - patlo-iog
+      - Dale-iohk
+      - elribonazo
   - name: identus-maintainers
     maintainers:
       - essbante-io
