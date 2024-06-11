@@ -1516,7 +1516,6 @@ teams:
       - kuvaldini
       - lampkin-diet
       - lebdron
-      - lesleyannjordan
       - liran-funaro
       - llorllale
       - lohanspies
@@ -1667,11 +1666,6 @@ teams:
       - coveralls
       - hyperledger-bot
       - hyperledger-ci
-  - name: security-alerts
-    maintainers:
-      - ryjones
-    members:
-      - lesleyannjordan
   - name: security-managers
     maintainers:
       - hartm
@@ -2248,7 +2242,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2259,7 +2252,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2270,7 +2262,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2302,7 +2293,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: write
       security-managers: read
       toc: read
     visibility: public
@@ -2338,7 +2328,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2420,7 +2409,6 @@ repositories:
       fabric-sdk-go-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2431,7 +2419,6 @@ repositories:
       fabric-sdk-java-maintainers: admin
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2442,7 +2429,6 @@ repositories:
       fabric-sdk-node-maintainers: admin
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
@@ -2454,7 +2440,6 @@ repositories:
       fabric-sdk-py-maintainers: maintain
       fabric-triage: triage
       read-only: read
-      security-alerts: maintain
       security-managers: read
       toc: read
     visibility: public
