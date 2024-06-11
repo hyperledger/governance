@@ -2725,6 +2725,15 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
+  - name: identus-keycloak-plugins
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public    
   - name: indy-besu
     teams:
       indy-admin: admin
