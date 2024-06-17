@@ -1185,8 +1185,6 @@ teams:
     maintainers:
       - DCNick3
     members:
-      - Asem-Abdelhady
-      - VAmuzing
       - adaagava
       - arndey
       - dima74
@@ -1205,14 +1203,12 @@ teams:
       - Cre-eD
     members:
       - '0x009922'
-      - Asem-Abdelhady
       - BAStos525
       - DCNick3
       - Erigara
       - Mingela
       - QuentinI
       - SamHSmith
-      - VAmuzing
       - WRRicht3r
       - arndey
       - baziorek
@@ -1238,14 +1234,12 @@ teams:
     members:
       - '0x009922'
       - AlexStroke
-      - Asem-Abdelhady
       - BAStos525
       - DCNick3
       - Erigara
       - Mingela
       - QuentinI
       - Stukalov-A-M
-      - VAmuzing
       - adaagava
       - baziorek
       - dima74
@@ -1271,7 +1265,6 @@ teams:
       - Cre-eD
       - SamHSmith
     members:
-      - Asem-Abdelhady
       - DCNick3
       - QuentinI
       - VAmuzing
@@ -1293,7 +1286,6 @@ teams:
       - AlexStroke
     members:
       - '0x009922'
-      - Asem-Abdelhady
       - DCNick3
       - Mingela
       - VAmuzing
