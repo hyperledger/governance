@@ -990,6 +990,7 @@ teams:
       - atala-dev
       - urosmrvic-iohk
       - jesusdiazvico
+      - mattklepp
   - name: indy-agent-maintainers
     maintainers:
       - nage
