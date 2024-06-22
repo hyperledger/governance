@@ -275,8 +275,9 @@ teams:
       - johncallahan
   - name: aries-socketdock-committers
     maintainers:
-      - frostyfrog
       - mepeltier
+    members:
+      - frostyfrog
   - name: aries-staticagent-python-committers
     maintainers:
       - TelegramSam
