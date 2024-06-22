@@ -61,7 +61,7 @@ teams:
     members:
       - burdettadam
       - cjhowland
-      - frostyfrog
+      - TheTechmage
   - name: aries-admins
     maintainers:
       - WadeBarnes
@@ -277,7 +277,7 @@ teams:
     maintainers:
       - mepeltier
     members:
-      - frostyfrog
+      - TheTechmage
   - name: aries-staticagent-python-committers
     maintainers:
       - TelegramSam
@@ -1456,7 +1456,7 @@ teams:
       - fabiopalumbo
       - fengyangsy
       - fqutishat
-      - frostyfrog
+      - TheTechmage
       - gabriel-indik
       - garyschulte
       - genaris
