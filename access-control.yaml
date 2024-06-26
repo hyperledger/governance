@@ -942,15 +942,6 @@ teams:
       - awrichar
       - dechdev
       - shorsher
-  - name: indy-admin
-    maintainers:
-      - WadeBarnes
-      - dhh1128
-      - esplinr
-      - nage
-    members:
-      - andrewwhitehead
-      - swcurran
   - name: identus-admins
     maintainers:
       - yshyn-iohk
@@ -993,6 +984,15 @@ teams:
       - urosmrvic-iohk
       - jesusdiazvico
       - mattklepp
+  - name: indy-admin
+    maintainers:
+      - WadeBarnes
+      - dhh1128
+      - esplinr
+      - nage
+    members:
+      - andrewwhitehead
+      - swcurran
   - name: indy-agent-maintainers
     maintainers:
       - nage
@@ -1040,6 +1040,7 @@ teams:
       - pSchlarb
       - udosson
       - vimmerru
+      - esune
   - name: indy-did-method-maintainers
     maintainers:
       - swcurran
