@@ -1724,6 +1724,11 @@ teams:
       - Ugo
       - conor10
       - iikirilov
+  - name: lochness-admins
+    maintainers:
+      - survived
+      - maurges
+      - ncornwell
 repositories:
   - name: .github
     teams:
