@@ -130,6 +130,7 @@ teams:
       - amanji
       - chumbert
       - dbluhm
+      - esune
       - ianco
       - jamshale
   - name: aries-committers
@@ -149,11 +150,11 @@ teams:
       - auer-martin
       - baha-ai
       - dbluhm
+      - esune
       - ianco
       - jamshale
       - rolsonquadras
       - troyronda
-      - usingtechnology
       - wadeking98
   - name: aries-core-committers
     maintainers:
@@ -170,8 +171,8 @@ teams:
       - WadeBarnes
       - swcurran
     members:
-      - Gavinok
       - esune
+      - Gavinok
       - ianco
   - name: aries-fabric-wrapper-maintainers
     maintainers:
@@ -204,11 +205,12 @@ teams:
       - dbluhm
       - reflectivedevelopment
     members:
+      - anwalker293
+      - esune
       - JamesKEbert
+      - jamshale
       - Jsyro
       - WadeBarnes
-      - anwalker293
-      - jamshale
   - name: aries-mobile-agent-react-native-admins
     maintainers:
       - JamesKEbert
@@ -292,12 +294,11 @@ teams:
     maintainers:
       - cvarjao
     members:
-      - Gavinok
-      - Jsyro
       - bryce-mcmath
-      - hiteshgh
+      - esune
+      - Gavinok
       - jamshale
-      - usingtechnology
+      - Jsyro
   - name: aries-uniffi-wrappers-committers
     maintainers:
       - conanoc
@@ -1471,7 +1472,6 @@ teams:
       - hamada147
       - haowenmvp
       - hartm
-      - hiteshgh
       - horizenight
       - hyperledger-bot
       - hyperledger-ci
@@ -1631,7 +1631,6 @@ teams:
       - troyronda
       - tykeal
       - udosson
-      - usingtechnology
       - usmansaleem
       - vaporos
       - vdamle
