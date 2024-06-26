@@ -1729,6 +1729,8 @@ teams:
       - iikirilov
   - name: lochness-admins
     maintainers:
+      - ryjones
+    members:
       - survived
       - maurges
       - ncornwell
