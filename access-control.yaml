@@ -965,7 +965,6 @@ teams:
       - cristianIOHK
       - curtis-h
       - todorkoleviohk
-#      - dorultan
       - elribonazo
       - goncalo-frade-iohk
       - lohanspies
@@ -1342,22 +1341,22 @@ teams:
       - FabioPinheiro
       - Gabriel-Trintinalia
       - Gavinok
-      - HeidiHan0000
       - JamesKEbert
       - Jsyro
       - Leeyoungone
       - LucasSte
       - MadelineMurray
-      - MayRosenbaum
       - MightyNerdEric
       - Mingela
       - MosCD3
+      - MuthuSundaravadivel
       - NickSneo
       - NicolasMassart
       - Param-S
       - Patrik-Stas
       - QuentinI
       - RafaelAPB
+      - RamilMus
       - SamHSmith
       - SamMayWork
       - SamYuan1990
@@ -1427,7 +1426,6 @@ teams:
       - cvarjao
       - daniela-barbosa
       - daniellehrner
-      - davepoltorak
       - davidkel
       - davidkhala
       - davidwboswell
@@ -1435,6 +1433,7 @@ teams:
       - dechdev
       - denisandreenko
       - denyeart
+      - devanshpurani7
       - dexhunter
       - dhh1128
       - diega
@@ -1443,7 +1442,6 @@ teams:
       - dmitrivenger
       - dnakashima
       - domwoe
-#      - dorultan
       - dviejokfs
       - e-ivkov
       - e-maekawa
@@ -1489,6 +1487,7 @@ teams:
       - jamshale
       - janrtvld
       - jcdrouin21
+      - jesusdiazvico
       - jflo
       - jframe
       - jimthematrix
@@ -1498,13 +1497,13 @@ teams:
       - johncallahan
       - johnhomantaring
       - jonathan-m-hamilton
-      - joncinque
       - joshuafernandes
       - jovfer
       - jt-nti
       - jwagantall
       - kamilsa
       - karimStekelenburg
+      - ketulsha
       - kikoncuo
       - kkaur01
       - kuvaldini
@@ -1513,8 +1512,10 @@ teams:
       - liran-funaro
       - llorllale
       - lohanspies
+      - lu-pinto
       - lucassaldanha
       - lynnbendixsen
+      - m4sterbunny
       - m-courtin
       - mac-arrap
       - macfarla
@@ -1524,6 +1525,7 @@ teams:
       - mastersingh24
       - matkt
       - matthew1001
+      - mattklepp
       - maurges
       - mayktu
       - mbaxter
@@ -1572,6 +1574,7 @@ teams:
       - peterbroadhurst
       - petermetz
       - petevielhaber
+      - pfi79
       - pinges
       - posplaw
       - ravikiranjanjanam
@@ -1583,16 +1586,15 @@ teams:
       - ruzell22
       - rwat17
       - ryankoch13
+      - s7santosh
       - s8sato
       - safinsaf
       - salaheldinsoliman
       - sandeepnRES
-      - sandrask
       - satomicchy
       - satota2
       - seanyoung
       - sfuji822
-      - shaangill025
       - shakreiner
       - shemnon
       - shimos
@@ -1607,7 +1609,6 @@ teams:
       - sownak
       - stefashkaa
       - stone-ch
-      - sudeshrshetty
       - survived
       - suryalnvs
       - suvajit-sarkar
@@ -1698,8 +1699,6 @@ teams:
   - name: solang-triage
     maintainers:
       - seanyoung
-    members:
-      - joncinque
   - name: toc
     maintainers:
       - tkuhrt
