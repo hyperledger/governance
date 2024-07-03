@@ -1149,12 +1149,9 @@ teams:
     maintainers:
       - iceseer
       - kuvaldini
-    members:
-      - kamilsa
   - name: iroha-admin
     maintainers:
       - Cre-eD
-      - iceseer
       - safinsaf
     members:
       - BAStos525
@@ -1169,7 +1166,6 @@ teams:
       - '0x009922'
       - SamHSmith
       - WRRicht3r
-      - kamilsa
       - modbrin
       - mversic
       - posplaw
@@ -1196,7 +1192,6 @@ teams:
       - horizenight
       - maglighter
       - orangeng
-      - rkharisov
       - s8sato
       - timofeevmd
   - name: iroha-java-admin
@@ -1211,7 +1206,6 @@ teams:
       - DCNick3
       - Erigara
       - Mingela
-      - QuentinI
       - SamHSmith
       - WRRicht3r
       - a-zorina
@@ -1222,20 +1216,18 @@ teams:
       - f33r0
       - gv-timur
       - horizenight
-      - ilchu
       - mversic
       - orangeng
       - outoftardis
-      - pesterev
       - s8sato
       - sorabot
       - stefashkaa
       - takemiyamakoto
       - timofeevmd
+      - AlexStroke
   - name: iroha-maintainers
     maintainers:
       - Cre-eD
-      - iceseer
     members:
       - '0x009922'
       - AlexStroke
@@ -1243,7 +1235,6 @@ teams:
       - DCNick3
       - Erigara
       - Mingela
-      - QuentinI
       - Stukalov-A-M
       - a-zorina
       - adaagava
@@ -1251,16 +1242,10 @@ teams:
       - dima74
       - dmitrivenger
       - horizenight
-      - ilchu
-      - kamilsa
-      - kuvaldini
-      - lebdron
       - mversic
       - orangeng
       - outoftardis
       - paul-cpp
-      - pesterev
-      - rkharisov
       - s8sato
       - takemiyamakoto
       - timofeevmd
@@ -1272,7 +1257,6 @@ teams:
       - SamHSmith
     members:
       - DCNick3
-      - QuentinI
       - a-zorina
       - adaagava
       - baziorek
@@ -1280,8 +1264,6 @@ teams:
       - e-ivkov
       - horizenight
       - igor-egorov
-      - kuvaldini
-      - lebdron
       - orangeng
       - s8sato
       - takemiyamakoto
@@ -1302,9 +1284,6 @@ teams:
   - name: iroha-tui-client-committers
     maintainers:
       - Cre-eD
-    members:
-      - igor-egorov
-      - lebdron
   - name: lf-employees
     maintainers:
       - MightyNerdEric
@@ -1359,7 +1338,6 @@ teams:
       - NicolasMassart
       - Param-S
       - Patrik-Stas
-      - QuentinI
       - RafaelAPB
       - RamilMus
       - SamHSmith
@@ -1483,10 +1461,7 @@ teams:
       - iamhsk
       - ianco
       - ibrahimq21
-      - iceseer
-      - igor-egorov
       - iikirilov
-      - ilchu
       - izuru0
       - jagpreetsinghsasan
       - jakubkoci
@@ -1507,14 +1482,11 @@ teams:
       - jovfer
       - jt-nti
       - jwagantall
-      - kamilsa
       - karimStekelenburg
       - ketulsha
       - kikoncuo
       - kkaur01
-      - kuvaldini
       - lampkin-diet
-      - lebdron
       - liran-funaro
       - llorllale
       - lohanspies
@@ -1576,7 +1548,6 @@ teams:
       - paulbastian
       - peacekeeper
       - pemtajo
-      - pesterev
       - peterbroadhurst
       - petermetz
       - petevielhaber
@@ -1585,7 +1556,6 @@ teams:
       - posplaw
       - ravikiranjanjanam
       - reflectivedevelopment
-      - rkharisov
       - rolsonquadras
       - rst77
       - rudranshsharma123
