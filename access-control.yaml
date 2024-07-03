@@ -1261,7 +1261,6 @@ teams:
       - adaagava
       - baziorek
       - dima74
-      - e-ivkov
       - horizenight
       - igor-egorov
       - orangeng
@@ -1281,9 +1280,6 @@ teams:
       - dima74
       - mversic
       - outoftardis
-  - name: iroha-tui-client-committers
-    maintainers:
-      - Cre-eD
   - name: lf-employees
     maintainers:
       - MightyNerdEric
@@ -1427,7 +1423,6 @@ teams:
       - dnakashima
       - domwoe
       - dviejokfs
-      - e-ivkov
       - e-maekawa
       - elenaizaguirre
       - elribonazo
@@ -2906,7 +2901,6 @@ repositories:
       iroha-maintainers: maintain
       iroha-python: maintain
       iroha-rfc-maintainers: maintain
-      iroha-tui-client-committers: maintain
       read-only: read
       security-managers: read
       toc: read
@@ -2925,7 +2919,6 @@ repositories:
       iroha-maintainers: maintain
       iroha-python: write
       iroha-rfc-maintainers: write
-      iroha-tui-client-committers: write
       read-only: read
       security-managers: read
       toc: read
