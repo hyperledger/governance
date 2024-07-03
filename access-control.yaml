@@ -2691,7 +2691,61 @@ repositories:
       read-only: read
       security-managers: read
       toc: read
-    visibility: public    
+    visibility: public
+  - name: identus-mediator
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
+  - name: identus-edge-agent-sdk-ts
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public 
+  - name: identus-edge-agent-sdk-kmp
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
+  - name: identus-edge-agent-sdk-swift
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
+  - name: identus-apollo
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
+  - name: identus-docs
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public     
   - name: indy-besu
     teams:
       indy-admin: admin
