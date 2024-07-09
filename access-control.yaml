@@ -355,16 +355,13 @@ teams:
       - atoulme
       - bgravenorst
       - gfukushima
-      - iamhsk
       - joshuafernandes
       - kkaur01
       - lucassaldanha
-      - mark-terry
       - matkt
       - mbaxter
       - pinges
       - usmansaleem
-      - wcgcyx
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
@@ -412,6 +409,7 @@ teams:
       - kkaur01
       - lu-pinto
       - m4sterbunny
+      - matilda-clerke
       - matthew1001
   - name: bevel-admins
     maintainers:
@@ -1499,6 +1497,7 @@ teams:
       - manish-sethi
       - mark-terry
       - mastersingh24
+      - matilda-clerke
       - matkt
       - matthew1001
       - mattklepp
