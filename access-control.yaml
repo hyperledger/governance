@@ -763,8 +763,6 @@ teams:
   - name: fabric-ur-ur-maintainers
     maintainers:
       - ryjones
-    members:
-      - ibrahimq21
   - name: fabric-vi-vn-doc-maintainers
     maintainers:
       - tonybka
@@ -1462,7 +1460,6 @@ teams:
       - hyperledger-ci
       - iamhsk
       - ianco
-      - ibrahimq21
       - iikirilov
       - izuru0
       - jagpreetsinghsasan
