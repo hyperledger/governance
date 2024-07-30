@@ -997,7 +997,6 @@ teams:
       - cjhowland
     members:
       - andrewwhitehead
-      - swcurran
   - name: indy-agent-maintainers
     maintainers:
       - nage
