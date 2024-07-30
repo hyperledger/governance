@@ -1226,13 +1226,13 @@ teams:
       - stefashkaa
       - takemiyamakoto
       - timofeevmd
-      - AlexStroke
+      - alexstroke1
   - name: iroha-maintainers
     maintainers:
       - Cre-eD
     members:
       - '0x009922'
-      - AlexStroke
+      - alexstroke1
       - BAStos525
       - DCNick3
       - Erigara
@@ -1272,7 +1272,7 @@ teams:
       - Mingela
   - name: iroha-rfc-maintainers
     maintainers:
-      - AlexStroke
+      - alexstroke1
     members:
       - '0x009922'
       - DCNick3
@@ -1305,7 +1305,7 @@ teams:
       - ryjones
     members:
       - 0x009922
-      - AlexStroke
+      - alexstroke1
       - AndreAugusto11
       - Artemkaaas
       - BAStos525
