@@ -1272,15 +1272,15 @@ teams:
       - Mingela
   - name: iroha-rfc-maintainers
     maintainers:
-      - alexstroke1
+      - mversic
     members:
       - '0x009922'
+      - alexstroke1
       - DCNick3
       - Mingela
       - WRRicht3r
       - a-zorina
       - dima74
-      - mversic
       - outoftardis
   - name: lf-employees
     maintainers:
