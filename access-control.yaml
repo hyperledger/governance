@@ -988,9 +988,13 @@ teams:
   - name: indy-admin
     maintainers:
       - WadeBarnes
-      - dhh1128
-      - esplinr
-      - nage
+      - swcurran
+      - reflectivedevelopment
+      - PatStLouis
+      - Toktar
+      - lynnbendixsen
+      - TelegramSam
+      - cjhowland
     members:
       - andrewwhitehead
       - swcurran
