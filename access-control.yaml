@@ -1083,6 +1083,7 @@ teams:
       - andrewwhitehead
     members:
       - pSchlarb
+      - PatStLouis
   - name: indy-rfc-maintainers
     maintainers:
       - TelegramSam
