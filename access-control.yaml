@@ -990,12 +990,12 @@ teams:
       - WadeBarnes
       - swcurran
       - reflectivedevelopment
-      - PatStLouis
       - Toktar
       - lynnbendixsen
       - TelegramSam
       - cjhowland
     members:
+      - PatStLouis
       - andrewwhitehead
   - name: indy-agent-maintainers
     maintainers:
