@@ -1719,6 +1719,14 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
+  - name: anoncreds
+    teams:
+      anoncreds-admins: admin
+      anoncreds-contributors: read
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
   - name: anoncreds-clsignatures-rs
     teams:
       anoncreds-admins: admin
@@ -2763,6 +2771,13 @@ repositories:
       security-managers: read
       toc: read
     visibility: private         
+  - name: indy
+    teams:
+      indy-admin: admin
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
   - name: indy-besu
     teams:
       indy-admin: admin
