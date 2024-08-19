@@ -350,7 +350,7 @@ teams:
       - macfarla
       - shemnon
     members:
-      - NicolasMassart
+      - non-fungible-nelson
       - ajsutton
       - atoulme
       - bgravenorst
@@ -2052,7 +2052,7 @@ repositories:
   - name: besu
     teams:
       besu-admin: admin
-      besu-contributors: triage
+      besu-contributors: write
       besu-docs-maintainers: triage
       besu-maintainers: maintain
       besu-triage: triage
@@ -2074,7 +2074,7 @@ repositories:
   - name: besu-errorprone-checks
     teams:
       besu-admin: admin
-      besu-contributors: read
+      besu-contributors: triage
       besu-docs-maintainers: read
       besu-maintainers: maintain
       besu-triage: read
