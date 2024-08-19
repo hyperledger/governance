@@ -350,6 +350,7 @@ teams:
       - macfarla
       - shemnon
     members:
+      - ConsensysOps
       - non-fungible-nelson
       - kkaur01
   - name: besu-docs-maintainers
@@ -395,7 +396,6 @@ teams:
       - NickSneo
       - cdivitotawela
       - cloudspores
-      - ConsensysOps
       - ensi321
       - gtebrean
       - kkaur01
