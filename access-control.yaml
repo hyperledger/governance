@@ -351,17 +351,7 @@ teams:
       - shemnon
     members:
       - non-fungible-nelson
-      - ajsutton
-      - atoulme
-      - bgravenorst
-      - gfukushima
-      - joshuafernandes
       - kkaur01
-      - lucassaldanha
-      - matkt
-      - mbaxter
-      - pinges
-      - usmansaleem
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
