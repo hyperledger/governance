@@ -352,6 +352,7 @@ teams:
     members:
       - ConsensysOps
       - non-fungible-nelson
+      - cdivitotawela
       - kkaur01
   - name: besu-docs-maintainers
     maintainers:
