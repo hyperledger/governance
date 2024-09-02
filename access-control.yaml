@@ -778,6 +778,12 @@ teams:
     maintainers:
       - peterbroadhurst
       - EnriqueL8
+  - name: firefly-triage
+    maintainers:
+      - peterbroadhurst
+      - EnriqueL8
+    members:
+      - dwertent
   - name: firefly-cli-maintainers
     maintainers:
       - peterbroadhurst
