@@ -203,7 +203,6 @@ teams:
   - name: aries-mediator-service-committers
     maintainers:
       - dbluhm
-      - reflectivedevelopment
     members:
       - anwalker293
       - esune
@@ -985,7 +984,6 @@ teams:
     maintainers:
       - WadeBarnes
       - swcurran
-      - reflectivedevelopment
       - Toktar
       - lynnbendixsen
       - TelegramSam
@@ -1556,7 +1554,6 @@ teams:
       - pinges
       - posplaw
       - ravikiranjanjanam
-      - reflectivedevelopment
       - rolsonquadras
       - rst77
       - rudranshsharma123
