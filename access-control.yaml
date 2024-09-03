@@ -930,6 +930,7 @@ teams:
     members:
       - Chengxuan
       - awrichar
+      - matthew1001
   - name: firefly-ui-maintainers
     maintainers:
       - peterbroadhurst
