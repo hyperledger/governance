@@ -1149,7 +1149,6 @@ teams:
       - ianco
   - name: iroha-1-active-devs
     maintainers:
-      - iceseer
       - kuvaldini
   - name: iroha-admin
     maintainers:
