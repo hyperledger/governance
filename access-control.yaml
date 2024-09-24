@@ -133,6 +133,8 @@ teams:
       - esune
       - ianco
       - jamshale
+      - ff137
+      - thiagoromanos
   - name: aries-committers
     maintainers:
       - dhh1128
