@@ -135,6 +135,7 @@ teams:
       - jamshale
       - ff137
       - thiagoromanos
+      - PatStLouis
   - name: aries-committers
     maintainers:
       - dhh1128
