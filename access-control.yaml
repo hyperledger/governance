@@ -1651,32 +1651,6 @@ teams:
     members:
       - denyeart
       - shemnon
-  - name: solang-admins
-    maintainers:
-      - seanyoung
-    members:
-      - xermicus
-  - name: solang-aqd-committers
-    maintainers:
-      - tareknaser
-  - name: solang-committers
-    maintainers:
-      - seanyoung
-    members:
-      - LucasSte
-      - salaheldinsoliman
-      - xermicus
-  - name: solang-contributors
-    maintainers:
-      - LucasSte
-    members:
-      - salaheldinsoliman
-      - seanyoung
-      - tareknaser
-      - xermicus
-  - name: solang-triage
-    maintainers:
-      - seanyoung
   - name: toc
     maintainers:
       - tkuhrt
@@ -2653,15 +2627,6 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: homebrew-solang
-    teams:
-      solang-admins: admin
-      solang-committers: maintain
-      solang-contributors: read
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
   - name: hyperledger-hip
     teams:
       read-only: read
@@ -3084,44 +3049,6 @@ repositories:
       read-only: read
       security-managers: read
       toc: read
-    visibility: public
-  - name: solang
-    teams:
-      solang-admins: admin
-      solang-committers: maintain
-      solang-contributors: read
-      solang-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: solang-aqd
-    teams:
-      solang-admins: admin
-      solang-aqd-committers: maintain
-      solang-committers: maintain
-      solang-contributors: read
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: solang-llvm
-    teams:
-      solang-admins: admin
-      solang-committers: maintain
-      solang-contributors: read
-      read-only: read
-      security-managers: read
-      toc: maintain
-    visibility: public
-  - name: solang-substrate-ci
-    teams:
-      solang-admins: admin
-      solang-committers: maintain
-      solang-contributors: read
-      read-only: read
-      security-managers: read
-      toc: maintain
     visibility: public
   - name: toc
     teams:
