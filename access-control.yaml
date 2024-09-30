@@ -374,12 +374,8 @@ teams:
     members:
       - Gabriel-Trintinalia
       - ahamlat
-      - ajsutton
-      - antonydenyer
-      - atoulme
       - daniellehrner
       - diega
-      - gezero
       - gfukushima
       - jflo
       - joshuafernandes
@@ -396,11 +392,15 @@ teams:
       - non-fungible-nelson
       - shemnon
     members:
+      - ajsutton
+      - antonydenyer
+      - atoulme
       - NickSneo
       - cdivitotawela
       - cloudspores
       - kingnhcomcast
       - ensi321
+      - gezero
       - gtebrean
       - kkaur01
       - lu-pinto
