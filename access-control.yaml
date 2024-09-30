@@ -340,7 +340,6 @@ teams:
       - garyschulte
       - macfarla
       - matkt
-      - shemnon
     members:
       - jflo
       - jframe
@@ -350,12 +349,12 @@ teams:
       - garyschulte
       - jframe
       - macfarla
-      - shemnon
     members:
       - ConsensysOps
       - non-fungible-nelson
       - cdivitotawela
       - kkaur01
+      - shemnon
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
@@ -370,7 +369,6 @@ teams:
       - garyschulte
       - jframe
       - macfarla
-      - shemnon
     members:
       - Gabriel-Trintinalia
       - ahamlat
@@ -394,7 +392,6 @@ teams:
     maintainers:
       - macfarla
       - non-fungible-nelson
-      - shemnon
     members:
       - NickSneo
       - cdivitotawela
@@ -407,6 +404,7 @@ teams:
       - m4sterbunny
       - Matilda-Clerke
       - matthew1001
+      - shemnon
   - name: bevel-admins
     maintainers:
       - sownak
