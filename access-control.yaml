@@ -2728,7 +2728,6 @@ repositories:
     teams:
       identus-admins: admin
       identus-maintainers: maintain
-      read-only: read
       security-managers: read
       toc: read
     visibility: private         
