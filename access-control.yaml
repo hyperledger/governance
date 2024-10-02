@@ -351,10 +351,7 @@ teams:
       - macfarla
     members:
       - ConsensysOps
-      - non-fungible-nelson
       - cdivitotawela
-      - kkaur01
-      - shemnon
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
@@ -388,7 +385,8 @@ teams:
   - name: besu-triage
     maintainers:
       - macfarla
-      - non-fungible-nelson
+      - jflo
+      - jframe
     members:
       - ajsutton
       - antonydenyer
@@ -404,6 +402,7 @@ teams:
       - m4sterbunny
       - Matilda-Clerke
       - matthew1001
+      - non-fungible-nelson
       - shemnon
   - name: bevel-admins
     maintainers:
