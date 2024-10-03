@@ -453,67 +453,6 @@ teams:
       - saurabhkumarkardam
       - suvajit-sarkar
       - tkuhrt
-  - name: cacti-contributors
-    maintainers:
-      - petermetz
-    members:
-      - AndreAugusto11
-      - RafaelAPB
-      - VattiPraveen
-      - outsidethecode
-      - rudranshsharma123
-      - rwat17
-  - name: cacti-contributors-accenture
-    maintainers:
-      - petermetz
-    members:
-      - Leeyoungone
-      - TonyRowntree
-      - adrianbatuto
-      - aldousalvarez
-      - elenaizaguirre
-      - jagpreetsinghsasan
-      - johnhomantaring
-      - kikoncuo
-      - m-courtin
-      - ruzell22
-      - suvajit-sarkar
-      - travis-payne
-      - zondervancalvez
-  - name: cacti-contributors-accenture-readonly
-    maintainers:
-      - petermetz
-  - name: cacti-contributors-accenture-triage
-    maintainers:
-      - petermetz
-  - name: cacti-maintainers
-    maintainers:
-      - jonathan-m-hamilton
-      - petermetz
-    members:
-      - RafaelAPB
-      - VRamakrishna
-      - izuru0
-      - outSH
-      - sandeepnRES
-      - sfuji822
-      - takeutak
-  - name: cacti-security-administration
-    maintainers:
-      - petermetz
-    members:
-      - RafaelAPB
-      - VRamakrishna
-      - izuru0
-      - jagpreetsinghsasan
-      - outSH
-      - sandeepnRES
-      - takeutak
-  - name: cactus-contributors-ibm-triage
-    maintainers:
-      - petermetz
-    members:
-      - VRamakrishna
   - name: caliper-admins
     maintainers:
       - aklenik
@@ -2109,20 +2048,6 @@ repositories:
       bevel-operator-fabric-committers: read
       bevel-samples-admins: admin
       bevel-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: cacti
-    teams:
-      cacti-contributors: read
-      cacti-contributors-accenture: read
-      cacti-contributors-accenture-readonly: read
-      cacti-contributors-accenture-triage: triage
-      cacti-maintainers: maintain
-      cacti-security-administration: admin
-      cactus-contributors-ibm-triage: triage
-      robots: maintain
       read-only: read
       security-managers: read
       toc: read
