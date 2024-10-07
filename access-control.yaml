@@ -953,14 +953,12 @@ teams:
       - FabioPinheiro
       - yshyn-iohk
     members:
-      - FabioPinheiro
       - amagyar-iohk
       - bsandmann
       - bvoiturier
       - elribonazo
       - goncalo-frade-iohk
       - mineme0110
-      - yshyn-iohk
       - atala-dev
   - name: indy-admin
     maintainers:
