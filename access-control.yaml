@@ -950,7 +950,6 @@ teams:
       - mineme0110
   - name: identus-maintainers
     maintainers:
-      - FabioPinheiro
       - yshyn-iohk
     members:
       - amagyar-iohk
@@ -958,6 +957,7 @@ teams:
       - bvoiturier
       - elribonazo
       - goncalo-frade-iohk
+      - FabioPinheiro
       - mineme0110
       - atala-dev
   - name: indy-admin
