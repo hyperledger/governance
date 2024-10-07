@@ -946,42 +946,22 @@ teams:
     members:
       - FabioPinheiro
       - amagyar-iohk
-      - milosbackonja
-      - patlo-iog
-      - Dale-iohk
       - elribonazo
-      - womfoo
+      - mineme0110
   - name: identus-maintainers
     maintainers:
-      - essbante-io
-    members:
-      - CryptoKnightIOG
-      - EzequielPostan
       - FabioPinheiro
-      - FayyaadhAdams
+      - yshyn-iohk
+    members:
+      - FabioPinheiro
       - amagyar-iohk
-      - blockchaintimothy
       - bsandmann
       - bvoiturier
-      - cristianIOHK
-      - curtis-h
       - elribonazo
       - goncalo-frade-iohk
-      - lohanspies
-      - milosbackonja
-      - milosh86
       - mineme0110
-      - mkbreuningIOHK
-      - patlo-iog
-      - petevielhaber
-      - shotexa
       - yshyn-iohk
-      - womfoo
-      - Dale-iohk
       - atala-dev
-      - urosmrvic-iohk
-      - jesusdiazvico
-      - mattklepp
   - name: indy-admin
     maintainers:
       - WadeBarnes
@@ -1313,13 +1293,10 @@ teams:
       - Chengxuan
       - ConsensysOps
       - Cre-eD
-      - CryptoKnightIOG
       - DCNick3
-      - Dale-iohk
       - Echsecutor
       - EnriqueL8
       - Erigara
-      - EzequielPostan
       - FabioPinheiro
       - Gabriel-Trintinalia
       - Gavinok
@@ -1387,8 +1364,7 @@ teams:
       - baziorek
       - berendsliedrecht
       - bestbeforetoday
-      - bgravenorst
-      - blockchaintimothy
+      - bgravenors
       - bramwelt
       - brentzundel
       - bryce-mcmath
@@ -1406,8 +1382,6 @@ teams:
       - conanoc
       - conor10
       - coveralls
-      - cristianIOHK
-      - curtis-h
       - cvarjao
       - daniela-barbosa
       - daniellehrner
@@ -1452,7 +1426,6 @@ teams:
       - gtebrean
       - guoger
       - gv-timur
-      - hamada147
       - haowenmvp
       - hartm
       - horizenight
@@ -1503,22 +1476,18 @@ teams:
       - mastersingh24
       - matkt
       - matthew1001
-      - mattklepp
       - maurges
       - mayktu
       - mbaxter
-      - mbrandenburger
       - mbwhite
       - mepeltier
       - mgCepeda
       - mgmgwi
       - mikelodder7
-      - milosbackonja
       - milosh86
       - mineme0110
       - minyu66
       - mirgee
-      - mkbreuningIOHK
       - mkdolan
       - modbrin
       - munapower
@@ -1543,7 +1512,6 @@ teams:
       - outoftardis
       - outsidethecode
       - pSchlarb
-      - patlo-iog
       - PatStLouis
       - paul-cpp
       - paulbastian
@@ -1575,7 +1543,6 @@ teams:
       - shemnon
       - shimos
       - shorsher
-      - shotexa
       - siladu
       - skhoroshavin
       - smithbk
@@ -1602,7 +1569,6 @@ teams:
       - tkyonezu
       - tmarkovski
       - tock-ibm
-      - todorkoleviohk
       - tonybka
       - tplooker
       - travis-payne
@@ -1618,7 +1584,6 @@ teams:
       - vvalderrv
       - wadeking98
       - weihong-ou
-      - womfoo
       - xermicus
       - xiaor2
       - xichen1
