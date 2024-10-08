@@ -946,15 +946,16 @@ teams:
     members:
       - FabioPinheiro
       - amagyar-iohk
+      - elribonazo
+  - name: identus-maintainers
+    maintainers:
+      - yshyn-iohk
+    members:
+      - essbante-io    
+      - womfoo
       - milosbackonja
       - patlo-iog
       - Dale-iohk
-      - elribonazo
-      - womfoo
-  - name: identus-maintainers
-    maintainers:
-      - essbante-io
-    members:
       - CryptoKnightIOG
       - EzequielPostan
       - FabioPinheiro
@@ -975,7 +976,6 @@ teams:
       - patlo-iog
       - petevielhaber
       - shotexa
-      - yshyn-iohk
       - womfoo
       - Dale-iohk
       - atala-dev
