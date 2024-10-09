@@ -1748,16 +1748,16 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: aries-acapy-plugins
-    teams:
-      aries-admins: admin
-      aries-cloudagent-python-committers: maintain
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
+#  - name: aries-acapy-plugins
+#    teams:
+#      aries-admins: admin
+#      aries-cloudagent-python-committers: maintain
+#      aries-contributors: read
+#      aries-triage: triage
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
   - name: aries-acapy-tools
     teams:
       aries-admins: admin
@@ -1847,16 +1847,16 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: aries-cloudagent-python
-    teams:
-      aries-admins: admin
-      aries-cloudagent-python-committers: maintain
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
+#  - name: aries-cloudagent-python
+#    teams:
+#      aries-admins: admin
+#      aries-cloudagent-python-committers: maintain
+#      aries-contributors: read
+#      aries-triage: triage
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
   - name: aries-endorser-service
     teams:
       aries-admins: admin
