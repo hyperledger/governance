@@ -1748,16 +1748,6 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-#  - name: aries-acapy-plugins
-#    teams:
-#      aries-admins: admin
-#      aries-cloudagent-python-committers: maintain
-#      aries-contributors: read
-#      aries-triage: triage
-#      read-only: read
-#      security-managers: read
-#      toc: read
-#    visibility: public
   - name: aries-acapy-tools
     teams:
       aries-admins: admin
@@ -1768,35 +1758,35 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: aries-agent-test-harness
-    teams:
-      aries-admins: admin
-      aries-agent-test-harness-committers: maintain
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: aries-akrida
-    teams:
-      aries-admins: admin
-      aries-cloudagent-python-committers: write
-      aries-contributors: triage
-      aries-fabric-wrapper-maintainers: triage
-      aries-framework-javascript-committers: write
-      aries-mediator-service-committers: write
-      aries-mobile-agent-react-native-committers: triage
-      aries-protocol-test-suite-committers: triage
-      aries-sdk-dotnet-committers: triage
-      aries-sdk-javascript-committers: triage
-      aries-toolbox-committers: triage
-      aries-triage: triage
-      aries-wallet-maintainers: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
+#  - name: aries-agent-test-harness
+#    teams:
+#      aries-admins: admin
+#      aries-agent-test-harness-committers: maintain
+#      aries-contributors: read
+#      aries-triage: triage
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: aries-akrida
+#    teams:
+#      aries-admins: admin
+#      aries-cloudagent-python-committers: write
+#      aries-contributors: triage
+#      aries-fabric-wrapper-maintainers: triage
+#      aries-framework-javascript-committers: write
+#      aries-mediator-service-committers: write
+#      aries-mobile-agent-react-native-committers: triage
+#      aries-protocol-test-suite-committers: triage
+#      aries-sdk-dotnet-committers: triage
+#      aries-sdk-javascript-committers: triage
+#      aries-toolbox-committers: triage
+#      aries-triage: triage
+#      aries-wallet-maintainers: triage
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
   - name: aries-askar
     teams:
       aries-acapy-controllers-committers: maintain
@@ -1847,16 +1837,6 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-#  - name: aries-cloudagent-python
-#    teams:
-#      aries-admins: admin
-#      aries-cloudagent-python-committers: maintain
-#      aries-contributors: read
-#      aries-triage: triage
-#      read-only: read
-#      security-managers: read
-#      toc: read
-#    visibility: public
   - name: aries-endorser-service
     teams:
       aries-admins: admin
