@@ -2529,12 +2529,12 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: hyperledger-hip
-    teams:
-      read-only: read
-      security-managers: read
-      toc: maintain
-    visibility: public
+#  - name: hyperledger-hip
+#    teams:
+#      read-only: read
+#      security-managers: read
+#      toc: maintain
+#    visibility: public
   - name: hyperledger.dev
     teams:
       read-only: read
