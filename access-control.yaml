@@ -351,7 +351,6 @@ teams:
       - macfarla
     members:
       - ConsensysOps
-      - cdivitotawela
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
@@ -369,6 +368,7 @@ teams:
     members:
       - Gabriel-Trintinalia
       - ahamlat
+      - cdivitotawela
       - daniellehrner
       - diega
       - gfukushima
@@ -392,7 +392,6 @@ teams:
       - antonydenyer
       - atoulme
       - NickSneo
-      - cdivitotawela
       - cloudspores
       - kingnhcomcast
       - ensi321
