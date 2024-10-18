@@ -350,7 +350,6 @@ teams:
       - jframe
       - macfarla
     members:
-      - ConsensysOps
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
@@ -1249,7 +1248,6 @@ teams:
       - C0rWin
       - CHempel-esatus
       - Chengxuan
-      - ConsensysOps
       - Cre-eD
       - CryptoKnightIOG
       - DCNick3
