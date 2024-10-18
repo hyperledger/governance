@@ -347,9 +347,9 @@ teams:
   - name: besu-contributors
     maintainers:
       - garyschulte
+      - jframe
       - macfarla
     members:
-      - jframe
   - name: besu-docs-maintainers
     maintainers:
       - bgravenorst
