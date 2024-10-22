@@ -2708,87 +2708,87 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: iroha
-    collaborators:
-      coveralls: write
-      sorabot: admin
-    teams:
-      iroha-1-active-devs: maintain
-      iroha-admin: admin
-      iroha-contributors: maintain
-      iroha-ios: maintain
-      iroha-java: maintain
-      iroha-java-admin: maintain
-      iroha-javascript: maintain
-      iroha-maintainers: maintain
-      iroha-python: maintain
-      iroha-rfc-maintainers: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-2-docs
-    collaborators:
-      sorabot: write
-    teams:
-      iroha-1-active-devs: maintain
-      iroha-admin: admin
-      iroha-contributors: write
-      iroha-ios: write
-      iroha-java: write
-      iroha-java-admin: write
-      iroha-javascript: write
-      iroha-maintainers: maintain
-      iroha-python: write
-      iroha-rfc-maintainers: write
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-2-examples
-    teams:
-      iroha-admin: maintain
-      iroha-maintainers: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-ios
-    teams:
-      iroha-admin: admin
-      iroha-ios: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-java
-    teams:
-      iroha-admin: admin
-      iroha-java: write
-      iroha-java-admin: admin
-      iroha-maintainers: write
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-javascript
-    teams:
-      iroha-admin: admin
-      iroha-javascript: write
-      iroha-maintainers: read
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-python
-    teams:
-      iroha-admin: admin
-      iroha-maintainers: read
-      iroha-python: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
+#  - name: iroha
+#    collaborators:
+#      coveralls: write
+#      sorabot: admin
+#    teams:
+#      iroha-1-active-devs: maintain
+#      iroha-admin: admin
+#      iroha-contributors: maintain
+#      iroha-ios: maintain
+#      iroha-java: maintain
+#      iroha-java-admin: maintain
+#      iroha-javascript: maintain
+#      iroha-maintainers: maintain
+#      iroha-python: maintain
+#      iroha-rfc-maintainers: maintain
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: iroha-2-docs
+#    collaborators:
+#      sorabot: write
+#    teams:
+#      iroha-1-active-devs: maintain
+#      iroha-admin: admin
+#      iroha-contributors: write
+#      iroha-ios: write
+#      iroha-java: write
+#      iroha-java-admin: write
+#      iroha-javascript: write
+#      iroha-maintainers: maintain
+#      iroha-python: write
+#      iroha-rfc-maintainers: write
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: iroha-2-examples
+#    teams:
+#      iroha-admin: maintain
+#      iroha-maintainers: maintain
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: iroha-ios
+#    teams:
+#      iroha-admin: admin
+#      iroha-ios: maintain
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: iroha-java
+#    teams:
+#      iroha-admin: admin
+#      iroha-java: write
+#      iroha-java-admin: admin
+#      iroha-maintainers: write
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: iroha-javascript
+#    teams:
+#      iroha-admin: admin
+#      iroha-javascript: write
+#      iroha-maintainers: read
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
+#  - name: iroha-python
+#    teams:
+#      iroha-admin: admin
+#      iroha-maintainers: read
+#      iroha-python: maintain
+#      read-only: read
+#      security-managers: read
+#      toc: read
+#    visibility: public
   - name: toc
     teams:
       read-only: read
