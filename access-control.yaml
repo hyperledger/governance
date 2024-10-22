@@ -2753,22 +2753,6 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: iroha-deploy
-    teams:
-      iroha-admin: admin
-      iroha-maintainers: write
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-ed25519
-    teams:
-      iroha-admin: admin
-      iroha-maintainers: read
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
   - name: iroha-ios
     teams:
       iroha-admin: admin
@@ -2796,28 +2780,11 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: iroha-news
-    teams:
-      iroha-admin: admin
-      iroha-maintainers: admin
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
   - name: iroha-python
     teams:
       iroha-admin: admin
       iroha-maintainers: read
       iroha-python: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: iroha-rfcs
-    teams:
-      iroha-admin: maintain
-      iroha-maintainers: maintain
-      iroha-rfc-maintainers: write
       read-only: read
       security-managers: read
       toc: read
