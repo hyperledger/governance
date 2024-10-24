@@ -2343,7 +2343,15 @@ repositories:
       identus-maintainers: maintain
       security-managers: read
       toc: read
-    visibility: private         
+    visibility: private  
+  - name: identus-vdr
+    collaborators:
+    teams:
+      identus-admins: admin
+      identus-maintainers: maintain
+      security-managers: read
+      toc: read
+    visibility: public   
   - name: indy
     teams:
       indy-admin: admin
