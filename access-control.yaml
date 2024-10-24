@@ -11,10 +11,8 @@ teams:
     maintainers:
       - swcurran
     members:
-      - ArPhil
       - TelegramSam
       - dkulic
-      - victormartinez-work
   - name: anoncreds-maintainers
     maintainers:
       - swcurran
@@ -29,7 +27,6 @@ teams:
     maintainers:
       - swcurran
     members:
-      - ArPhil
       - TelegramSam
   - name: anoncreds-spec-v2-editors
     maintainers:
@@ -74,7 +71,6 @@ teams:
   - name: aries-agent-committers
     maintainers:
       - dhh1128
-      - nage
   - name: aries-agent-test-harness-committers
     maintainers:
       - WadeBarnes
@@ -139,13 +135,11 @@ teams:
   - name: aries-committers
     maintainers:
       - dhh1128
-      - nage
   - name: aries-contributors
     maintainers:
       - TelegramSam
       - WadeBarnes
       - dhh1128
-      - nage
       - swcurran
     members:
       - Jsyro
@@ -156,8 +150,6 @@ teams:
       - esune
       - ianco
       - jamshale
-      - rolsonquadras
-      - troyronda
       - wadeking98
   - name: aries-core-committers
     maintainers:
@@ -180,22 +172,13 @@ teams:
   - name: aries-fabric-wrapper-maintainers
     maintainers:
       - swcurran
-  - name: aries-framework-dotnet-committers
-    maintainers:
-      - tmarkovski
-    members:
-      - CHempel-esatus
-      - ntsbs
-      - tplooker
   - name: aries-framework-javascript-committers
     maintainers:
       - TimoGlastra
-      - jakubkoci
     members:
       - JamesKEbert
       - berendsliedrecht
       - genaris
-      - janrtvld
       - karimStekelenburg
   - name: aries-framework-kotlin-maintainers
     maintainers:
@@ -227,7 +210,6 @@ teams:
       - amanji
       - bryce-mcmath
       - cvarjao
-      - jcdrouin21
       - ryankoch13
       - thiagoromanos
       - wadeking98
@@ -235,20 +217,15 @@ teams:
     maintainers:
       - TelegramSam
       - dbluhm
-      - smithbk
-      - tmarkovski
     members:
       - dhh1128
       - jovfer
   - name: aries-rfc-committers
     maintainers:
       - dhh1128
-      - nage
       - swcurran
     members:
       - TelegramSam
-      - llorllale
-      - talltree
   - name: aries-sdk-android-committers
     maintainers:
       - mikelodder7
@@ -260,15 +237,9 @@ teams:
     members:
       - Artemkaaas
       - jovfer
-  - name: aries-sdk-dotnet-committers
-    maintainers:
-      - tmarkovski
   - name: aries-sdk-java-committers
     maintainers:
       - dbluhm
-  - name: aries-sdk-javascript-committers
-    maintainers:
-      - jakubkoci
   - name: aries-sdk-python-committers
     maintainers:
       - TelegramSam
@@ -393,8 +364,6 @@ teams:
       - NickSneo
       - cloudspores
       - kingnhcomcast
-      - ensi321
-      - gezero
       - gtebrean
       - kkaur01
       - m4sterbunny
@@ -428,9 +397,7 @@ teams:
       - YUNGU23
       - dexhunter
       - fengyangsy
-      - haowenmvp
       - link1697
-      - tianxuanhong
       - xiaor2
       - xichen1
       - zhuyuanmao
@@ -459,7 +426,6 @@ teams:
       - denyeart
     members:
       - bestbeforetoday
-      - jkneubuh
   - name: fabric-chaincode-java-maintainers
     maintainers:
       - bestbeforetoday
@@ -476,7 +442,6 @@ teams:
   - name: fabric-cli-maintainers
     maintainers:
       - denyeart
-      - troyronda
   - name: fabric-contract-api-go-maintainers
     maintainers:
       - bestbeforetoday
@@ -490,16 +455,13 @@ teams:
       - cendhu
       - liran-funaro
       - manish-sethi
-      - mastersingh24
       - tock-ibm
-      - troyronda
       - vaporos
       - yeasy
   - name: fabric-core-doc-maintainers
     maintainers:
       - denyeart
     members:
-      - Param-S
   - name: fabric-core-maintainers
     maintainers:
       - denyeart
@@ -523,14 +485,9 @@ teams:
       - bestbeforetoday
   - name: fabric-ja-jp-doc-maintainers
     maintainers:
-      - nekia
-      - nhoriguchi
-      - satomicchy
       - satota2
     members:
       - dnakashima
-      - e-maekawa
-      - naonishijima
       - shimos
       - yukiknd
   - name: fabric-lib-go-maintainers
@@ -551,12 +508,6 @@ teams:
       - mbrandenburger
     members:
       - munapower
-  - name: fabric-pt-br-doc-maintainers
-    maintainers:
-      - rst77
-    members:
-      - mayktu
-      - pemtajo
   - name: fabric-release-maintainers
     maintainers:
       - denyeart
@@ -570,17 +521,12 @@ teams:
       - denyeart
       - mbwhite
     members:
-      - jkneubuh
-      - nikhil550
       - satota2
   - name: fabric-sdk-go-maintainers
     maintainers:
       - denyeart
-      - mastersingh24
-      - troyronda
     members:
       - andrew-coleman
-      - bstasyszyn
       - fqutishat
   - name: fabric-sdk-java-maintainers
     maintainers:
@@ -606,7 +552,6 @@ teams:
     members:
       - davidkel
       - mbwhite
-      - suryalnvs
   - name: fabric-test-toolchain-maintainers
     maintainers:
       - denyeart
@@ -624,9 +569,7 @@ teams:
       - celder628
       - cendhu
       - channingduan
-      - ckpaliwal
       - davidkhala
-      - devanshpurani7
       - jt-nti
       - ketulsha
       - manish-sethi
@@ -690,14 +633,12 @@ teams:
       - EnriqueL8
     members:
       - Chengxuan
-      - annamcallister
       - awrichar
       - dechdev
       - gabriel-indik
       - onelapahead
       - jimthematrix
       - matthew1001
-      - nickgaski
       - shorsher
       - vdamle
   - name: firefly-cordaconnect-maintainers
@@ -883,9 +824,8 @@ teams:
       - andrewwhitehead
   - name: indy-agent-maintainers
     maintainers:
-      - nage
-    members:
       - TelegramSam
+    members:
       - dbluhm
   - name: indy-besu-maintainers
     maintainers:
@@ -896,13 +836,12 @@ teams:
       - Toktar
   - name: indy-ci
     maintainers:
-      - nage
+      - dhh1128
     members:
       - sovbot
   - name: indy-ci-maintainers
     maintainers:
       - dhh1128
-      - nage
   - name: indy-cli-rs-maintainers
     maintainers:
       - WadeBarnes
@@ -912,30 +851,21 @@ teams:
       - andrewwhitehead
       - ashcherbakov
       - dhh1128
-      - esplinr
-      - nage
   - name: indy-common
     maintainers:
       - WadeBarnes
       - dhh1128
       - mikelodder7
-      - nage
     members:
       - Toktar
-      - askolesov
       - brentzundel
       - lampkin-diet
-      - pSchlarb
-      - udosson
-      - vimmerru
       - esune
   - name: indy-did-method-maintainers
     maintainers:
       - swcurran
     members:
       - dbluhm
-      - domwoe
-      - paulbastian
   - name: indy-did-network-maintainers
     maintainers:
       - WadeBarnes
@@ -950,11 +880,9 @@ teams:
     maintainers:
       - Echsecutor
       - swcurran
-      - udosson
     members:
       - c2bo
       - mgmgwi
-      - solidnerd
       - zickau
   - name: indy-node-monitor-maintainers
     maintainers:
@@ -966,7 +894,6 @@ teams:
       - WadeBarnes
       - andrewwhitehead
     members:
-      - pSchlarb
       - PatStLouis
   - name: indy-rfc-maintainers
     maintainers:
@@ -974,11 +901,9 @@ teams:
     members:
       - dhh1128
       - mikelodder7
-      - nage
   - name: indy-sdk-contributors
     maintainers:
       - dhh1128
-      - nage
     members:
       - Artemkaaas
       - Patrik-Stas
@@ -987,27 +912,21 @@ teams:
       - mikelodder7
       - mirgee
       - peacekeeper
-      - vimmerru
   - name: indy-sdk-python-maintainers
     maintainers:
       - TelegramSam
       - andrewwhitehead
   - name: indy-sdk-react-native-maintainers
     maintainers:
-      - jakubkoci
-    members:
       - TimoGlastra
   - name: indy-security
     maintainers:
       - ryjones
     members:
-      - shakreiner
   - name: indy-shared-gha-maintainers
     maintainers:
       - WadeBarnes
     members:
-      - pSchlarb
-      - udosson
   - name: indy-shared-rs-maintainers
     maintainers:
       - WadeBarnes
@@ -1017,14 +936,10 @@ teams:
     maintainers:
       - WadeBarnes
       - dhh1128
-      - nage
     members:
       - Toktar
-      - askolesov
       - lampkin-diet
-      - skhoroshavin
       - swcurran
-      - vimmerru
   - name: indy-vdr-maintainers
     maintainers:
       - WadeBarnes
@@ -1035,12 +950,8 @@ teams:
       - andrewwhitehead
       - berendsliedrecht
       - ianco
-  - name: iroha-1-active-devs
-    maintainers:
-      - kuvaldini
   - name: iroha-admin
     maintainers:
-      - Cre-eD
       - safinsaf
     members:
       - BAStos525
@@ -1057,16 +968,13 @@ teams:
       - WRRicht3r
       - modbrin
       - mversic
-      - posplaw
       - s8sato
       - sorabot
-      - tkyonezu
   - name: iroha-ios
     maintainers:
       - safinsaf
     members:
       - nvzhu
-      - posplaw
       - sorabot
       - takemiyamakoto
   - name: iroha-java
@@ -1080,7 +988,6 @@ teams:
       - gv-timur
       - horizenight
       - maglighter
-      - orangeng
       - s8sato
       - timofeevmd
   - name: iroha-java-admin
@@ -1088,24 +995,21 @@ teams:
       - mversic
   - name: iroha-javascript
     maintainers:
-      - Cre-eD
+      - dmitrivenger
     members:
       - '0x009922'
       - BAStos525
       - DCNick3
       - Mingela
-      - SamHSmith
       - WRRicht3r
+      - SamHSmith
       - a-zorina
       - arndey
       - baziorek
       - dima74
-      - dmitrivenger
-      - f33r0
       - gv-timur
       - horizenight
       - mversic
-      - orangeng
       - outoftardis
       - s8sato
       - sorabot
@@ -1115,7 +1019,7 @@ teams:
       - alexstroke1
   - name: iroha-maintainers
     maintainers:
-      - Cre-eD
+      - dmitrivenger
     members:
       - '0x009922'
       - alexstroke1
@@ -1127,20 +1031,15 @@ teams:
       - adaagava
       - baziorek
       - dima74
-      - dmitrivenger
       - horizenight
       - mversic
-      - orangeng
       - outoftardis
-      - paul-cpp
       - s8sato
       - takemiyamakoto
       - timofeevmd
-      - tkyonezu
       - yamkovoy
   - name: iroha-python
     maintainers:
-      - Cre-eD
       - SamHSmith
     members:
       - DCNick3
@@ -1150,7 +1049,6 @@ teams:
       - dima74
       - horizenight
       - igor-egorov
-      - orangeng
       - s8sato
       - takemiyamakoto
       - timofeevmd
@@ -1195,9 +1093,7 @@ teams:
       - Artemkaaas
       - BAStos525
       - C0rWin
-      - CHempel-esatus
       - Chengxuan
-      - Cre-eD
       - CryptoKnightIOG
       - DCNick3
       - Dale-iohk
@@ -1209,7 +1105,6 @@ teams:
       - Gavinok
       - JamesKEbert
       - Jsyro
-      - Leeyoungone
       - LucasSte
       - Matilda-Clerke
       - Mingela
@@ -1217,7 +1112,6 @@ teams:
       - MuthuSundaravadivel
       - NickSneo
       - NicolasMassart
-      - Param-S
       - Patrik-Stas
       - RafaelAPB
       - RamilMus
@@ -1233,7 +1127,6 @@ teams:
       - TonyRowntree
       - Ugo
       - VRamakrishna
-      - VattiPraveen
       - WRRicht3r
       - WadeBarnes
       - YUNGU23
@@ -1255,7 +1148,6 @@ teams:
       - amanji
       - andrew-coleman
       - andrewwhitehead
-      - annamcallister
       - antonydenyer
       - anwalker293
       - arkadiPiven
@@ -1263,7 +1155,6 @@ teams:
       - arsulegai
       - ashcherbakov
       - askb
-      - askolesov
       - atoulme
       - auer-martin
       - awrichar
@@ -1277,7 +1168,6 @@ teams:
       - brentzundel
       - bryce-mcmath
       - bsandmann
-      - bstasyszyn
       - burdettadam
       - bvavala
       - bvoiturier
@@ -1302,7 +1192,6 @@ teams:
       - dechdev
       - denisandreenko
       - denyeart
-      - devanshpurani7
       - dexhunter
       - dhh1128
       - diega
@@ -1310,17 +1199,11 @@ teams:
       - dkulic
       - dmitrivenger
       - dnakashima
-      - domwoe
       - dviejokfs
-      - e-maekawa
       - eb-oss
-      - elenaizaguirre
       - elribonazo
-      - ensi321
-      - esplinr
       - essbante-io
       - esune
-      - f33r0
       - fab-10
       - fabiopalumbo
       - fengyangsy
@@ -1328,7 +1211,6 @@ teams:
       - gabriel-indik
       - garyschulte
       - genaris
-      - gezero
       - gfukushima
       - gmulhearn
       - gmulhearn-anonyome
@@ -1337,7 +1219,6 @@ teams:
       - guoger
       - gv-timur
       - hamada147
-      - haowenmvp
       - hartm
       - horizenight
       - hyperledger-bot
@@ -1347,20 +1228,15 @@ teams:
       - iikirilov
       - izuru0
       - jagpreetsinghsasan
-      - jakubkoci
       - jamshale
-      - janrtvld
-      - jcdrouin21
       - jesusdiazvico
       - jflo
       - jframe
       - jimthematrix
-      - jkneubuh
       - jleach
       - joaniefromtheblock
       - johncallahan
       - johnhomantaring
-      - jonathan-m-hamilton
       - joshuafernandes
       - jovfer
       - jt-nti
@@ -1373,7 +1249,6 @@ teams:
       - lampkin-diet
       - link1697
       - liran-funaro
-      - llorllale
       - lohanspies
       - lu-pinto
       - lucassaldanha
@@ -1384,12 +1259,10 @@ teams:
       - macfarla
       - maglighter
       - manish-sethi
-      - mastersingh24
       - matkt
       - matthew1001
       - mattklepp
       - maurges
-      - mayktu
       - mbaxter
       - mbrandenburger
       - mbwhite
@@ -1407,41 +1280,25 @@ teams:
       - modbrin
       - munapower
       - mversic
-      - nage
       - nain-F49FF806
-      - naonishijima
       - ncornwell
-      - nekia
-      - nhoriguchi
       - niall-shaw
-      - nickgaski
-      - nikhil550
       - nodlesh
       - non-fungible-nelson
-      - ntsbs
       - nvzhu
       - nxsaken
       - onelapahead
-      - orangeng
       - outSH
       - outoftardis
       - outsidethecode
-      - pSchlarb
       - patlo-iog
       - PatStLouis
-      - paul-cpp
-      - paulbastian
       - peacekeeper
-      - pemtajo
       - peterbroadhurst
       - petermetz
       - petevielhaber
       - pfi79
       - pinges
-      - posplaw
-      - ravikiranjanjanam
-      - rolsonquadras
-      - rst77
       - rudranshsharma123
       - ruzell22
       - rwat17
@@ -1451,57 +1308,40 @@ teams:
       - safinsaf
       - salaheldinsoliman
       - sandeepnRES
-      - satomicchy
       - satota2
       - seanyoung
       - sfuji822
-      - shakreiner
       - shemnon
       - shimos
       - shorsher
       - shotexa
       - siladu
-      - skhoroshavin
-      - smithbk
-      - solidnerd
       - sorabot
       - sovbot
       - sownak
       - stefashkaa
       - stone-ch
       - survived
-      - suryalnvs
       - suvajit-sarkar
       - swaptr
       - swcurran
       - takemiyamakoto
       - takeutak
-      - talltree
       - tareknaser
       - thelinuxfoundation
       - thiagoromanos
-      - tianxuanhong
       - timofeevmd
       - tkuhrt
-      - tkyonezu
-      - tmarkovski
       - tock-ibm
       - todorkoleviohk
       - tonybka
-      - tplooker
-      - travis-payne
-      - troyronda
       - tykeal
-      - udosson
       - usmansaleem
       - vaporos
       - vdamle
-      - victormartinez-work
-      - vimmerru
       - vkubiv
       - vvalderrv
       - wadeking98
-      - weihong-ou
       - womfoo
       - xermicus
       - xiaor2
@@ -1812,8 +1652,6 @@ repositories:
       aries-framework-javascript-committers: write
       aries-mobile-agent-react-native-committers: triage
       aries-protocol-test-suite-committers: triage
-      aries-sdk-dotnet-committers: triage
-      aries-sdk-javascript-committers: triage
       aries-socketdock-committers: maintain
       aries-toolbox-committers: triage
       aries-triage: triage
@@ -2043,7 +1881,6 @@ repositories:
       fabric-core-doc-maintainers: maintain
       fabric-core-maintainers: maintain
       fabric-ja-jp-doc-maintainers: maintain
-      fabric-pt-br-doc-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-ur-ur-maintainers: write
       fabric-vi-vn-doc-maintainers: maintain
