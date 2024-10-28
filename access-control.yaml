@@ -317,41 +317,6 @@ teams:
       - matthew1001
       - non-fungible-nelson
       - shemnon
-  - name: caliper-admins
-    maintainers:
-      - aklenik
-      - davidkel
-  - name: caliper-committers
-    maintainers:
-      - aklenik
-      - davidkel
-  - name: cello-admins
-    maintainers:
-      - yeasy
-    members:
-      - fengyangsy
-      - xichen1
-      - zhuyuanmao
-  - name: cello-analytics-maintainers
-    maintainers:
-      - yeasy
-  - name: cello-contributors
-    maintainers:
-      - yeasy
-    members:
-      - YoungHypo
-      - fengyangsy
-      - link1697
-      - xiaor2
-      - xichen1
-      - zhuyuanmao
-  - name: cello-maintainers
-    maintainers:
-      - yeasy
-    members:
-      - fengyangsy
-      - xichen1
-      - zhuyuanmao
   - name: fabric-admin-sdk-maintainers
     maintainers:
       - denyeart
@@ -1409,32 +1374,6 @@ repositories:
       besu-docs-maintainers: triage
       besu-maintainers: maintain
       besu-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: caliper
-    teams:
-      caliper-admins: admin
-      caliper-committers: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: caliper-benchmarks
-    teams:
-      caliper-admins: admin
-      caliper-committers: maintain
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: cello
-    teams:
-      cello-admins: admin
-      cello-analytics-maintainers: write
-      cello-contributors: write
-      cello-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
