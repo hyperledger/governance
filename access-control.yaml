@@ -665,7 +665,7 @@ teams:
     maintainers:
       - yshyn-iohk
     members:
-      - essbante-io    
+      - essbante-io
       - womfoo
       - milosbackonja
       - patlo-iog
@@ -1890,7 +1890,7 @@ repositories:
       read-only: read
       security-managers: read
       toc: read
-    visibility: public 
+    visibility: public
   - name: identus-edge-agent-sdk-kmp
     collaborators:
     teams:
@@ -1934,7 +1934,7 @@ repositories:
       identus-maintainers: maintain
       security-managers: read
       toc: read
-    visibility: private  
+    visibility: private
   - name: identus-vdr
     collaborators:
     teams:
@@ -1942,7 +1942,7 @@ repositories:
       identus-maintainers: maintain
       security-managers: read
       toc: read
-    visibility: public   
+    visibility: public
   - name: indy
     teams:
       indy-admin: admin
