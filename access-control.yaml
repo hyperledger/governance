@@ -44,13 +44,6 @@ teams:
       - andrewwhitehead
       - berendsliedrecht
       - dkulic
-  - name: aries-acapy-controllers-committers
-    maintainers:
-      - WadeBarnes
-      - swcurran
-    members:
-      - amanji
-      - esune
   - name: aries-acapy-plugin-toolbox-committers
     maintainers:
       - TelegramSam
@@ -75,13 +68,6 @@ teams:
       - andrewwhitehead
       - ianco
       - nodlesh
-  - name: aries-askar-committers
-    maintainers:
-      - WadeBarnes
-      - andrewwhitehead
-    members:
-      - berendsliedrecht
-      - ianco
   - name: aries-bbs-go-maintainers
     maintainers:
       - ale-linux
@@ -159,15 +145,6 @@ teams:
   - name: aries-framework-swift-maintainers
     maintainers:
       - conanoc
-  - name: aries-mediator-service-committers
-    maintainers:
-      - dbluhm
-    members:
-      - anwalker293
-      - esune
-      - JamesKEbert
-      - jamshale
-      - WadeBarnes
   - name: aries-mobile-agent-react-native-admins
     maintainers:
       - JamesKEbert
@@ -1127,7 +1104,6 @@ repositories:
     visibility: public
   - name: aries
     teams:
-      aries-acapy-controllers-committers: maintain
       aries-admins: admin
       aries-contributors: read
       aries-triage: triage
@@ -1136,41 +1112,10 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: aries-acapy-controllers
-    teams:
-      aries-acapy-controllers-committers: maintain
-      aries-admins: admin
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
   - name: aries-acapy-docs
     teams:
       aries-admins: admin
       aries-cloudagent-python-committers: maintain
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: aries-acapy-tools
-    teams:
-      aries-admins: admin
-      aries-cloudagent-python-committers: maintain
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: aries-askar
-    teams:
-      aries-acapy-controllers-committers: maintain
-      aries-admins: admin
-      aries-askar-committers: maintain
       aries-contributors: read
       aries-triage: triage
       read-only: read
@@ -1237,16 +1182,6 @@ repositories:
       aries-admins: admin
       aries-contributors: read
       aries-framework-swift-maintainers: maintain
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: aries-mediator-service
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-mediator-service-committers: maintain
       aries-triage: triage
       read-only: read
       security-managers: read
