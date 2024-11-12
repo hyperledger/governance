@@ -304,7 +304,7 @@ teams:
     maintainers:
       - denyeart
     members:
-      - mbwhite
+      - bestbeforetoday
   - name: fabric-ca-maintainers
     maintainers:
       - denyeart
@@ -312,26 +312,22 @@ teams:
       - bestbeforetoday
   - name: fabric-chaincode-java-maintainers
     maintainers:
-      - bestbeforetoday
       - denyeart
     members:
-      - C0rWin
-      - mbwhite
+      - bestbeforetoday
   - name: fabric-chaincode-node-maintainers
     maintainers:
-      - bestbeforetoday
       - denyeart
     members:
-      - mbwhite
+      - bestbeforetoday
   - name: fabric-cli-maintainers
     maintainers:
       - denyeart
   - name: fabric-contract-api-go-maintainers
     maintainers:
-      - bestbeforetoday
       - denyeart
     members:
-      - mbwhite
+      - bestbeforetoday
   - name: fabric-contributors
     maintainers:
       - denyeart
@@ -397,8 +393,8 @@ teams:
   - name: fabric-samples-maintainers
     maintainers:
       - denyeart
-      - mbwhite
     members:
+      - bestbeforetoday
       - satota2
   - name: fabric-sdk-go-maintainers
     maintainers:
