@@ -117,18 +117,6 @@ teams:
       - ianco
       - jamshale
       - wadeking98
-  - name: aries-endorser-service-admins
-    maintainers:
-      - WadeBarnes
-      - swcurran
-  - name: aries-endorser-service-committers
-    maintainers:
-      - WadeBarnes
-      - swcurran
-    members:
-      - esune
-      - Gavinok
-      - ianco
   - name: aries-fabric-wrapper-maintainers
     maintainers:
       - swcurran
@@ -1149,17 +1137,6 @@ repositories:
       aries-admins: admin
       aries-builder-images-maintainers: admin
       aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
-  - name: aries-endorser-service
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-endorser-service-admins: admin
-      aries-endorser-service-committers: maintain
       aries-triage: triage
       read-only: read
       security-managers: read
