@@ -667,6 +667,7 @@ teams:
       - urosmrvic-iohk
       - jesusdiazvico
       - mattklepp
+      - danniebgoode
   - name: indy-admin
     maintainers:
       - WadeBarnes
