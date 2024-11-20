@@ -227,8 +227,7 @@ teams:
       - Patrik-Stas
     members:
       - gmulhearn
-      - nain-F49FF806
-      - xprazak2
+      - lukewli-anonyome
   - name: besu-admin
     maintainers:
       - fab-10
@@ -915,6 +914,7 @@ teams:
       - link1697
       - lu-pinto
       - lucassaldanha
+      - lukewli-anonyome
       - lynnbendixsen
       - m4sterbunny
       - macfarla
