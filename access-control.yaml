@@ -1239,17 +1239,6 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: besu-errorprone-checks
-    teams:
-      besu-admin: admin
-      besu-contributors: write
-      besu-docs-maintainers: read
-      besu-maintainers: maintain
-      besu-triage: read
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
   - name: besu-native
     teams:
       besu-admin: admin
