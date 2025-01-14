@@ -2002,6 +2002,13 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
+  - name: indy-read-replica
+    teams:
+      indy-admin: admin
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
   - name: indy-shared-gha
     teams:
       indy-admin: admin
