@@ -698,6 +698,9 @@ teams:
     members:
       - Toktar
       - esune
+      - rxbryan
+      - burdettadam
+      - SylvainMartel
   - name: indy-did-method-maintainers
     maintainers:
       - swcurran
@@ -1841,6 +1844,7 @@ repositories:
   - name: indy
     teams:
       indy-admin: admin
+      indy-common: read
       read-only: read
       security-managers: read
       toc: read
@@ -1848,25 +1852,8 @@ repositories:
   - name: indy-besu
     teams:
       indy-admin: admin
-      indy-agent-maintainers: write
       indy-besu-maintainers: admin
-      indy-ci: write
-      indy-ci-maintainers: write
-      indy-cli-rs-maintainers: write
-      indy-common: write
-      indy-did-method-maintainers: write
-      indy-did-network-maintainers: write
-      indy-node-container-maintainers: write
-      indy-node-monitor-maintainers: write
-      indy-plenum-maintainers: write
-      indy-rfc-maintainers: write
-      indy-sdk-contributors: write
-      indy-sdk-python-maintainers: write
-      indy-sdk-react-native-maintainers: write
-      indy-shared-gha-maintainers: write
-      indy-shared-rs-maintainers: write
-      indy-test-automation: write
-      indy-vdr-maintainers: write
+      indy-common: read
       read-only: read
       security-managers: read
       toc: read
@@ -1875,6 +1862,7 @@ repositories:
     teams:
       indy-admin: admin
       indy-vdr-maintainers: maintain
+      indy-common: read
       read-only: read
       security-managers: read
       toc: read
@@ -1884,6 +1872,7 @@ repositories:
       indy-admin: admin
       indy-plenum-maintainers: maintain
       indy-vdr-maintainers: maintain
+      indy-common: read
       read-only: read
       security-managers: read
       toc: read
@@ -1908,7 +1897,9 @@ repositories:
     visibility: public
   - name: indy-did-networks
     teams:
-      indy-did-network-maintainers: admin
+      indy-admin: admin
+      indy-common: read
+      indy-did-network-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
@@ -1934,25 +1925,11 @@ repositories:
   - name: indy-node
     teams:
       indy-admin: admin
-      indy-agent-maintainers: maintain
-      indy-besu-maintainers: maintain
-      indy-ci: maintain
-      indy-ci-maintainers: maintain
-      indy-cli-rs-maintainers: maintain
-      indy-common: maintain
-      indy-did-method-maintainers: maintain
-      indy-did-network-maintainers: maintain
-      indy-node-container-maintainers: maintain
-      indy-node-monitor-maintainers: maintain
+      indy-common: read
       indy-plenum-maintainers: maintain
-      indy-rfc-maintainers: maintain
-      indy-sdk-contributors: maintain
-      indy-sdk-python-maintainers: maintain
-      indy-sdk-react-native-maintainers: maintain
       indy-shared-gha-maintainers: maintain
       indy-shared-rs-maintainers: maintain
       indy-test-automation: maintain
-      indy-vdr-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
@@ -1979,25 +1956,11 @@ repositories:
   - name: indy-plenum
     teams:
       indy-admin: admin
-      indy-agent-maintainers: maintain
-      indy-besu-maintainers: maintain
-      indy-ci: maintain
-      indy-ci-maintainers: maintain
-      indy-cli-rs-maintainers: maintain
-      indy-common: maintain
-      indy-did-method-maintainers: maintain
-      indy-did-network-maintainers: maintain
-      indy-node-container-maintainers: maintain
-      indy-node-monitor-maintainers: maintain
+      indy-common: read
       indy-plenum-maintainers: maintain
-      indy-rfc-maintainers: maintain
-      indy-sdk-contributors: maintain
-      indy-sdk-python-maintainers: maintain
-      indy-sdk-react-native-maintainers: maintain
       indy-shared-gha-maintainers: maintain
       indy-shared-rs-maintainers: maintain
       indy-test-automation: maintain
-      indy-vdr-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
@@ -2005,6 +1968,7 @@ repositories:
   - name: indy-read-replica
     teams:
       indy-admin: admin
+      indy-common: read
       read-only: read
       security-managers: read
       toc: read
@@ -2014,6 +1978,8 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-shared-gha-maintainers: admin
+      indy-node-maintainers: maintain
+      indy-plenum-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
@@ -2023,6 +1989,7 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-shared-rs-maintainers: maintain
+      indy-vdr-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
@@ -2032,6 +1999,8 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-test-automation: maintain
+      indy-node-maintainers: maintain
+      indy-plenum-maintainers: maintain
       read-only: read
       security-managers: read
       toc: read
