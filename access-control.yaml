@@ -1978,7 +1978,6 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-shared-gha-maintainers: admin
-      indy-node-maintainers: maintain
       indy-plenum-maintainers: maintain
       read-only: read
       security-managers: read
@@ -1999,7 +1998,6 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-test-automation: maintain
-      indy-node-maintainers: maintain
       indy-plenum-maintainers: maintain
       read-only: read
       security-managers: read
