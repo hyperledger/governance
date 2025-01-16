@@ -1171,22 +1171,6 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
-  - name: aries-socketdock
-    teams:
-      aries-admins: admin
-      aries-cloudagent-python-committers: write
-      aries-contributors: triage
-      aries-fabric-wrapper-maintainers: triage
-      aries-framework-javascript-committers: write
-      aries-mobile-agent-react-native-committers: triage
-      aries-protocol-test-suite-committers: triage
-      aries-socketdock-committers: maintain
-      aries-toolbox-committers: triage
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-      toc: read
-    visibility: public
   - name: aries-staticagent-python
     teams:
       aries-admins: admin
