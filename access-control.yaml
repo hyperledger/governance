@@ -173,11 +173,6 @@ teams:
       - TelegramSam
     members:
       - andrewwhitehead
-  - name: aries-socketdock-committers
-    maintainers:
-      - mepeltier
-    members:
-      - TheTechmage
   - name: aries-staticagent-python-committers
     maintainers:
       - TelegramSam
