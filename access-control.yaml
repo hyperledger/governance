@@ -785,7 +785,9 @@ teams:
       - tykeal
       - vvalderrv
     members:
+      - daniela-barbosa
       - davidwboswell
+      - minyu66
       - mkdolan
   - name: read-only
     maintainers:
@@ -962,6 +964,7 @@ teams:
     members:
       - coveralls
       - hyperledger-bot
+      - hyperledger-ci
   - name: security-managers
     maintainers:
       - hartm
