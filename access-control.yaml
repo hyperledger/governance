@@ -572,6 +572,12 @@ teams:
     members:
       - denisandreenko
       - alex-semenyuk
+  - name: firefly-cardano
+    maintainers:
+      - SupernaviX
+      - Quantumplation
+    members:
+      - mmahut
   - name: firefly-tokens-erc1155-maintainers
     maintainers:
       - peterbroadhurst
@@ -1652,6 +1658,16 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-tezosconnect-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
+  - name: firefly-cardano
+    teams:
+      firefly: read
+      firefly-admins: admin
+      firefly-contributors: read
+      firefly-cardano: maintain
       read-only: read
       security-managers: read
       toc: read
