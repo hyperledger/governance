@@ -574,9 +574,10 @@ teams:
       - alex-semenyuk
   - name: firefly-cardano
     maintainers:
+      - EnriqueL8
+    members:
       - SupernaviX
       - Quantumplation
-    members:
       - mmahut
   - name: firefly-tokens-erc1155-maintainers
     maintainers:
