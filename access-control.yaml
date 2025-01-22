@@ -939,7 +939,6 @@ teams:
       - s7santosh
       - satota2
       - seanyoung
-      - shemnon
       - shimos
       - shorsher
       - shotexa
@@ -979,7 +978,6 @@ teams:
       - ryjones
     members:
       - denyeart
-      - shemnon
   - name: toc
     maintainers:
       - tkuhrt
@@ -2029,7 +2027,6 @@ repositories:
       garyschulte: admin
       jflo: admin
       matkt: admin
-      shemnon: admin
     teams:
       security-managers: read
       toc: read
