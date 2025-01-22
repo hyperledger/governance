@@ -265,7 +265,6 @@ teams:
     members:
       - ajsutton
       - antonydenyer
-      - atoulme
       - NickSneo
       - gtebrean
       - kkaur01
@@ -621,12 +620,9 @@ teams:
     maintainers:
       - yshyn-iohk
     members:
-      - essbante-io
-      - womfoo
-      - milosbackonja
-      - patlo-iog
-      - Dale-iohk
       - CryptoKnightIOG
+      - Dale-iohk
+      - DannieBGoode
       - EzequielPostan
       - FabioPinheiro
       - FayyaadhAdams
@@ -637,7 +633,10 @@ teams:
       - cristianIOHK
       - curtis-h
       - elribonazo
+      - essbante-io
       - goncalo-frade-iohk
+      - jesusdiazvico
+      - mattklepp
       - milosbackonja
       - milosh86
       - mineme0110
@@ -645,13 +644,8 @@ teams:
       - patlo-iog
       - petevielhaber
       - shotexa
-      - womfoo
-      - Dale-iohk
-      - atala-dev
       - urosmrvic-iohk
-      - jesusdiazvico
-      - mattklepp
-      - DannieBGoode
+      - womfoo
   - name: indy-admin
     maintainers:
       - WadeBarnes
@@ -821,7 +815,6 @@ teams:
       - TheTechmage
       - TimoGlastra
       - Toktar
-      - Ugo
       - VRamakrishna
       - WadeBarnes
       - YoungHypo
@@ -842,7 +835,6 @@ teams:
       - arsulegai
       - ashcherbakov
       - askb
-      - atoulme
       - awrichar
       - berendsliedrecht
       - bestbeforetoday
