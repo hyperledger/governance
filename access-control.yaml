@@ -1071,6 +1071,15 @@ repositories:
       security-managers: read
       toc: read
     visibility: public
+  - name: anoncreds-wrapper-javascript
+    teams:
+      anoncreds-admins: admin
+      anoncreds-contributors: read
+      anoncreds-maintainers: maintain
+      read-only: read
+      security-managers: read
+      toc: read
+    visibility: public
   - name: anoncreds-v2-rs
     teams:
       anoncreds-admins: admin
