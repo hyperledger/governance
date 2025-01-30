@@ -775,9 +775,7 @@ teams:
     maintainers:
       - SeanBohan
       - askb
-      - bramwelt
       - eb-oss
-      - fabiopalumbo
       - hartm
       - jwagantall
       - ryjones
@@ -841,7 +839,6 @@ teams:
       - bestbeforetoday
       - bgravenorst
       - blockchaintimothy
-      - bramwelt
       - bsandmann
       - bvavala
       - bvoiturier
@@ -870,7 +867,6 @@ teams:
       - essbante-io
       - esune
       - fab-10
-      - fabiopalumbo
       - fengyangsy
       - gabriel-indik
       - garyschulte
