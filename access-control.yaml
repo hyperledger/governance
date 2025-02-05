@@ -1670,14 +1670,14 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: identus-mediator
-    collaborators:
-    teams:
-      identus-admins: admin
-      identus-maintainers: maintain
-      read-only: read
-      security-managers: read
-    visibility: public
+#  - name: identus-mediator
+#    collaborators:
+#    teams:
+#      identus-admins: admin
+#      identus-maintainers: maintain
+#      read-only: read
+#      security-managers: read
+#    visibility: public
   - name: identus-edge-agent-sdk-ts
     collaborators:
     teams:
