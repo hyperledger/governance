@@ -151,11 +151,6 @@ teams:
     maintainers:
       - TelegramSam
       - dbluhm
-  - name: aries-rfc-committers
-    maintainers:
-      - swcurran
-    members:
-      - TelegramSam
   - name: aries-sdk-android-committers
     maintainers:
       - mikelodder7
@@ -1122,15 +1117,6 @@ repositories:
       aries-admins: admin
       aries-contributors: read
       aries-framework-swift-maintainers: maintain
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: aries-rfcs
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-rfc-committers: admin
       aries-triage: triage
       read-only: read
       security-managers: read
