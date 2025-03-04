@@ -1140,17 +1140,6 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: aries-vcx
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-triage: triage
-      aries-vcx-admins: admin
-      aries-vcx-contributors: write
-      aries-vcx-maintainers: maintain
-      read-only: read
-      security-managers: read
-    visibility: public
   - name: besu
     teams:
       besu-admin: admin
