@@ -335,7 +335,9 @@ teams:
       - satota2
     members:
       - dnakashima
+      - satomicchy
       - shimos
+      - yukiknd
   - name: fabric-lib-go-maintainers
     maintainers:
       - denyeart
