@@ -103,12 +103,6 @@ teams:
       - JamesKEbert
       - berendsliedrecht
       - genaris
-  - name: aries-framework-kotlin-maintainers
-    maintainers:
-      - conanoc
-  - name: aries-framework-swift-maintainers
-    maintainers:
-      - conanoc
   - name: aries-mobile-agent-react-native-admins
     maintainers:
       - JamesKEbert
@@ -156,9 +150,6 @@ teams:
       - esune
       - Gavinok
       - jamshale
-  - name: aries-uniffi-wrappers-committers
-    maintainers:
-      - conanoc
   - name: aries-vcx-admins
     maintainers:
       - Patrik-Stas
@@ -813,7 +804,6 @@ teams:
       - c2bo
       - cjhowland
       - cloudspores
-      - conanoc
       - conor10
       - coveralls
       - cristianIOHK
@@ -1058,32 +1048,6 @@ repositories:
       aries-bbs-maintainers: admin
       aries-contributors: read
       aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: aries-framework-kotlin
-    teams:
-      aries-admins: admin
-      aries-framework-kotlin-maintainers: maintain
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: aries-framework-swift
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-framework-swift-maintainers: maintain
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: aries-uniffi-wrappers
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-triage: triage
-      aries-uniffi-wrappers-committers: maintain
       read-only: read
       security-managers: read
     visibility: public
