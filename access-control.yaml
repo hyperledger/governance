@@ -82,30 +82,6 @@ teams:
       - berendsliedrecht
       - mikelodder7
       - swcurran
-  - name: aries-builder-images-maintainers
-    maintainers:
-      - andrewwhitehead
-    members:
-      - TimoGlastra
-      - berendsliedrecht
-      - cvarjao
-      - jleach
-  - name: aries-cloudagent-python-committers
-    maintainers:
-      - TelegramSam
-      - andrewwhitehead
-      - swcurran
-    members:
-      - TimoGlastra
-      - WadeBarnes
-      - amanji
-      - dbluhm
-      - esune
-      - ianco
-      - jamshale
-      - ff137
-      - thiagoromanos
-      - PatStLouis
   - name: aries-contributors
     maintainers:
       - TelegramSam
@@ -168,10 +144,6 @@ teams:
       - TelegramSam
     members:
       - andrewwhitehead
-  - name: aries-staticagent-python-committers
-    maintainers:
-      - TelegramSam
-      - dbluhm
   - name: aries-toolbox-committers
     maintainers:
       - TelegramSam
@@ -1066,15 +1038,6 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: aries-acapy-docs
-    teams:
-      aries-admins: admin
-      aries-cloudagent-python-committers: maintain
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
   - name: aries-bbs-go
     teams:
       aries-admins: admin
@@ -1098,15 +1061,6 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: aries-builder-images
-    teams:
-      aries-admins: admin
-      aries-builder-images-maintainers: admin
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
   - name: aries-framework-kotlin
     teams:
       aries-admins: admin
@@ -1120,15 +1074,6 @@ repositories:
       aries-admins: admin
       aries-contributors: read
       aries-framework-swift-maintainers: maintain
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: aries-staticagent-python
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-staticagent-python-committers: admin
       aries-triage: triage
       read-only: read
       security-managers: read
