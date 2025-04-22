@@ -284,11 +284,6 @@ teams:
       - satota2
       - tock-ibm
       - yacovm
-  - name: fabric-gateway-java-maintainers
-    maintainers:
-      - andrew-coleman
-      - bestbeforetoday
-      - denyeart
   - name: fabric-gateway-maintainers
     maintainers:
       - andrew-coleman
@@ -332,23 +327,6 @@ teams:
     members:
       - bestbeforetoday
       - satota2
-  - name: fabric-sdk-go-maintainers
-    maintainers:
-      - denyeart
-    members:
-      - andrew-coleman
-  - name: fabric-sdk-java-maintainers
-    maintainers:
-      - andrew-coleman
-      - bestbeforetoday
-      - denyeart
-    members:
-  - name: fabric-sdk-node-maintainers
-    maintainers:
-      - bestbeforetoday
-      - denyeart
-    members:
-      - andrew-coleman
   - name: fabric-sdk-py-maintainers
     maintainers:
       - denyeart
@@ -1038,7 +1016,6 @@ repositories:
       fabric-core-maintainers: write
       fabric-maintainers: write
       fabric-release-maintainers: write
-      fabric-sdk-go-maintainers: write
       read-only: read
       security-managers: read
     visibility: public
@@ -1204,15 +1181,6 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: fabric-gateway-java
-    teams:
-      fabric-admins: admin
-      fabric-gateway-java-maintainers: admin
-      fabric-release-maintainers: maintain
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
   - name: fabric-lib-go
     teams:
       fabric-admins: admin
@@ -1273,33 +1241,6 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-samples-maintainers: admin
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: fabric-sdk-go
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-sdk-go-maintainers: maintain
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: fabric-sdk-java
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-sdk-java-maintainers: admin
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: fabric-sdk-node
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-sdk-node-maintainers: admin
       fabric-triage: triage
       read-only: read
       security-managers: read
