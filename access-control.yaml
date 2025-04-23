@@ -1042,15 +1042,6 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: aries-bbssignatures-rs
-    teams:
-      aries-admins: admin
-      aries-bbs-maintainers: admin
-      aries-contributors: read
-      aries-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
   - name: besu
     teams:
       besu-admin: admin
