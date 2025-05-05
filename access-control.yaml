@@ -316,6 +316,9 @@ teams:
   - name: fabric-release-maintainers
     maintainers:
       - denyeart
+    members:
+      - C0rWin
+      - yacovm
   - name: fabric-rfc-maintainers
     maintainers:
       - denyeart
