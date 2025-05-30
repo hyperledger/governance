@@ -1052,7 +1052,7 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: besu-verkle-trie
+  - name: besu-stateless
     teams:
       besu-admin: admin
       besu-contributors: write
