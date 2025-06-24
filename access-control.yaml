@@ -374,6 +374,24 @@ teams:
   - name: fabric-website-maintainers
     maintainers:
       - denyeart
+  - name: fabric-x-committer-maintainers
+    maintainers:
+      - liran-funaro
+      - cendhu
+  - name: fabric-x-common-maintainers
+    maintainers:
+      - liran-funaro
+      - cendhu
+      - tock-ibm
+  - name: fabric-x-endorser-maintainers
+    maintainers:
+      - adecaro
+      - ale-linux
+      - mbrandenburger
+  - name: fabric-x-orderer-maintainers
+    maintainers:
+      - HagarMeir
+      - tock-ibm
   - name: fabric-zh-cn-doc-maintainers
     maintainers:
       - yeasy
@@ -1255,6 +1273,42 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-test-maintainers: maintain
       fabric-test-toolchain-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-committer
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-committer-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-common
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-common-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-endorser
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-endorser-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-orderer
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-orderer-maintainers: maintain
       fabric-triage: triage
       read-only: read
       security-managers: read
