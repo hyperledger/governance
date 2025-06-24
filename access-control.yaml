@@ -92,7 +92,6 @@ teams:
       - esune
       - ianco
       - jamshale
-      - wadeking98
   - name: aries-fabric-wrapper-maintainers
     maintainers:
       - swcurran
@@ -116,7 +115,6 @@ teams:
       - amanji
       - cvarjao
       - thiagoromanos
-      - wadeking98
   - name: aries-protocol-test-suite-committers
     maintainers:
       - TelegramSam
@@ -355,7 +353,6 @@ teams:
       - benjsmi
       - bestbeforetoday
       - C0rWin
-      - celder628
       - jt-nti
       - manish-sethi
       - mbwhite
@@ -364,7 +361,6 @@ teams:
       - s7santosh
       - SamYuan1990
       - satota2
-      - shoaebjindani
       - tock-ibm
       - yacovm
       - yeasy
@@ -376,22 +372,27 @@ teams:
       - denyeart
   - name: fabric-x-committer-maintainers
     maintainers:
+      - ryjones
+    members:
       - liran-funaro
       - cendhu
   - name: fabric-x-common-maintainers
     maintainers:
-      - liran-funaro
-      - cendhu
       - tock-ibm
+    members:
+      - cendhu
+      - liran-funaro
   - name: fabric-x-endorser-maintainers
     maintainers:
       - adecaro
+    members:
       - ale-linux
       - mbrandenburger
   - name: fabric-x-orderer-maintainers
     maintainers:
-      - HagarMeir
       - tock-ibm
+    members:
+      - HagarMeir
   - name: fabric-zh-cn-doc-maintainers
     maintainers:
       - yeasy
@@ -898,7 +899,6 @@ teams:
       - tykeal
       - usmansaleem
       - vvalderrv
-      - wadeking98
       - womfoo
       - xiaor2
       - xichen1
@@ -1277,42 +1277,42 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-  - name: fabric-x-committer
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-x-committer-maintainers: maintain
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: fabric-x-common
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-x-common-maintainers: maintain
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: fabric-x-endorser
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-x-endorser-maintainers: maintain
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
-  - name: fabric-x-orderer
-    teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-x-orderer-maintainers: maintain
-      fabric-triage: triage
-      read-only: read
-      security-managers: read
-    visibility: public
+#  - name: fabric-x-committer
+#    teams:
+#      fabric-admins: admin
+#      fabric-release-maintainers: maintain
+#      fabric-x-committer-maintainers: maintain
+#      fabric-triage: triage
+#      read-only: read
+#      security-managers: read
+#    visibility: public
+#  - name: fabric-x-common
+#    teams:
+#      fabric-admins: admin
+#      fabric-release-maintainers: maintain
+#      fabric-x-common-maintainers: maintain
+#      fabric-triage: triage
+#      read-only: read
+#      security-managers: read
+#    visibility: public
+#  - name: fabric-x-endorser
+#    teams:
+#      fabric-admins: admin
+#      fabric-release-maintainers: maintain
+#      fabric-x-endorser-maintainers: maintain
+#      fabric-triage: triage
+#      read-only: read
+#      security-managers: read
+#    visibility: public
+#  - name: fabric-x-orderer
+#    teams:
+#      fabric-admins: admin
+#      fabric-release-maintainers: maintain
+#      fabric-x-orderer-maintainers: maintain
+#      fabric-triage: triage
+#      read-only: read
+#      security-managers: read
+#    visibility: public
   - name: firefly
     teams:
       firefly: read
