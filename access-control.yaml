@@ -1277,42 +1277,42 @@ repositories:
       read-only: read
       security-managers: read
     visibility: public
-#  - name: fabric-x-committer
-#    teams:
-#      fabric-admins: admin
-#      fabric-release-maintainers: maintain
-#      fabric-x-committer-maintainers: maintain
-#      fabric-triage: triage
-#      read-only: read
-#      security-managers: read
-#    visibility: public
-#  - name: fabric-x-common
-#    teams:
-#      fabric-admins: admin
-#      fabric-release-maintainers: maintain
-#      fabric-x-common-maintainers: maintain
-#      fabric-triage: triage
-#      read-only: read
-#      security-managers: read
-#    visibility: public
-#  - name: fabric-x-endorser
-#    teams:
-#      fabric-admins: admin
-#      fabric-release-maintainers: maintain
-#      fabric-x-endorser-maintainers: maintain
-#      fabric-triage: triage
-#      read-only: read
-#      security-managers: read
-#    visibility: public
-#  - name: fabric-x-orderer
-#    teams:
-#      fabric-admins: admin
-#      fabric-release-maintainers: maintain
-#      fabric-x-orderer-maintainers: maintain
-#      fabric-triage: triage
-#      read-only: read
-#      security-managers: read
-#    visibility: public
+  - name: fabric-x-committer
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-committer-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-common
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-common-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-endorser
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-endorser-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
+  - name: fabric-x-orderer
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-orderer-maintainers: maintain
+      fabric-triage: triage
+      read-only: read
+      security-managers: read
+    visibility: public
   - name: firefly
     teams:
       firefly: read
