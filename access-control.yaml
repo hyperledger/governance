@@ -371,9 +371,8 @@ teams:
       - denyeart
   - name: fabric-x-committer-maintainers
     maintainers:
-      - ryjones
-    members:
       - liran-funaro
+    members:
       - cendhu
   - name: fabric-x-common-maintainers
     maintainers:
