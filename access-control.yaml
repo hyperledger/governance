@@ -661,166 +661,6 @@ teams:
       - davidwboswell
       - minyu66
       - mkdolan
-  - name: read-only
-    maintainers:
-      - ryjones
-    members:
-      - Artemkaaas
-      - C0rWin
-      - Chengxuan
-      - CryptoKnightIOG
-      - Echsecutor
-      - EnriqueL8
-      - EzequielPostan
-      - FabioPinheiro
-      - Gabriel-Trintinalia
-      - Gavinok
-      - JamesKEbert
-      - Matilda-Clerke
-      - MuthuSundaravadivel
-      - NickSneo
-      - Patrik-Stas
-      - SamMayWork
-      - SamYuan1990
-      - SeanBohan
-      - TelegramSam
-      - TheTechmage
-      - TimoGlastra
-      - Toktar
-      - VRamakrishna
-      - WadeBarnes
-      - YoungHypo
-      - adityajoshi12
-      - ahamlat
-      - ajsutton
-      - akarabashov
-      - aklenik
-      - ale-linux
-      - alex-semenyuk
-      - alexandratran
-      - amagyar-iohk
-      - amanji
-      - andrew-coleman
-      - andrewwhitehead
-      - antonydenyer
-      - anwalker293
-      - arsulegai
-      - ashcherbakov
-      - askb
-      - awrichar
-      - berendsliedrecht
-      - bestbeforetoday
-      - bgravenorst
-      - blockchaintimothy
-      - bsandmann
-      - bvavala
-      - bvoiturier
-      - c2bo
-      - cjhowland
-      - cloudspores
-      - conor10
-      - coveralls
-      - cristianIOHK
-      - curtis-h
-      - cvarjao
-      - daniellehrner
-      - davidkel
-      - davidwboswell
-      - dbluhm
-      - dechdev
-      - denisandreenko
-      - denyeart
-      - diega
-      - dkulic
-      - dnakashima
-      - dviejokfs
-      - eb-oss
-      - elribonazo
-      - essbante-io
-      - esune
-      - fab-10
-      - fengyangsy
-      - gabriel-indik
-      - garyschulte
-      - genaris
-      - gfukushima
-      - gmulhearn
-      - gmulhearn-anonyome
-      - goncalo-frade-iohk
-      - gtebrean
-      - hartm
-      - hyperledger-bot
-      - ianco
-      - jamshale
-      - jesusdiazvico
-      - jflo
-      - jframe
-      - jimthematrix
-      - jleach
-      - joshuafernandes
-      - jt-nti
-      - jwagantall
-      - kkaur01
-      - kingnhcomcast
-      - link1697
-      - lu-pinto
-      - lucassaldanha
-      - lukewli-anonyome
-      - lynnbendixsen
-      - m4sterbunny
-      - macfarla
-      - manish-sethi
-      - matkt
-      - matthew1001
-      - mattklepp
-      - mbaxter
-      - mbrandenburger
-      - mbwhite
-      - mepeltier
-      - mgmgwi
-      - mikelodder7
-      - milosbackonja
-      - milosh86
-      - mineme0110
-      - mkbreuningIOHK
-      - mkdolan
-      - munapower
-      - nain-F49FF806
-      - nodlesh
-      - non-fungible-nelson
-      - onelapahead
-      - patlo-iog
-      - PatStLouis
-      - peterbroadhurst
-      - petermetz
-      - petevielhaber
-      - pfi79
-      - pinges
-      - s7santosh
-      - satota2
-      - seanyoung
-      - shimos
-      - shorsher
-      - shotexa
-      - siladu
-      - sovbot
-      - survived
-      - swcurran
-      - thelinuxfoundation
-      - thiagoromanos
-      - tkuhrt
-      - tock-ibm
-      - tykeal
-      - usmansaleem
-      - vvalderrv
-      - womfoo
-      - xiaor2
-      - xichen1
-      - xprazak2
-      - yacovm
-      - yeasy
-      - yshyn-iohk
-      - zhuyuanmao
   - name: robots
     maintainers:
       - ryjones
@@ -845,14 +685,12 @@ teams:
 repositories:
   - name: .github
     teams:
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds
     teams:
       anoncreds-admins: admin
       anoncreds-contributors: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-clsignatures-rs
@@ -860,7 +698,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-methods-registry
@@ -868,7 +705,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-revocation
@@ -877,7 +713,6 @@ repositories:
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
       anoncreds-spec-editors: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-rs
@@ -885,7 +720,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-spec
@@ -894,7 +728,6 @@ repositories:
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
       anoncreds-spec-editors: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-spec-v2
@@ -902,7 +735,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-spec-v2-editors: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-tex
@@ -913,7 +745,6 @@ repositories:
       anoncreds-spec-editors: triage
       anoncreds-spec-v2-editors: triage
       anoncreds-v2-rs-maintainers: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-wrapper-javascript
@@ -921,7 +752,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: anoncreds-v2-rs
@@ -929,7 +759,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-v2-rs-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: aries
@@ -937,7 +766,6 @@ repositories:
       aries-admins: admin
       aries-contributors: read
       aries-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: aries-bbs-go
@@ -950,7 +778,6 @@ repositories:
       fabric-core-maintainers: write
       fabric-maintainers: write
       fabric-release-maintainers: write
-      read-only: read
       security-managers: read
     visibility: public
   - name: besu
@@ -960,7 +787,6 @@ repositories:
       besu-docs-maintainers: triage
       besu-maintainers: maintain
       besu-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: besu-docs
@@ -970,7 +796,6 @@ repositories:
       besu-docs-maintainers: admin
       besu-maintainers: triage
       besu-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: besu-native
@@ -980,7 +805,6 @@ repositories:
       besu-docs-maintainers: triage
       besu-maintainers: maintain
       besu-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: besu-stateless
@@ -990,7 +814,6 @@ repositories:
       besu-docs-maintainers: triage
       besu-maintainers: maintain
       besu-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric
@@ -1000,7 +823,6 @@ repositories:
       fabric-core-maintainers: admin
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-admin-sdk
@@ -1008,7 +830,6 @@ repositories:
       fabric-admin-sdk-maintainers: admin
       fabric-admins: admin
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-amcl
@@ -1017,7 +838,6 @@ repositories:
       fabric-core-maintainers: admin
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-ca
@@ -1027,7 +847,6 @@ repositories:
       fabric-core-doc-maintainers: write
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-chaincode-go
@@ -1036,7 +855,6 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-chaincode-java
@@ -1045,7 +863,6 @@ repositories:
       fabric-chaincode-java-maintainers: admin
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-chaincode-node
@@ -1054,7 +871,6 @@ repositories:
       fabric-chaincode-node-maintainers: admin
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-cli
@@ -1063,7 +879,6 @@ repositories:
       fabric-cli-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-config
@@ -1073,7 +888,6 @@ repositories:
       fabric-core-maintainers: admin
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-contract-api-go
@@ -1082,7 +896,6 @@ repositories:
       fabric-contract-api-go-maintainers: admin
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-docs-i18n
@@ -1095,7 +908,6 @@ repositories:
       fabric-ur-ur-maintainers: write
       fabric-zh-cn-doc-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-gateway
@@ -1103,7 +915,6 @@ repositories:
       fabric-admins: admin
       fabric-gateway-maintainers: admin
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-lib-go
@@ -1113,7 +924,6 @@ repositories:
       fabric-lib-go-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-private-chaincode
@@ -1121,7 +931,6 @@ repositories:
       fabric-admins: admin
       fabric-private-chaincode-committers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-protos
@@ -1130,7 +939,6 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-protos-go
@@ -1139,7 +947,6 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-protos-go-apiv2
@@ -1148,7 +955,6 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-rfcs
@@ -1158,7 +964,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-rfc-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-samples
@@ -1167,7 +972,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-samples-maintainers: admin
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-sdk-py
@@ -1177,7 +981,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-sdk-py-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-test
@@ -1187,7 +990,6 @@ repositories:
       fabric-test-maintainers: maintain
       fabric-test-toolchain-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-x-committer
@@ -1196,7 +998,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-x-committer-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-x-common
@@ -1205,7 +1006,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-x-common-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-x-endorser
@@ -1214,7 +1014,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-x-endorser-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: fabric-x-orderer
@@ -1223,7 +1022,6 @@ repositories:
       fabric-release-maintainers: maintain
       fabric-x-orderer-maintainers: maintain
       fabric-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly
@@ -1232,7 +1030,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-core-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-cli
@@ -1241,7 +1038,6 @@ repositories:
       firefly-admins: admin
       firefly-cli-maintainers: maintain
       firefly-contributors: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-common
@@ -1249,7 +1045,6 @@ repositories:
       firefly-admins: admin
       firefly-common-maintainers: maintain
       firefly-contributors: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-cordaconnect
@@ -1258,7 +1053,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-cordaconnect-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-dataexchange-https
@@ -1267,7 +1061,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-dataexchange-https-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-ethconnect
@@ -1276,7 +1069,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-ethconnect-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-evmconnect
@@ -1284,7 +1076,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-evmconnect-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-fabconnect
@@ -1293,7 +1084,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-fabconnect-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-fir
@@ -1302,7 +1092,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-fir-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-helm-charts
@@ -1311,7 +1100,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-helm-charts-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-perf-cli
@@ -1320,7 +1108,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-perf-cli-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-samples
@@ -1329,7 +1116,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-samples-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-sandbox
@@ -1337,7 +1123,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-sandbox-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-sdk-nodejs
@@ -1345,7 +1130,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-sdk-nodejs-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-signer
@@ -1353,7 +1137,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-signer-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-tezosconnect
@@ -1362,7 +1145,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-tezosconnect-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-cardano
@@ -1371,7 +1153,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-cardano: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-tokens-erc1155
@@ -1380,7 +1161,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-tokens-erc1155-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-tokens-erc20-erc721
@@ -1389,7 +1169,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-tokens-erc20-erc721-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-transaction-manager
@@ -1397,7 +1176,6 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-transaction-manager-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: firefly-ui
@@ -1406,12 +1184,10 @@ repositories:
       firefly-admins: admin
       firefly-contributors: read
       firefly-ui-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: governance
     teams:
-      read-only: read
       security-managers: read
     visibility: public
   - name: homebrew-besu
@@ -1421,24 +1197,20 @@ repositories:
       besu-docs-maintainers: triage
       besu-maintainers: maintain
       besu-triage: triage
-      read-only: read
       security-managers: read
     visibility: public
   - name: hyperledger.dev
     teams:
-      read-only: read
       security-managers: read
     visibility: public
   - name: hyperledger.github.io
     teams:
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy
     teams:
       indy-admin: admin
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-besu
@@ -1446,7 +1218,6 @@ repositories:
       indy-admin: admin
       indy-besu-maintainers: admin
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-bls-wrapper-python
@@ -1454,7 +1225,6 @@ repositories:
       indy-admin: admin
       indy-vdr-maintainers: maintain
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-blssignatures-rs
@@ -1463,7 +1233,6 @@ repositories:
       indy-plenum-maintainers: maintain
       indy-vdr-maintainers: maintain
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-cli-rs
@@ -1471,7 +1240,6 @@ repositories:
       indy-admin: admin
       indy-cli-rs-maintainers: maintain
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-did-method
@@ -1479,7 +1247,6 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-did-method-maintainers: admin
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-did-networks
@@ -1487,7 +1254,6 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-did-network-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-docs
@@ -1495,7 +1261,6 @@ repositories:
       indy-admin: admin
       indy-ci: write
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-hipe
@@ -1503,7 +1268,6 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-rfc-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-node
@@ -1514,7 +1278,6 @@ repositories:
       indy-shared-gha-maintainers: maintain
       indy-shared-rs-maintainers: maintain
       indy-test-automation: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-node-container
@@ -1522,7 +1285,6 @@ repositories:
       indy-admin: admin
       indy-common: read
       indy-node-container-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-node-monitor
@@ -1531,7 +1293,6 @@ repositories:
       indy-common: read
       indy-node-monitor-maintainers: maintain
       indy-shared-rs-maintainers: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-plenum
@@ -1542,14 +1303,12 @@ repositories:
       indy-shared-gha-maintainers: maintain
       indy-shared-rs-maintainers: maintain
       indy-test-automation: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-read-replica
     teams:
       indy-admin: admin
       indy-common: read
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-shared-gha
@@ -1558,7 +1317,6 @@ repositories:
       indy-common: read
       indy-shared-gha-maintainers: admin
       indy-plenum-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-shared-rs
@@ -1567,7 +1325,6 @@ repositories:
       indy-common: read
       indy-shared-rs-maintainers: maintain
       indy-vdr-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-test-automation
@@ -1576,7 +1333,6 @@ repositories:
       indy-common: read
       indy-test-automation: maintain
       indy-plenum-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: indy-vdr
@@ -1585,12 +1341,10 @@ repositories:
       indy-common: read
       indy-shared-rs-maintainers: read
       indy-vdr-maintainers: maintain
-      read-only: read
       security-managers: read
     visibility: public
   - name: toc-docs
     teams:
-      read-only: read
       security-managers: read
     visibility: public
   - name: vectors
