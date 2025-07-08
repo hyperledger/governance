@@ -44,13 +44,6 @@ teams:
       - andrewwhitehead
       - berendsliedrecht
       - dkulic
-  - name: aries-acapy-plugin-toolbox-committers
-    maintainers:
-      - TelegramSam
-      - dbluhm
-    members:
-      - cjhowland
-      - TheTechmage
   - name: aries-admins
     maintainers:
       - WadeBarnes
@@ -59,15 +52,6 @@ teams:
       - andrewwhitehead
       - dbluhm
       - swcurran
-  - name: aries-agent-test-harness-committers
-    maintainers:
-      - WadeBarnes
-      - swcurran
-    members:
-      - TimoGlastra
-      - andrewwhitehead
-      - ianco
-      - nodlesh
   - name: aries-bbs-go-maintainers
     maintainers:
       - ale-linux
@@ -92,55 +76,6 @@ teams:
       - esune
       - ianco
       - jamshale
-  - name: aries-fabric-wrapper-maintainers
-    maintainers:
-      - swcurran
-  - name: aries-framework-javascript-committers
-    maintainers:
-      - TimoGlastra
-    members:
-      - JamesKEbert
-      - berendsliedrecht
-      - genaris
-  - name: aries-mobile-agent-react-native-admins
-    maintainers:
-      - JamesKEbert
-    members:
-      - cvarjao
-  - name: aries-mobile-agent-react-native-committers
-    maintainers:
-      - JamesKEbert
-      - jleach
-    members:
-      - amanji
-      - cvarjao
-      - thiagoromanos
-  - name: aries-protocol-test-suite-committers
-    maintainers:
-      - TelegramSam
-      - dbluhm
-  - name: aries-sdk-android-committers
-    maintainers:
-      - mikelodder7
-  - name: aries-sdk-committers
-    maintainers:
-      - TelegramSam
-      - mikelodder7
-    members:
-      - Artemkaaas
-  - name: aries-sdk-java-committers
-    maintainers:
-      - dbluhm
-  - name: aries-sdk-python-committers
-    maintainers:
-      - TelegramSam
-    members:
-      - andrewwhitehead
-  - name: aries-toolbox-committers
-    maintainers:
-      - TelegramSam
-      - dbluhm
-    members:
   - name: aries-triage
     maintainers:
       - cvarjao
@@ -148,25 +83,6 @@ teams:
       - esune
       - Gavinok
       - jamshale
-  - name: aries-vcx-admins
-    maintainers:
-      - Patrik-Stas
-    members:
-      - JamesKEbert
-      - gmulhearn
-  - name: aries-vcx-contributors
-    maintainers:
-      - Patrik-Stas
-    members:
-      - gmulhearn-anonyome
-      - nain-F49FF806
-      - xprazak2
-  - name: aries-vcx-maintainers
-    maintainers:
-      - Patrik-Stas
-    members:
-      - gmulhearn
-      - lukewli-anonyome
   - name: besu-admin
     maintainers:
       - fab-10
@@ -1021,7 +937,6 @@ repositories:
       aries-admins: admin
       aries-contributors: read
       aries-triage: triage
-      aries-vcx-admins: read
       read-only: read
       security-managers: read
     visibility: public
