@@ -307,6 +307,24 @@ teams:
       - tock-ibm
     members:
       - HagarMeir
+  - name: fabric-x-orderer-contributors
+    maintainers:
+      - liran-funaro
+    members:
+      - DorKatzelnick
+      - moradna
+      - gengur
+      - MayRosenbaum
+  - name: fabric-x-triage
+    maintainers:
+      - cendhu
+    members:
+      - liran-funaro
+      - tock-ibm
+      - HagarMeir
+      - adecaro
+      - ale-linux
+      - mbrandenburger
   - name: fabric-zh-cn-doc-maintainers
     maintainers:
       - yeasy
@@ -997,7 +1015,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-x-committer-maintainers: maintain
-      fabric-triage: triage
+      fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-common
@@ -1005,7 +1023,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-x-common-maintainers: maintain
-      fabric-triage: triage
+      fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-endorser
@@ -1013,7 +1031,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-x-endorser-maintainers: maintain
-      fabric-triage: triage
+      fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-orderer
@@ -1021,7 +1039,8 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-x-orderer-maintainers: maintain
-      fabric-triage: triage
+      fabric-x-orderer-contributors: write
+      fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: firefly
