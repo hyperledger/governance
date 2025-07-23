@@ -1010,6 +1010,17 @@ repositories:
       fabric-triage: triage
       security-managers: read
     visibility: public
+  - name: fabric-x
+    teams:
+      fabric-admins: admin
+      fabric-release-maintainers: maintain
+      fabric-x-committer-maintainers: maintain
+      fabric-x-endorser-maintainers: maintain
+      fabric-x-common-maintainers: maintain
+      fabric-x-orderer-maintainers: maintain
+      fabric-x-triage: triage
+      security-managers: read
+    visibility: public  
   - name: fabric-x-committer
     teams:
       fabric-admins: admin
