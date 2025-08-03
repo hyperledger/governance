@@ -290,6 +290,12 @@ teams:
       - liran-funaro
     members:
       - cendhu
+  - name: fabric-x-committer-contributors
+    maintainers:
+      - liran-funaro
+    members:
+      - dean-amar
+      - Effi-S
   - name: fabric-x-common-maintainers
     maintainers:
       - tock-ibm
@@ -1026,6 +1032,7 @@ repositories:
       fabric-admins: admin
       fabric-release-maintainers: maintain
       fabric-x-committer-maintainers: maintain
+      fabric-x-committer-contributors: write
       fabric-x-triage: triage
       security-managers: read
     visibility: public
