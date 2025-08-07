@@ -1380,10 +1380,6 @@ repositories:
       indy-vdr-maintainers: maintain
       security-managers: read
     visibility: public
-  - name: toc-docs
-    teams:
-      security-managers: read
-    visibility: public
   - name: vectors
     collaborators:
       fab-10: admin
