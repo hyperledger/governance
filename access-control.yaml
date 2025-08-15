@@ -285,6 +285,16 @@ teams:
   - name: fabric-website-maintainers
     maintainers:
       - denyeart
+  - name: fabric-x-admins
+    maintainers:
+      - iliecirciumaru
+    members:
+      - mbrandenburger
+  - name: fabric-x-release-maintainers
+    maintainers:
+      - iliecirciumaru
+    members:
+      - pasquale95
   - name: fabric-x-committer-maintainers
     maintainers:
       - liran-funaro
@@ -1018,19 +1028,19 @@ repositories:
     visibility: public
   - name: fabric-x
     teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
-      fabric-x-committer-maintainers: maintain
-      fabric-x-endorser-maintainers: maintain
-      fabric-x-common-maintainers: maintain
-      fabric-x-orderer-maintainers: maintain
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
+      fabric-x-committer-maintainers: write
+      fabric-x-endorser-maintainers: write
+      fabric-x-common-maintainers: write
+      fabric-x-orderer-maintainers: write
       fabric-x-triage: triage
       security-managers: read
     visibility: public  
   - name: fabric-x-committer
     teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
       fabric-x-committer-maintainers: maintain
       fabric-x-committer-contributors: write
       fabric-x-triage: triage
@@ -1038,24 +1048,24 @@ repositories:
     visibility: public
   - name: fabric-x-common
     teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
       fabric-x-common-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-endorser
     teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
       fabric-x-endorser-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-orderer
     teams:
-      fabric-admins: admin
-      fabric-release-maintainers: maintain
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
       fabric-x-orderer-maintainers: maintain
       fabric-x-orderer-contributors: write
       fabric-x-triage: triage
