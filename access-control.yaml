@@ -620,7 +620,6 @@ teams:
       - Echsecutor
       - swcurran
     members:
-      - c2bo
       - mgmgwi
   - name: indy-node-monitor-maintainers
     maintainers:
