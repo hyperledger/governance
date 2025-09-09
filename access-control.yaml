@@ -345,6 +345,7 @@ teams:
     maintainers:
       - yeasy
     members:
+      - davidkhala
   - name: firefly
     maintainers:
       - EnriqueL8
