@@ -279,9 +279,6 @@ teams:
       - tock-ibm
       - yacovm
       - yeasy
-  - name: fabric-ur-ur-maintainers
-    maintainers:
-      - ryjones
   - name: fabric-website-maintainers
     maintainers:
       - denyeart
@@ -615,9 +612,6 @@ teams:
   - name: indy-sdk-react-native-maintainers
     maintainers:
       - TimoGlastra
-  - name: indy-security
-    maintainers:
-      - ryjones
   - name: indy-shared-gha-maintainers
     maintainers:
       - WadeBarnes
@@ -675,11 +669,6 @@ teams:
       - ryjones
     members:
       - denyeart
-  - name: lochness-admins
-    maintainers:
-      - ryjones
-    members:
-      - survived
 repositories:
   - name: .github
     teams:
@@ -903,7 +892,6 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-ja-jp-doc-maintainers: maintain
       fabric-release-maintainers: maintain
-      fabric-ur-ur-maintainers: write
       fabric-zh-cn-doc-maintainers: maintain
       fabric-triage: triage
       security-managers: read
