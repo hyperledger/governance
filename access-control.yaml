@@ -13,6 +13,7 @@ teams:
     members:
       - TelegramSam
       - dkulic
+      - bryce-mcmath
   - name: anoncreds-maintainers
     maintainers:
       - swcurran
@@ -637,6 +638,7 @@ teams:
       - berendsliedrecht
       - ianco
       - esune
+      - bryce-mcmath
   - name: lf-employees
     maintainers:
       - SeanBohan
