@@ -106,6 +106,7 @@ teams:
       - joshuafernandes
     members:
       - alexandratran
+      - m4sterbunny
   - name: besu-maintainers
     maintainers:
       - fab-10
