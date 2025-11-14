@@ -752,13 +752,6 @@ repositories:
       anoncreds-v2-rs-maintainers: maintain
       security-managers: read
     visibility: public
-  - name: aries
-    teams:
-      aries-admins: admin
-      aries-contributors: read
-      aries-triage: triage
-      security-managers: read
-    visibility: public
   - name: aries-bbs-go
     teams:
       aries-admins: admin
