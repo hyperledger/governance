@@ -1020,6 +1020,16 @@ repositories:
       fabric-x-triage: triage
       security-managers: read
     visibility: public
+  - name: fabric-x-rfcs
+    teams:
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
+      fabric-x-committer-maintainers: maintain
+      fabric-x-endorser-maintainers: maintain
+      fabric-x-common-maintainers: maintain
+      fabric-x-orderer-maintainers: maintain
+      fabric-x-triage: triage
+      security-managers: read
   - name: firefly
     teams:
       firefly: read
