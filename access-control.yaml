@@ -45,45 +45,6 @@ teams:
       - andrewwhitehead
       - berendsliedrecht
       - dkulic
-  - name: aries-admins
-    maintainers:
-      - WadeBarnes
-    members:
-      - TimoGlastra
-      - andrewwhitehead
-      - dbluhm
-      - swcurran
-  - name: aries-bbs-go-maintainers
-    maintainers:
-      - ale-linux
-    members:
-      - yacovm
-  - name: aries-bbs-maintainers
-    maintainers:
-      - WadeBarnes
-      - andrewwhitehead
-    members:
-      - TimoGlastra
-      - berendsliedrecht
-      - mikelodder7
-      - swcurran
-  - name: aries-contributors
-    maintainers:
-      - TelegramSam
-      - WadeBarnes
-      - swcurran
-    members:
-      - dbluhm
-      - esune
-      - ianco
-      - jamshale
-  - name: aries-triage
-    maintainers:
-      - cvarjao
-    members:
-      - esune
-      - Gavinok
-      - jamshale
   - name: besu-admin
     maintainers:
       - fab-10
@@ -750,18 +711,6 @@ repositories:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-v2-rs-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: aries-bbs-go
-    teams:
-      aries-admins: admin
-      aries-bbs-go-maintainers: admin
-      aries-bbs-maintainers: maintain
-      aries-triage: triage
-      fabric-admins: write
-      fabric-core-maintainers: write
-      fabric-maintainers: write
-      fabric-release-maintainers: write
       security-managers: read
     visibility: public
   - name: besu
