@@ -639,32 +639,11 @@ repositories:
     teams:
       security-managers: read
     visibility: public
-  - name: anoncreds
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      security-managers: read
-    visibility: public
   - name: anoncreds-clsignatures-rs
     teams:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-methods-registry
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-revocation
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
-      anoncreds-spec-editors: maintain
       security-managers: read
     visibility: public
   - name: anoncreds-rs
@@ -674,43 +653,11 @@ repositories:
       anoncreds-maintainers: maintain
       security-managers: read
     visibility: public
-  - name: anoncreds-spec
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
-      anoncreds-spec-editors: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-spec-v2
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-spec-v2-editors: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-tex
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
-      anoncreds-spec-editors: triage
-      anoncreds-spec-v2-editors: triage
-      anoncreds-v2-rs-maintainers: triage
-      security-managers: read
-    visibility: public
   - name: anoncreds-wrapper-javascript
     teams:
       anoncreds-admins: admin
       anoncreds-contributors: read
       anoncreds-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-v2-rs
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-v2-rs-maintainers: maintain
       security-managers: read
     visibility: public
   - name: besu
