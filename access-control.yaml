@@ -215,8 +215,7 @@ teams:
     maintainers:
       - denyeart
     members:
-      - davidkel
-      - mbwhite
+      - Thomas-Leung
   - name: fabric-test-toolchain-maintainers
     maintainers:
       - denyeart
