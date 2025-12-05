@@ -1,50 +1,4 @@
 teams:
-  - name: anoncreds-admins
-    maintainers:
-      - WadeBarnes
-      - andrewwhitehead
-      - swcurran
-    members:
-      - TimoGlastra
-      - mikelodder7
-  - name: anoncreds-contributors
-    maintainers:
-      - swcurran
-    members:
-      - TelegramSam
-      - dkulic
-      - bryce-mcmath
-  - name: anoncreds-maintainers
-    maintainers:
-      - swcurran
-    members:
-      - TelegramSam
-      - WadeBarnes
-      - andrewwhitehead
-      - berendsliedrecht
-      - dkulic
-      - genaris
-  - name: anoncreds-spec-editors
-    maintainers:
-      - swcurran
-    members:
-      - TelegramSam
-  - name: anoncreds-spec-v2-editors
-    maintainers:
-      - swcurran
-    members:
-      - TelegramSam
-      - mikelodder7
-  - name: anoncreds-v2-rs-maintainers
-    maintainers:
-      - mikelodder7
-      - swcurran
-    members:
-      - TimoGlastra
-      - WadeBarnes
-      - andrewwhitehead
-      - berendsliedrecht
-      - dkulic
   - name: besu-admin
     maintainers:
       - fab-10
@@ -636,27 +590,6 @@ teams:
 repositories:
   - name: .github
     teams:
-      security-managers: read
-    visibility: public
-  - name: anoncreds-clsignatures-rs
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-rs
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: anoncreds-wrapper-javascript
-    teams:
-      anoncreds-admins: admin
-      anoncreds-contributors: read
-      anoncreds-maintainers: maintain
       security-managers: read
     visibility: public
   - name: besu
