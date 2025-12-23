@@ -926,10 +926,6 @@ repositories:
     teams:
       indy-admin: admin
     visibility: public
-  - name: indy-did-networks
-    teams:
-      indy-admin: admin
-    visibility: public
   - name: vectors
     collaborators:
       fab-10: admin
