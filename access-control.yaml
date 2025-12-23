@@ -432,6 +432,10 @@ teams:
       - awrichar
       - dechdev
       - shorsher
+   - name: indy-admin
+    maintainers:
+      - swcurran
+      - WadeBarnes
   - name: lf-employees
     maintainers:
       - SeanBohan
@@ -917,6 +921,14 @@ repositories:
   - name: hyperledger.github.io
     teams:
       security-managers: read
+    visibility: public
+  - name: indy-did-method
+    teams:
+      indy-admin: admin
+    visibility: public
+  - name: indy-did-networks
+    teams:
+      indy-admin: admin
     visibility: public
   - name: vectors
     collaborators:
