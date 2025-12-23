@@ -432,7 +432,7 @@ teams:
       - awrichar
       - dechdev
       - shorsher
-   - name: indy-admin
+  - name: indy-admin
     maintainers:
       - swcurran
       - WadeBarnes
