@@ -925,6 +925,7 @@ repositories:
   - name: indy-did-method
     teams:
       indy-admin: admin
+      security-managers: read
     visibility: public
   - name: vectors
     collaborators:
