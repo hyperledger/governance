@@ -238,12 +238,15 @@ teams:
       - HagarMeir
   - name: fabric-x-orderer-contributors
     maintainers:
-      - liran-funaro
+      - tock-ibm
     members:
+      - liran-funaro
       - DorKatzelnick
       - moradna
       - gengur
       - MayRosenbaum
+      - moran-abilea
+      - HagarMeir
   - name: fabric-x-triage
     maintainers:
       - cendhu
