@@ -492,15 +492,6 @@ repositories:
       besu-triage: triage
       security-managers: read
     visibility: public
-  - name: besu-native
-    teams:
-      besu-admin: admin
-      besu-contributors: write
-      besu-docs-maintainers: triage
-      besu-maintainers: maintain
-      besu-triage: triage
-      security-managers: read
-    visibility: public
   - name: besu-stateless
     teams:
       besu-admin: admin
