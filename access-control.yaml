@@ -919,12 +919,3 @@ repositories:
       indy-admin: admin
       security-managers: read
     visibility: public
-  - name: vectors
-    collaborators:
-      fab-10: admin
-      garyschulte: admin
-      jflo: admin
-      matkt: admin
-    teams:
-      security-managers: read
-    visibility: private
