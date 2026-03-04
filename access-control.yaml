@@ -897,15 +897,6 @@ repositories:
     teams:
       security-managers: read
     visibility: public
-  - name: homebrew-besu
-    teams:
-      besu-admin: admin
-      besu-contributors: write
-      besu-docs-maintainers: triage
-      besu-maintainers: maintain
-      besu-triage: triage
-      security-managers: read
-    visibility: public
   - name: hyperledger.dev
     teams:
       security-managers: read
