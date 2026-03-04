@@ -483,15 +483,6 @@ repositories:
       besu-triage: triage
       security-managers: read
     visibility: public
-  - name: besu-docs
-    teams:
-      besu-admin: admin
-      besu-contributors: write
-      besu-docs-maintainers: admin
-      besu-maintainers: triage
-      besu-triage: triage
-      security-managers: read
-    visibility: public
   - name: besu-stateless
     teams:
       besu-admin: admin
