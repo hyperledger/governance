@@ -413,6 +413,12 @@ teams:
       - ryjones
     members:
       - denyeart
+  - name: fabric-x-evm-maintainers
+    maintainers:
+      - ale-linux
+    members:
+      - arner
+      - kushnireyal
 repositories:
   - name: .github
     teams:
@@ -603,7 +609,7 @@ repositories:
       fabric-x-orderer-maintainers: write
       fabric-x-triage: triage
       security-managers: read
-    visibility: public  
+    visibility: public
   - name: fabric-x-committer
     teams:
       fabric-x-admins: admin
@@ -825,5 +831,13 @@ repositories:
   - name: indy-did-method
     teams:
       indy-admin: admin
+      security-managers: read
+    visibility: public
+  - name: fabric-x-evm
+    teams:
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
+      fabric-x-evm-maintainers: admin
+      fabric-x-triage: triage
       security-managers: read
     visibility: public
