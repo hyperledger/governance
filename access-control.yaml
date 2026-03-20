@@ -417,6 +417,14 @@ teams:
     maintainers:
       - ale-linux
     members:
+      - mbrandenburger
+      - arner
+      - kushnireyal
+  - name: fabric-x-sdk-maintainers
+    maintainers:
+      - ale-linux
+    members:
+      - mbrandenburger
       - arner
       - kushnireyal
 repositories:
@@ -838,6 +846,14 @@ repositories:
       fabric-x-admins: admin
       fabric-x-release-maintainers: maintain
       fabric-x-evm-maintainers: admin
+      fabric-x-triage: triage
+      security-managers: read
+    visibility: public
+  - name: fabric-x-sdk
+    teams:
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
+      fabric-x-sdk-maintainers: admin
       fabric-x-triage: triage
       security-managers: read
     visibility: public
