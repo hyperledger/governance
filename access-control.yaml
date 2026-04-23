@@ -616,6 +616,8 @@ repositories:
       fabric-x-endorser-maintainers: write
       fabric-x-common-maintainers: write
       fabric-x-orderer-maintainers: write
+      fabric-x-evm-maintainers: write
+      fabric-x-sdk-maintainers: write
       fabric-x-triage: triage
       security-managers: read
     visibility: public
@@ -661,6 +663,20 @@ repositories:
       fabric-x-endorser-maintainers: maintain
       fabric-x-common-maintainers: maintain
       fabric-x-orderer-maintainers: maintain
+      fabric-x-evm-maintainers: maintain
+      fabric-x-sdk-maintainers: maintain
+      fabric-x-triage: triage
+      security-managers: read
+  - name: fabric-x-samples
+    teams:
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
+      fabric-x-committer-maintainers: write
+      fabric-x-endorser-maintainers: write
+      fabric-x-common-maintainers: write
+      fabric-x-orderer-maintainers: write
+      fabric-x-evm-maintainers: write
+      fabric-x-sdk-maintainers: write
       fabric-x-triage: triage
       security-managers: read
   - name: firefly
