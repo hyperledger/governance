@@ -697,13 +697,6 @@ repositories:
       firefly-contributors: read
       security-managers: read
     visibility: public
-  - name: firefly-common
-    teams:
-      firefly-admins: admin
-      firefly-common-maintainers: maintain
-      firefly-contributors: read
-      security-managers: read
-    visibility: public
   - name: firefly-cordaconnect
     teams:
       firefly: read
