@@ -697,59 +697,11 @@ repositories:
       firefly-contributors: read
       security-managers: read
     visibility: public
-  - name: firefly-cordaconnect
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-cordaconnect-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-dataexchange-https
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-dataexchange-https-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-ethconnect
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-ethconnect-maintainers: maintain
-      security-managers: read
-    visibility: public
   - name: firefly-evmconnect
     teams:
       firefly-admins: admin
       firefly-contributors: read
       firefly-evmconnect-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-fabconnect
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-fabconnect-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-fir
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-fir-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-helm-charts
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-helm-charts-maintainers: maintain
       security-managers: read
     visibility: public
   - name: firefly-perf-cli
@@ -760,26 +712,11 @@ repositories:
       firefly-perf-cli-maintainers: maintain
       security-managers: read
     visibility: public
-  - name: firefly-samples
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-samples-maintainers: maintain
-      security-managers: read
-    visibility: public
   - name: firefly-sandbox
     teams:
       firefly-admins: admin
       firefly-contributors: read
       firefly-sandbox-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-sdk-nodejs
-    teams:
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-sdk-nodejs-maintainers: maintain
       security-managers: read
     visibility: public
   - name: firefly-signer
@@ -797,43 +734,11 @@ repositories:
       firefly-tezosconnect-maintainers: maintain
       security-managers: read
     visibility: public
-  - name: firefly-cardano
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-cardano: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-tokens-erc1155
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-tokens-erc1155-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-tokens-erc20-erc721
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-tokens-erc20-erc721-maintainers: maintain
-      security-managers: read
-    visibility: public
   - name: firefly-transaction-manager
     teams:
       firefly-admins: admin
       firefly-contributors: read
       firefly-transaction-manager-maintainers: maintain
-      security-managers: read
-    visibility: public
-  - name: firefly-ui
-    teams:
-      firefly: read
-      firefly-admins: admin
-      firefly-contributors: read
-      firefly-ui-maintainers: maintain
       security-managers: read
     visibility: public
   - name: governance
