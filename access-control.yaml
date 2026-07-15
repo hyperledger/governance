@@ -14,9 +14,9 @@ teams:
     maintainers:
       - denyeart
     members:
+      - adecaro
       - bestbeforetoday
       - pasquale95
-      - adecaro
   - name: fabric-chaincode-java-maintainers
     maintainers:
       - denyeart
@@ -30,6 +30,7 @@ teams:
   - name: fabric-cli-maintainers
     maintainers:
       - denyeart
+    members: []
   - name: fabric-contract-api-go-maintainers
     maintainers:
       - denyeart
@@ -45,7 +46,7 @@ teams:
   - name: fabric-core-doc-maintainers
     maintainers:
       - denyeart
-    members:
+    members: []
   - name: fabric-core-maintainers
     maintainers:
       - denyeart
@@ -62,6 +63,7 @@ teams:
     maintainers:
       - andrew-coleman
       - bestbeforetoday
+    members: []
   - name: fabric-ja-jp-doc-maintainers
     maintainers:
       - satota2
@@ -73,6 +75,7 @@ teams:
   - name: fabric-lib-go-maintainers
     maintainers:
       - denyeart
+    members: []
   - name: fabric-maintainers
     maintainers:
       - denyeart
@@ -108,7 +111,7 @@ teams:
     maintainers:
       - denyeart
       - yeasy
-    members:
+    members: []
   - name: fabric-test-maintainers
     maintainers:
       - denyeart
@@ -123,18 +126,18 @@ teams:
     maintainers:
       - denyeart
     members:
+      - C0rWin
+      - MuthuSundaravadivel
+      - SamYuan1990
       - ale-linux
       - andrew-coleman
       - benjsmi
       - bestbeforetoday
-      - C0rWin
       - jt-nti
       - manish-sethi
       - mbwhite
-      - MuthuSundaravadivel
       - pfi79
       - s7santosh
-      - SamYuan1990
       - satota2
       - tock-ibm
       - yacovm
@@ -142,27 +145,23 @@ teams:
   - name: fabric-website-maintainers
     maintainers:
       - denyeart
+    members: []
   - name: fabric-x-admins
     maintainers:
       - iliecirciumaru
     members:
       - mbrandenburger
-  - name: fabric-x-release-maintainers
+  - name: fabric-x-committer-contributors
     maintainers:
-      - iliecirciumaru
+      - liran-funaro
     members:
-      - pasquale95
+      - Effi-S
+      - dean-amar
   - name: fabric-x-committer-maintainers
     maintainers:
       - liran-funaro
     members:
       - cendhu
-  - name: fabric-x-committer-contributors
-    maintainers:
-      - liran-funaro
-    members:
-      - dean-amar
-      - Effi-S
   - name: fabric-x-common-maintainers
     maintainers:
       - tock-ibm
@@ -175,32 +174,51 @@ teams:
     members:
       - ale-linux
       - mbrandenburger
+  - name: fabric-x-evm-maintainers
+    maintainers:
+      - ale-linux
+    members:
+      - arner
+      - kushnireyal
+      - mbrandenburger
+  - name: fabric-x-orderer-contributors
+    maintainers:
+      - tock-ibm
+    members:
+      - DorKatzelnick
+      - HagarMeir
+      - MayRosenbaum
+      - gengur
+      - liran-funaro
+      - moradna
+      - moran-abilea
   - name: fabric-x-orderer-maintainers
     maintainers:
       - tock-ibm
     members:
       - HagarMeir
-  - name: fabric-x-orderer-contributors
+  - name: fabric-x-release-maintainers
     maintainers:
-      - tock-ibm
+      - iliecirciumaru
     members:
-      - liran-funaro
-      - DorKatzelnick
-      - moradna
-      - gengur
-      - MayRosenbaum
-      - moran-abilea
-      - HagarMeir
+      - pasquale95
+  - name: fabric-x-sdk-maintainers
+    maintainers:
+      - ale-linux
+    members:
+      - arner
+      - kushnireyal
+      - mbrandenburger
   - name: fabric-x-triage
     maintainers:
       - cendhu
     members:
-      - liran-funaro
-      - tock-ibm
       - HagarMeir
       - adecaro
       - ale-linux
+      - liran-funaro
       - mbrandenburger
+      - tock-ibm
   - name: fabric-zh-cn-doc-maintainers
     maintainers:
       - yeasy
@@ -208,8 +226,9 @@ teams:
       - davidkhala
   - name: indy-admin
     maintainers:
-      - swcurran
       - WadeBarnes
+      - swcurran
+    members: []
   - name: lf-employees
     maintainers:
       - SeanBohan
@@ -228,39 +247,30 @@ teams:
       - mkdolan
   - name: robots
     maintainers:
+      - hyperledger-bot
       - ryjones
     members:
       - coveralls
-      - hyperledger-bot
       - hyperledger-ci
   - name: security-managers
     maintainers:
       - hartm
       - ryjones
+    members: []
   - name: security-review
     maintainers:
       - ryjones
     members:
       - denyeart
-  - name: fabric-x-evm-maintainers
-    maintainers:
-      - ale-linux
-    members:
-      - mbrandenburger
-      - arner
-      - kushnireyal
-  - name: fabric-x-sdk-maintainers
-    maintainers:
-      - ale-linux
-    members:
-      - mbrandenburger
-      - arner
-      - kushnireyal
 repositories:
   - name: .github
     teams:
       security-managers: read
     visibility: public
+  - name: chat
+    teams:
+      security-managers: read
+    visibility: private
   - name: fabric
     teams:
       fabric-admins: admin
@@ -350,8 +360,8 @@ repositories:
       fabric-core-maintainers: maintain
       fabric-ja-jp-doc-maintainers: maintain
       fabric-release-maintainers: maintain
-      fabric-zh-cn-doc-maintainers: maintain
       fabric-triage: triage
+      fabric-zh-cn-doc-maintainers: maintain
       security-managers: read
     visibility: public
   - name: fabric-gateway
@@ -439,12 +449,12 @@ repositories:
   - name: fabric-x
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
       fabric-x-committer-maintainers: write
-      fabric-x-endorser-maintainers: write
       fabric-x-common-maintainers: write
-      fabric-x-orderer-maintainers: write
+      fabric-x-endorser-maintainers: write
       fabric-x-evm-maintainers: write
+      fabric-x-orderer-maintainers: write
+      fabric-x-release-maintainers: maintain
       fabric-x-sdk-maintainers: write
       fabric-x-triage: triage
       security-managers: read
@@ -452,83 +462,68 @@ repositories:
   - name: fabric-x-committer
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
-      fabric-x-committer-maintainers: maintain
       fabric-x-committer-contributors: write
+      fabric-x-committer-maintainers: maintain
+      fabric-x-release-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-common
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
       fabric-x-common-maintainers: maintain
+      fabric-x-release-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-endorser
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
       fabric-x-endorser-maintainers: maintain
+      fabric-x-release-maintainers: maintain
+      fabric-x-triage: triage
+      security-managers: read
+    visibility: public
+  - name: fabric-x-evm
+    teams:
+      fabric-x-admins: admin
+      fabric-x-evm-maintainers: admin
+      fabric-x-release-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-orderer
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
-      fabric-x-orderer-maintainers: maintain
       fabric-x-orderer-contributors: write
+      fabric-x-orderer-maintainers: maintain
+      fabric-x-release-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
   - name: fabric-x-rfcs
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
       fabric-x-committer-maintainers: maintain
-      fabric-x-endorser-maintainers: maintain
       fabric-x-common-maintainers: maintain
-      fabric-x-orderer-maintainers: maintain
+      fabric-x-endorser-maintainers: maintain
       fabric-x-evm-maintainers: maintain
+      fabric-x-orderer-maintainers: maintain
+      fabric-x-release-maintainers: maintain
       fabric-x-sdk-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
+    visibility: public
   - name: fabric-x-samples
     teams:
       fabric-x-admins: admin
-      fabric-x-release-maintainers: maintain
       fabric-x-committer-maintainers: write
-      fabric-x-endorser-maintainers: write
       fabric-x-common-maintainers: write
-      fabric-x-orderer-maintainers: write
+      fabric-x-endorser-maintainers: write
       fabric-x-evm-maintainers: write
-      fabric-x-sdk-maintainers: write
-      fabric-x-triage: triage
-      security-managers: read
-  - name: governance
-    teams:
-      security-managers: read
-    visibility: public
-  - name: hyperledger.dev
-    teams:
-      security-managers: read
-    visibility: public
-  - name: hyperledger.github.io
-    teams:
-      security-managers: read
-    visibility: public
-  - name: indy-did-method
-    teams:
-      indy-admin: admin
-      security-managers: read
-    visibility: public
-  - name: fabric-x-evm
-    teams:
-      fabric-x-admins: admin
+      fabric-x-orderer-maintainers: write
       fabric-x-release-maintainers: maintain
-      fabric-x-evm-maintainers: admin
+      fabric-x-sdk-maintainers: write
       fabric-x-triage: triage
       security-managers: read
     visibility: public
@@ -538,5 +533,13 @@ repositories:
       fabric-x-release-maintainers: maintain
       fabric-x-sdk-maintainers: admin
       fabric-x-triage: triage
+      security-managers: read
+    visibility: public
+  - name: governance
+    teams:
+      security-managers: read
+    visibility: public
+  - name: hyperledger.github.io
+    teams:
       security-managers: read
     visibility: public
