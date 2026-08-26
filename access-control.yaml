@@ -224,11 +224,6 @@ teams:
       - yeasy
     members:
       - davidkhala
-  - name: indy-admin
-    maintainers:
-      - WadeBarnes
-      - swcurran
-    members: []
   - name: lf-employees
     maintainers:
       - SeanBohan
@@ -256,12 +251,10 @@ teams:
     maintainers:
       - hartm
       - ryjones
-    members: []
-  - name: security-review
-    maintainers:
-      - ryjones
     members:
+      - adecaro
       - denyeart
+      - mbrandenburger
 repositories:
   - name: .github
     teams:
