@@ -255,6 +255,7 @@ teams:
       - adecaro
       - denyeart
       - mbrandenburger
+      - tock-ibm
 repositories:
   - name: .github
     teams:
