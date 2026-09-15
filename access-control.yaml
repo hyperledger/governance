@@ -540,3 +540,7 @@ repositories:
     teams:
       security-managers: read
     visibility: public
+  - name: security-tracking
+    teams:
+      security-managers: triage
+    visibility: private
