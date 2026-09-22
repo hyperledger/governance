@@ -3,8 +3,8 @@ teams:
     maintainers:
       - denyeart
     members:
-      - SamYuan1990
       - bestbeforetoday
+      - SamYuan1990
   - name: fabric-admins
     maintainers:
       - denyeart
@@ -51,9 +51,9 @@ teams:
     maintainers:
       - denyeart
     members:
-      - C0rWin
       - ale-linux
       - andrew-coleman
+      - C0rWin
       - manish-sethi
       - pfi79
       - satota2
@@ -80,8 +80,8 @@ teams:
     maintainers:
       - denyeart
     members:
-      - C0rWin
       - ale-linux
+      - C0rWin
       - manish-sethi
       - yacovm
   - name: fabric-private-chaincode-committers
@@ -126,18 +126,18 @@ teams:
     maintainers:
       - denyeart
     members:
-      - C0rWin
-      - MuthuSundaravadivel
-      - SamYuan1990
       - ale-linux
       - andrew-coleman
       - benjsmi
       - bestbeforetoday
+      - C0rWin
       - jt-nti
       - manish-sethi
       - mbwhite
+      - MuthuSundaravadivel
       - pfi79
       - s7santosh
+      - SamYuan1990
       - satota2
       - tock-ibm
       - yacovm
@@ -155,8 +155,8 @@ teams:
     maintainers:
       - liran-funaro
     members:
-      - Effi-S
       - dean-amar
+      - Effi-S
   - name: fabric-x-committer-maintainers
     maintainers:
       - liran-funaro
@@ -186,10 +186,10 @@ teams:
       - tock-ibm
     members:
       - DorKatzelnick
-      - HagarMeir
-      - MayRosenbaum
       - gengur
+      - HagarMeir
       - liran-funaro
+      - MayRosenbaum
       - moradna
       - moran-abilea
   - name: fabric-x-orderer-maintainers
@@ -213,9 +213,9 @@ teams:
     maintainers:
       - cendhu
     members:
-      - HagarMeir
       - adecaro
       - ale-linux
+      - HagarMeir
       - liran-funaro
       - mbrandenburger
       - tock-ibm
@@ -226,12 +226,12 @@ teams:
       - davidkhala
   - name: lf-employees
     maintainers:
-      - SeanBohan
       - askb
       - eb-oss
       - hartm
       - jwagantall
       - ryjones
+      - SeanBohan
       - thelinuxfoundation
       - tykeal
       - vvalderrv
@@ -252,11 +252,19 @@ teams:
       - hartm
       - ryjones
     members:
-      - C0rWin
       - adecaro
       - bestbeforetoday
+      - C0rWin
       - denyeart
       - mbrandenburger
+      - pfi79
+      - tock-ibm
+  - name: smartbft-maintainers
+    maintainers:
+      - yacovm
+    members:
+      - C0rWin
+      - HagarMeir
       - pfi79
       - tock-ibm
 repositories:
@@ -544,3 +552,8 @@ repositories:
     teams:
       security-managers: triage
     visibility: private
+  - name: SmartBFT
+    teams:
+      security-managers: read
+      smartbft-maintainers: maintain
+    visibility: public
