@@ -27,6 +27,11 @@ teams:
       - denyeart
     members:
       - bestbeforetoday
+  - name: fabric-chaincode-python-maintainers
+    maintainers:
+      - denyeart
+    members:
+      - kmilodenisglez
   - name: fabric-cli-maintainers
     maintainers:
       - denyeart
@@ -329,6 +334,14 @@ repositories:
     teams:
       fabric-admins: admin
       fabric-chaincode-node-maintainers: admin
+      fabric-release-maintainers: maintain
+      fabric-triage: triage
+      security-managers: read
+    visibility: public
+  - name: fabric-chaincode-python
+    teams:
+      fabric-admins: admin
+      fabric-chaincode-python-maintainers: maintain
       fabric-release-maintainers: maintain
       fabric-triage: triage
       security-managers: read
