@@ -186,6 +186,13 @@ teams:
       - arner
       - kushnireyal
       - mbrandenburger
+  - name: fabric-x-migrate-maintainers
+    maintainers:
+      - tock-ibm
+    members:
+      - cendhu
+      - liran-funaro
+      - syndbg
   - name: fabric-x-orderer-contributors
     maintainers:
       - tock-ibm
@@ -507,6 +514,15 @@ repositories:
       fabric-x-admins: admin
       fabric-x-evm-maintainers: admin
       fabric-x-release-maintainers: maintain
+      fabric-x-triage: triage
+      security-managers: read
+    visibility: public
+  - name: fabric-x-migrate
+    teams:
+      fabric-x-admins: admin
+      fabric-x-release-maintainers: maintain
+      fabric-x-sdk-maintainers: admin
+      fabric-x-migrate-maintainers: maintain
       fabric-x-triage: triage
       security-managers: read
     visibility: public
