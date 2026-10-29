@@ -173,6 +173,18 @@ teams:
     members:
       - cendhu
       - liran-funaro
+  - name: fabric-x-common-contributors
+    maintainers:
+      - tock-ibm
+    members:
+      - DorKatzelnick
+      - HagarMeir
+      - MayRosenbaum
+      - moradna
+      - moran-abilea
+      - cendhu
+      - liran-funaro
+      - dean-amar
   - name: fabric-x-endorser-maintainers
     maintainers:
       - adecaro
@@ -209,6 +221,8 @@ teams:
       - tock-ibm
     members:
       - HagarMeir
+      - MayRosenbaum
+      - DorKatzelnick
   - name: fabric-x-release-maintainers
     maintainers:
       - iliecirciumaru
@@ -498,6 +512,7 @@ repositories:
       fabric-x-admins: admin
       fabric-x-common-maintainers: maintain
       fabric-x-release-maintainers: maintain
+      fabric-x-common-contributors: write
       fabric-x-triage: triage
       security-managers: read
     visibility: public
